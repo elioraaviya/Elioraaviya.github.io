@@ -48,8 +48,8 @@ for (let i = 0; i < 5; i++) {
 // Take the text Claude wrote after its last search, and pull out the JSON.
 const blocks = reply.content;
 const lastSearch = blocks.map(b => b.type).lastIndexOf("web_search_tool_result");
-const text = blocks.slice(lastSearch + 1).filter(b => b.type === "text").map(b => b.text).join("\n");
-const clean = text.replace(/```json|```/g, "");
+const text = blocks.slice(lastSearch + 1).filter(b => b.type === "text").map(b => b.text).join("");
+const clean = text.replace(/```json|```/g, "").replace(/[\u0000-\u001F]+/g, " ");
 const start = clean.indexOf("{"), end = clean.lastIndexOf("}");
 if (start === -1 || end === -1) throw new Error("No JSON in Claude's reply:\n" + text);
 const raw = JSON.parse(clean.slice(start, end + 1));
