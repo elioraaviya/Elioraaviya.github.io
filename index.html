@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Intersection – Sport, fashion and marketing, daily</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #F6F7F9;
+  --surface: #FFFFFF;
+  --ink: #1B1D26;
+  --muted: #5D6273;
+  --rule: #DADDE5;
+  --sport: #2F52F0;
+  --fashion: #E0437A;
+  --marketing: #E9A900;
+  --band: #1B1D26;
+  --band-ink: #F6F7F9;
+  --band-muted: #B4B8C6;
+  --blend: multiply;
+  --circle-opacity: .6;
+  color-scheme: light;
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #15171E;
+    --surface: #1D2029;
+    --ink: #EEF0F5;
+    --muted: #A2A7B6;
+    --rule: #323644;
+    --sport: #6F8BFF;
+    --fashion: #FF6E9F;
+    --marketing: #FFC93D;
+    --band: #0E1015;
+    --band-ink: #EEF0F5;
+    --band-muted: #9CA1B1;
+    --blend: screen;
+    --circle-opacity: .55;
+    color-scheme: dark;
+  }
+}
+*, *::before, *::after { box-sizing: inherit; }
+html, body { margin: 0; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size: 1.0625rem;
+  line-height: 1.55;
+}
+a { color: inherit; }
+a:focus-visible, button:focus-visible, textarea:focus-visible, summary:focus-visible {
+  outline: 3px solid var(--sport);
+  outline-offset: 3px;
+}
+.wrap { max-width: 78rem; margin: 0 auto; padding: 0 1.25rem; }
+
+/* Masthead */
+header.masthead { padding: 2.5rem 0 2rem; border-bottom: 2px solid var(--ink); }
+.masthead h1 {
+  font-family: "Archivo", "Arial Narrow", Arial, sans-serif;
+  font-stretch: 125%;
+  font-weight: 900;
+  font-size: clamp(2.4rem, 8vw, 5.5rem);
+  line-height: .92;
+  letter-spacing: -.02em;
+  margin: 0;
+}
+.masthead p { margin: .9rem 0 0; color: var(--muted); max-width: 40rem; }
+.masthead time { color: var(--ink); font-weight: 600; }
+
+/* Notice */
+.notice {
+  margin: 1.25rem 0 0;
+  padding: .8rem 1rem;
+  border-left: 4px solid var(--marketing);
+  background: var(--surface);
+  font-size: .95rem;
+}
+.notice[hidden] { display: none; }
+
+/* Three columns */
+.columns {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+  padding: 2.5rem 0 1rem;
+}
+.column h2 {
+  font-family: "Archivo", "Arial Narrow", Arial, sans-serif;
+  font-stretch: 100%;
+  font-weight: 800;
+  font-size: 1.6rem;
+  margin: 0 0 .25rem;
+  padding-top: .7rem;
+  border-top: 6px solid var(--cat);
+}
+.column .count { margin: 0 0 1rem; color: var(--muted); font-size: .9rem; }
+.col-sport { --cat: var(--sport); }
+.col-fashion { --cat: var(--fashion); }
+.col-marketing { --cat: var(--marketing); }
+
+ol.stories { list-style: none; margin: 0; padding: 0; counter-reset: rank; }
+ol.stories li {
+  counter-increment: rank;
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: 0 .5rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+ol.stories li::before {
+  content: counter(rank);
+  font-family: "Archivo", Arial, sans-serif;
+  font-weight: 800;
+  font-size: 1.15rem;
+  color: var(--cat, var(--ink));
+  line-height: 1.3;
+}
+.story h3 {
+  font-family: "Archivo", Arial, sans-serif;
+  font-stretch: 92%;
+  font-weight: 700;
+  font-size: 1.08rem;
+  line-height: 1.25;
+  margin: 0 0 .35rem;
+}
+.story h3 a { text-decoration: none; }
+.story h3 a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.story p { margin: 0 0 .5rem; font-size: .98rem; }
+.meta {
+  display: flex; flex-wrap: wrap; align-items: center; gap: .35rem .9rem;
+  font-family: "Archivo", Arial, sans-serif;
+  font-size: .8rem; color: var(--muted);
+}
+.scores { display: inline-flex; gap: .25rem; align-items: center; }
+.dot {
+  width: .7rem; height: .7rem; border-radius: 50%;
+  background: var(--c); opacity: var(--o, .2);
+}
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.empty { color: var(--muted); font-style: italic; padding: 1rem 0; }
+
+/* Venn */
+.venn-wrap { display: flex; justify-content: center; padding: 1.5rem 0 0; }
+.venn { width: min(100%, 26rem); height: auto; overflow: visible; }
+.venn .c { mix-blend-mode: var(--blend); opacity: var(--circle-opacity); }
+.venn text {
+  font-family: "Archivo", Arial, sans-serif; font-weight: 800; font-size: 17px;
+  fill: var(--ink);
+}
+.venn .hatch-line { stroke: var(--ink); stroke-width: 2; }
+
+/* Intersection band */
+section.intersection {
+  background: var(--band); color: var(--band-ink);
+  margin-top: -1px; padding: 2.5rem 0 3rem;
+}
+.intersection h2 {
+  font-family: "Archivo", "Arial Narrow", Arial, sans-serif;
+  font-stretch: 125%; font-weight: 900;
+  font-size: clamp(1.9rem, 5vw, 3rem); line-height: 1; margin: 0;
+}
+.intersection .lede { color: var(--band-muted); margin: .6rem 0 1.5rem; max-width: 38rem; }
+.intersection ol.stories { columns: 2 22rem; column-gap: 2.5rem; }
+.intersection ol.stories li { break-inside: avoid; border-color: #3A3E4D; --cat: var(--band-ink); }
+.intersection .meta { color: var(--band-muted); }
+.intersection .empty { color: var(--band-muted); }
+
+/* Paste panel */
+.loader { padding: 2rem 0 3rem; }
+.loader summary { cursor: pointer; font-family: "Archivo", Arial, sans-serif; font-weight: 700; }
+.loader p { color: var(--muted); font-size: .95rem; max-width: 40rem; }
+.loader textarea {
+  width: 100%; min-height: 10rem; padding: .75rem;
+  font: .85rem/1.4 ui-monospace, Menlo, Consolas, monospace;
+  background: var(--surface); color: var(--ink);
+  border: 1px solid var(--rule); border-radius: 4px;
+}
+.loader button {
+  margin-top: .75rem; padding: .7rem 1.2rem;
+  font: 700 .95rem "Archivo", Arial, sans-serif;
+  background: var(--ink); color: var(--paper);
+  border: 0; border-radius: 4px; cursor: pointer;
+}
+.error { color: var(--fashion); font-weight: 600; margin-top: .6rem; }
+.error:empty { display: none; }
+
+@media (max-width: 860px) {
+  .columns { grid-template-columns: 1fr; gap: 2.5rem; }
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <h1>The Intersection</h1>
+    <p><time id="today"></time>. The day’s best sport, fashion and marketing stories, refreshed every morning at 6am.</p>
+    <p class="notice" id="notice" hidden>You’re seeing sample stories. Paste the JSON from a test run at the bottom of the page to see real results.</p>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <div class="columns">
+      <section class="column col-sport" aria-labelledby="h-sport">
+        <h2 id="h-sport">Sport</h2>
+        <p class="count" id="count-sports"></p>
+        <ol class="stories" id="list-sports"></ol>
+      </section>
+      <section class="column col-fashion" aria-labelledby="h-fashion">
+        <h2 id="h-fashion">Fashion</h2>
+        <p class="count" id="count-fashion"></p>
+        <ol class="stories" id="list-fashion"></ol>
+      </section>
+      <section class="column col-marketing" aria-labelledby="h-marketing">
+        <h2 id="h-marketing">Marketing</h2>
+        <p class="count" id="count-marketing"></p>
+        <ol class="stories" id="list-marketing"></ol>
+      </section>
+    </div>
+
+    <div class="venn-wrap">
+      <svg class="venn" viewBox="0 0 400 340" role="img" aria-labelledby="venn-title">
+        <title id="venn-title">Venn diagram: The Intersection is where sport, fashion and marketing overlap</title>
+        <defs>
+          <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+            <line class="hatch-line" x1="0" y1="0" x2="0" y2="7"/>
+          </pattern>
+          <clipPath id="clip-f"><circle cx="245" cy="135" r="100"/></clipPath>
+          <clipPath id="clip-sf"><circle cx="155" cy="135" r="100" clip-path="url(#clip-f)"/></clipPath>
+        </defs>
+        <circle class="c" cx="155" cy="135" r="100" fill="var(--sport)"/>
+        <circle class="c" cx="245" cy="135" r="100" fill="var(--fashion)"/>
+        <circle class="c" cx="200" cy="215" r="100" fill="var(--marketing)"/>
+        <g clip-path="url(#clip-sf)">
+          <circle cx="200" cy="215" r="100" fill="url(#hatch)"/>
+        </g>
+        <text x="62" y="60">Sport</text>
+        <text x="282" y="60">Fashion</text>
+        <text x="158" y="335">Marketing</text>
+      </svg>
+    </div>
+  </div>
+
+  <section class="intersection" aria-labelledby="h-intersection">
+    <div class="wrap">
+      <h2 id="h-intersection">The Intersection</h2>
+      <p class="lede">Stories that matter to sport, fashion and marketing all at once.</p>
+      <ol class="stories" id="list-intersection"></ol>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <details class="loader" id="loader">
+      <summary>Show stories from a test run</summary>
+      <p>Paste the JSON your prompt returned, then select “Show stories”. Nothing is saved; refreshing the page clears it.</p>
+      <label class="sr" for="json-input">JSON from your test run</label>
+      <textarea id="json-input" spellcheck="false" placeholder='{ "sports": [], "fashion": [], "marketing": [], "intersection": [] }'></textarea>
+      <button type="button" id="load-btn">Show stories</button>
+      <p class="error" id="error" role="alert"></p>
+    </details>
+  </div>
+</main>
+
+<script>
+(function () {
+  var LEVELS = { "very low": .15, "low": .3, "medium": .55, "high": .8, "very high": 1 };
+  var CATS = [
+    { key: "sports", label: "Sport", colour: "var(--sport)" },
+    { key: "fashion", label: "Fashion", colour: "var(--fashion)" },
+    { key: "marketing", label: "Marketing", colour: "var(--marketing)" }
+  ];
+
+  var SAMPLE = {
+    sports: [
+      { headline: "Women’s team signs record shirt deal, outstripping several men’s clubs", summary: "Sample story showing how a sport pick will look on the page.", sources: ["BBC Sport"], date: "2026-10-28", url: "#", scores: { sports: "Very high", fashion: "Low", marketing: "Medium" } },
+      { headline: "New women’s tennis world number one after a long reign ends", summary: "Sample story showing a second-ranked pick.", sources: ["WTA"], date: "2026-10-28", url: "#", scores: { sports: "Very high", fashion: "Low", marketing: "Low" } }
+    ],
+    fashion: [
+      { headline: "Heritage house announces anniversary exhibition in London", summary: "Sample story showing how a fashion pick will look on the page.", sources: ["Culted"], date: "2026-10-28", url: "#", scores: { sports: "Low", fashion: "High", marketing: "Low" } }
+    ],
+    marketing: [
+      { headline: "Beauty retailer promotes its marketing chief to CEO", summary: "Sample story showing how a marketing pick will look on the page.", sources: ["Marketing Week"], date: "2026-10-28", url: "#", scores: { sports: "Low", fashion: "Low", marketing: "High" } }
+    ],
+    intersection: [
+      { headline: "World-class footballer leaves Nike for a challenger brand", summary: "Sample story showing how an Intersection pick will look on the page.", sources: ["Versus", "Business of Fashion"], date: "2026-10-28", url: "#", scores: { sports: "High", fashion: "High", marketing: "High" } }
+    ]
+  };
+
+  document.getElementById("today").textContent =
+    new Date().toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function safeUrl(u) {
+    return /^https?:\/\//i.test(u || "") ? u : "#";
+  }
+  function niceDate(d) {
+    var dt = new Date(d);
+    return isNaN(dt) ? esc(d) : dt.toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+  }
+
+  function storyHtml(s) {
+    var scores = s.scores || {};
+    var dots = CATS.map(function (c) {
+      var v = scores[c.key] || (c.key === "sports" ? scores.sport : "") || "";
+      var o = LEVELS[String(v).toLowerCase()] || .12;
+      return '<span class="dot" style="--c:' + c.colour + ';--o:' + o + '" title="' + c.label + ': ' + esc(v || "not scored") + '"></span>' +
+             '<span class="sr">' + c.label + ': ' + esc(v || "not scored") + '. </span>';
+    }).join("");
+    var sources = Array.isArray(s.sources) ? s.sources.join(", ") : (s.sources || s.source || "");
+    return '<li class="story">' +
+      '<div><h3><a href="' + esc(safeUrl(s.url)) + '" target="_blank" rel="noopener">' + esc(s.headline) + '</a></h3>' +
+      '<p>' + esc(s.summary) + '</p>' +
+      '<div class="meta"><span>' + esc(sources) + '</span><span>' + niceDate(s.date) + '</span>' +
+      '<span class="scores">' + dots + '</span></div></div></li>';
+  }
+
+  function render(data) {
+    var lists = {
+      sports: data.sports || data.sport || [],
+      fashion: data.fashion || [],
+      marketing: data.marketing || [],
+      intersection: data.intersection || data.intersect || []
+    };
+    Object.keys(lists).forEach(function (k) {
+      var items = Array.isArray(lists[k]) ? lists[k].slice(0, 10) : [];
+      var el = document.getElementById("list-" + k);
+      el.innerHTML = items.length
+        ? items.map(storyHtml).join("")
+        : '<li class="empty">No stories made the cut today.</li>';
+      var count = document.getElementById("count-" + k);
+      if (count) count.textContent = items.length === 1 ? "1 story" : items.length + " stories";
+    });
+  }
+
+  function parse(text) {
+    var clean = text.replace(/```json|```/g, "").trim();
+    var start = clean.indexOf("{"), end = clean.lastIndexOf("}");
+    if (start === -1 || end === -1) throw new Error("no-object");
+    return JSON.parse(clean.slice(start, end + 1));
+  }
+
+  document.getElementById("load-btn").addEventListener("click", function () {
+    var err = document.getElementById("error");
+    err.textContent = "";
+    try {
+      var data = parse(document.getElementById("json-input").value);
+      render(data);
+      document.getElementById("notice").hidden = true;
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    } catch (e) {
+      err.textContent = "This isn’t valid JSON. Check that you copied the whole response, from the first { to the last }.";
+    }
+  });
+
+  // Live site: load news.json saved by the 6am job. Preview: fall back to samples.
+  fetch("news.json", { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+    .then(render)
+    .catch(function () {
+      render(SAMPLE);
+      document.getElementById("notice").hidden = false;
+    });
+})();
+</script>
+</body>
+</html>
