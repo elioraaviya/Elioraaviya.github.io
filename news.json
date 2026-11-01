@@ -1,0 +1,95 @@
+{
+  "updated": "2026-11-01T08:17:08.527Z",
+  "intersection": [],
+  "sports": [
+    {
+      "headline": "FIFA to double Women's World Cup prize money to $220m, still well short of the men's event",
+      "summary": "FIFA will double the prize pot for the 2027 Women's World Cup in Brazil to $220m, up from just over $100m in 2023. That is about a third of the men's 2026 pot, so it misses Gianni Infantino's gender-equality target. Team preparation money is also doubled to $2.5m per team, matching what men's teams received. Inside World Football attributes the original reporting to The Guardian and Sky; I could not retrieve those originals, so the date and figures rest on Inside World Football.",
+      "sources": [
+        "Inside World Football"
+      ],
+      "date": "2026-10-30",
+      "url": "https://insideworldfootball.com/2026/10/30/fifa-to-double-wwc-prize-money-to-220m-but-still-short-of-mens-655-for-2026",
+      "scores": {
+        "sports": "Very high",
+        "fashion": "Very low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Jillaroos set women's international records in Rugby League World Cup rout of Wales",
+      "summary": "Australia beat Wales 124-6 on 1 November, according to ABC News. ABC lists new women's international records for biggest margin, most tries (21) and most goals in a match. Jamie Chapman scored six tries and Jesse Southwell kicked 20 goals. A secondary aggregator reported a different scoreline, so the exact score should be checked against the official match report. The ABC URL is a live blog page, but it carries a written report.",
+      "sources": [
+        "ABC News"
+      ],
+      "date": "2026-11-01",
+      "url": "https://abc.net.au/news/2026-11-01/rugby-league-world-cup-live-australia-wales-samoa-tonga/107331754",
+      "scores": {
+        "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Low"
+      }
+    }
+  ],
+  "fashion": [
+    {
+      "headline": "Gucci unveils Avenue Montaigne flagship, the first look at Demna's plan to reinvent its retail network",
+      "summary": "Gucci has opened a new store concept on Avenue Montaigne in Paris. It brings to life the design that served as the backdrop for Demna's spring 2027 show. It is the first look at how CEO Francesca Bellettini and Demna plan to reinvent Gucci's retail network amid a prolonged sales slump. The store has dedicated rooms, a new tableware line made with Ginori 1735, and a private-client focus.",
+      "sources": [
+        "WWD"
+      ],
+      "date": "2026-10-30",
+      "url": "https://wwd.com/business-news/retail/gucci-demna-new-store-concept-avenue-montaigne-paris-1239392054",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Represent hires ex-Adidas executive Priya De Souza as chief marketing officer",
+      "summary": "UK streetwear brand Represent has appointed Priya De Souza as CMO, Retail Week reports. She was most recently CMO at Casablanca and previously worked at Adidas. She will report to CEO Paul Spencer. It is a senior marketing move at a fast-growing streetwear label.",
+      "sources": [
+        "Retail Week"
+      ],
+      "date": "2026-10-30",
+      "url": "https://www.retail-week.com/fashion/represent-appoints-ex-adidas-executive-as-new-chief-marketing-officer/7052490.article",
+      "scores": {
+        "sports": "Low",
+        "fashion": "High",
+        "marketing": "High"
+      }
+    }
+  ],
+  "marketing": [
+    {
+      "headline": "Sainsbury's sticks with its BFG brand asset for Christmas while shifting spend away from TV",
+      "summary": "Sainsbury's is using its proven BFG brand asset again this Christmas and diverting more spend from TV. Marketing Week reports the retailer also plans to \"rewire\" its marketing department in 2027, which is useful context on marketing strategy and structure at a major UK brand.",
+      "sources": [
+        "Marketing Week"
+      ],
+      "date": "2026-11-01",
+      "url": "https://www.marketingweek.com/advertising/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Angel City FC names Jenna Hauca chief marketing officer and Ali D'Andrea chief revenue officer",
+      "summary": "The NWSL club has appointed Jenna Hauca, currently CMO at CrossFit, as chief marketing officer. It has also appointed Ali D'Andrea, from Prime Video and Amazon MGM Studios, as chief revenue officer. Both report to CEO Amy Taylor and start in November. It is a senior commercial hire at a high-profile women's sports franchise. The item appears in Sportico's weekly transactions roundup, and the underlying announcement is the club's.",
+      "sources": [
+        "Sportico",
+        "Yahoo Sports (syndicated Sportico)"
+      ],
+      "date": "2026-10-30",
+      "url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-oct-30-1234956948/",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    }
+  ]
+}
