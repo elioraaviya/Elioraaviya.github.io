@@ -5,6 +5,7 @@ import { readFile, writeFile } from "node:fs/promises";
 const API_KEY = process.env.ANTHROPIC_API_KEY;
 const MODEL = "claude-sonnet-5-5";
 const MAX_SEARCHES = 20;
+const ATTEMPTS = 2; // if a run comes back without usable JSON, try once more
 
 if (!API_KEY) {
   console.error("Missing ANTHROPIC_API_KEY. Add it under Settings > Secrets and variables > Actions.");
@@ -27,7 +28,7 @@ async function callClaude(messages) {
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 1600,
+      max_tokens: 16000,
       messages,
       tools: [{ type: "web_search_20250305", name: "web_search", max_uses: MAX_SEARCHES }]
     })
@@ -36,23 +37,46 @@ async function callClaude(messages) {
   return res.json();
 }
 
-// Long searches can pause partway; keep going until Claude finishes.
-let messages = [{ role: "user", content: prompt }];
-let reply;
-for (let i = 0; i < 5; i++) {
-  reply = await callClaude(messages);
-  if (reply.stop_reason !== "pause_turn") break;
-  messages = [...messages, { role: "assistant", content: reply.content }];
+// Ask Claude, following up if a long search pauses partway. Returns all the text it wrote.
+async function getReplyText() {
+  let messages = [{ role: "user", content: prompt }];
+  let allText = "";
+  for (let i = 0; i < 6; i++) {
+    const reply = await callClaude(messages);
+    const types = reply.content.map(b => b.type);
+    console.log(`Reply ${i + 1}: stop_reason=${reply.stop_reason}, searches=${types.filter(t => t === "server_tool_use").length}`);
+    allText += reply.content.filter(b => b.type === "text").map(b => b.text).join("");
+    if (reply.stop_reason !== "pause_turn") break;
+    messages = [...messages, { role: "assistant", content: reply.content }];
+  }
+  return allText;
 }
 
-// Take the text Claude wrote after its last search, and pull out the JSON.
-const blocks = reply.content;
-const lastSearch = blocks.map(b => b.type).lastIndexOf("web_search_tool_result");
-const text = blocks.slice(lastSearch + 1).filter(b => b.type === "text").map(b => b.text).join("");
-const clean = text.replace(/```json|```/g, "").replace(/[\u0000-\u001F]+/g, " ");
-const start = clean.indexOf("{"), end = clean.lastIndexOf("}");
-if (start === -1 || end === -1) throw new Error("No JSON in Claude's reply:\n" + text);
-const raw = JSON.parse(clean.slice(start, end + 1));
+// Find the news JSON anywhere in Claude's text, ignoring any chat before or after it.
+function extractNews(text) {
+  const clean = text.replace(/```json|```/g, "").replace(/[\u0000-\u001F]+/g, " ");
+  const end = clean.lastIndexOf("}");
+  let start = clean.indexOf("{");
+  while (start !== -1 && start < end) {
+    try {
+      const obj = JSON.parse(clean.slice(start, end + 1));
+      if (obj && typeof obj === "object" &&
+          ["sports", "sport", "fashion", "marketing", "intersection", "intersect"].some(k => k in obj)) {
+        return obj;
+      }
+    } catch { /* not valid from here; try the next { */ }
+    start = clean.indexOf("{", start + 1);
+  }
+  return null;
+}
+
+let raw = null;
+for (let attempt = 1; attempt <= ATTEMPTS && !raw; attempt++) {
+  const text = await getReplyText();
+  raw = extractNews(text);
+  if (!raw) console.log(`Attempt ${attempt}: no usable JSON. Claude wrote:\n${text.slice(0, 1500) || "(nothing)"}`);
+}
+if (!raw) throw new Error("No usable JSON after retrying, so yesterday's news.json was kept.");
 
 // Safety checks: right section names, max 10 each, nothing older than 3 days, no repeated links.
 const cutoff = Date.now() - 3 * 24 * 60 * 60 * 1000;
