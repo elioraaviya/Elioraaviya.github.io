@@ -27,7 +27,7 @@ async function callClaude(messages) {
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 8000,
+      max_tokens: 1600,
       messages,
       tools: [{ type: "web_search_20250305", name: "web_search", max_uses: MAX_SEARCHES }]
     })
