@@ -1,15 +1,31 @@
 {
-  "updated": "2026-11-01T08:17:08.527Z",
-  "intersection": [],
+  "updated": "2026-11-01T10:41:01.016Z",
+  "intersection": [
+    {
+      "headline": "Nike launches the Vegam Run, its first running shoe designed specifically for Indian runners",
+      "summary": "The entry-level shoe is priced at ₹3,795. It launches on 1 November through Flipkart and select retailers. It follows Nike's first collaboration with an Indian label last year.",
+      "sources": [
+        "https://esquireindia.co.in/style/just-landed/nike-vegam-run-price-specs-colourways-where-to-buy-launch-date"
+      ],
+      "date": "2026-10-31",
+      "url": "https://esquireindia.co.in/style/just-landed/nike-vegam-run-price-specs-colourways-where-to-buy-launch-date",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "Medium",
+        "marketing": "Medium"
+      }
+    }
+  ],
   "sports": [
     {
-      "headline": "FIFA to double Women's World Cup prize money to $220m, still well short of the men's event",
-      "summary": "FIFA will double the prize pot for the 2027 Women's World Cup in Brazil to $220m, up from just over $100m in 2023. That is about a third of the men's 2026 pot, so it misses Gianni Infantino's gender-equality target. Team preparation money is also doubled to $2.5m per team, matching what men's teams received. Inside World Football attributes the original reporting to The Guardian and Sky; I could not retrieve those originals, so the date and figures rest on Inside World Football.",
+      "headline": "Golden State Valkyries win the WNBA title in their second season",
+      "summary": "Gabby Williams scored 30 points and was named Finals MVP as the Valkyries beat the Atlanta Dream 68-63 in the first Game 7 in WNBA Finals history. The Valkyries became the fastest expansion team to win a WNBA title. They also won without a single All-WNBA selection that season.",
       "sources": [
-        "Inside World Football"
+        "https://www.espn.com/wnba/story/_/id/50343701/golden-state-valkyries-win-game-7-secure-first-wnba-title",
+        "https://sfstandard.com/2026/10/31/gabby-williams-wnba-finals-golden-state-valkyries-championship/"
       ],
-      "date": "2026-10-30",
-      "url": "https://insideworldfootball.com/2026/10/30/fifa-to-double-wwc-prize-money-to-220m-but-still-short-of-mens-655-for-2026",
+      "date": "2026-10-31",
+      "url": "https://www.espn.com/wnba/story/_/id/50343701/golden-state-valkyries-win-game-7-secure-first-wnba-title",
       "scores": {
         "sports": "Very high",
         "fashion": "Very low",
@@ -17,13 +33,13 @@
       }
     },
     {
-      "headline": "Jillaroos set women's international records in Rugby League World Cup rout of Wales",
-      "summary": "Australia beat Wales 124-6 on 1 November, according to ABC News. ABC lists new women's international records for biggest margin, most tries (21) and most goals in a match. Jamie Chapman scored six tries and Jesse Southwell kicked 20 goals. A secondary aggregator reported a different scoreline, so the exact score should be checked against the official match report. The ABC URL is a live blog page, but it carries a written report.",
+      "headline": "Copa Libertadores final set: Estudiantes v Palmeiras after semi-final penalty shoot-outs",
+      "summary": "Estudiantes and Palmeiras both progressed on penalties, setting up an Argentina v Brazil final at Estadio Centenario in Montevideo on 28 November. The Copa Sudamericana final is also set, with Boca Juniors against Atlético Mineiro on 21 November in Barranquilla.",
       "sources": [
-        "ABC News"
+        "https://riotimesonline.com/latin-america-sports-daily-sunday-november-1-2026"
       ],
       "date": "2026-11-01",
-      "url": "https://abc.net.au/news/2026-11-01/rugby-league-world-cup-live-australia-wales-samoa-tonga/107331754",
+      "url": "https://riotimesonline.com/latin-america-sports-daily-sunday-november-1-2026",
       "scores": {
         "sports": "High",
         "fashion": "Very low",
@@ -33,13 +49,13 @@
   ],
   "fashion": [
     {
-      "headline": "Gucci unveils Avenue Montaigne flagship, the first look at Demna's plan to reinvent its retail network",
-      "summary": "Gucci has opened a new store concept on Avenue Montaigne in Paris. It brings to life the design that served as the backdrop for Demna's spring 2027 show. It is the first look at how CEO Francesca Bellettini and Demna plan to reinvent Gucci's retail network amid a prolonged sales slump. The store has dedicated rooms, a new tableware line made with Ginori 1735, and a private-client focus.",
+      "headline": "WWD x SKP summit: Pop Mart, Mao Geping, Aranya and LVMH on China's changing fashion consumer",
+      "summary": "Chinese founders and LVMH's Greater China president discussed how brands in China now have to offer emotion, culture and a clear sense of what they stand for. Shoppers no longer accept a brand simply for being new, foreign or inexpensive.",
       "sources": [
-        "WWD"
+        "https://wwd.com/fashion-news/designer-luxury/china-fashion-future-pop-mart-mao-geping-aranya-lvmh-1239387082/"
       ],
       "date": "2026-10-30",
-      "url": "https://wwd.com/business-news/retail/gucci-demna-new-store-concept-avenue-montaigne-paris-1239392054",
+      "url": "https://wwd.com/fashion-news/designer-luxury/china-fashion-future-pop-mart-mao-geping-aranya-lvmh-1239387082/",
       "scores": {
         "sports": "Very low",
         "fashion": "High",
@@ -47,29 +63,29 @@
       }
     },
     {
-      "headline": "Represent hires ex-Adidas executive Priya De Souza as chief marketing officer",
-      "summary": "UK streetwear brand Represent has appointed Priya De Souza as CMO, Retail Week reports. She was most recently CMO at Casablanca and previously worked at Adidas. She will report to CEO Paul Spencer. It is a senior marketing move at a fast-growing streetwear label.",
+      "headline": "Deion Sanders Jr.'s Well Off Forever to release its first public Nike sneaker",
+      "summary": "The Well Off Forever x Nike Air DT Proto 92 is a gold-accented Diamond Turf prototype look. It is expected on 30 November at $180. It is the label's first public Nike release.",
       "sources": [
-        "Retail Week"
+        "https://sneakerscartel.com/well-off-forever-x-nike-air-dt-proto-92-brings-a-diamond-turf-prototype-to-retail"
       ],
-      "date": "2026-10-30",
-      "url": "https://www.retail-week.com/fashion/represent-appoints-ex-adidas-executive-as-new-chief-marketing-officer/7052490.article",
+      "date": "2026-11-01",
+      "url": "https://sneakerscartel.com/well-off-forever-x-nike-air-dt-proto-92-brings-a-diamond-turf-prototype-to-retail",
       "scores": {
         "sports": "Low",
-        "fashion": "High",
-        "marketing": "High"
+        "fashion": "Medium",
+        "marketing": "Low"
       }
     }
   ],
   "marketing": [
     {
-      "headline": "Sainsbury's sticks with its BFG brand asset for Christmas while shifting spend away from TV",
-      "summary": "Sainsbury's is using its proven BFG brand asset again this Christmas and diverting more spend from TV. Marketing Week reports the retailer also plans to \"rewire\" its marketing department in 2027, which is useful context on marketing strategy and structure at a major UK brand.",
+      "headline": "Liquid I.V. names former Poppi CMO Jenny Danzi as chief marketing officer",
+      "summary": "Unilever-owned Liquid I.V. has hired Danzi, a former PepsiCo marketer, to lead integrated marketing and creative strategy. She fills the seat vacated by Stacey Andrade-Wells, who left to join Bobbie. Her brief is to combine the brand's clinical positioning with culture-first lifestyle marketing.",
       "sources": [
-        "Marketing Week"
+        "https://www.campaignlive.co.uk/article/cmo-cheat-sheet-liquid-iv-names-jenny-danzi-chief-marketing-officer/1973931"
       ],
-      "date": "2026-11-01",
-      "url": "https://www.marketingweek.com/advertising/",
+      "date": "2026-10-30",
+      "url": "https://www.campaignlive.co.uk/article/cmo-cheat-sheet-liquid-iv-names-jenny-danzi-chief-marketing-officer/1973931",
       "scores": {
         "sports": "Very low",
         "fashion": "Very low",
@@ -77,16 +93,57 @@
       }
     },
     {
-      "headline": "Angel City FC names Jenna Hauca chief marketing officer and Ali D'Andrea chief revenue officer",
-      "summary": "The NWSL club has appointed Jenna Hauca, currently CMO at CrossFit, as chief marketing officer. It has also appointed Ali D'Andrea, from Prime Video and Amazon MGM Studios, as chief revenue officer. Both report to CEO Amy Taylor and start in November. It is a senior commercial hire at a high-profile women's sports franchise. The item appears in Sportico's weekly transactions roundup, and the underlying announcement is the club's.",
+      "headline": "Philadelphia 76ers become the first NBA team to sign a prediction-market partner, with Kalshi",
+      "summary": "The 76ers agreed a multi-year deal naming Kalshi their official prediction market partner. It follows the NBA's own league-level Kalshi and Polymarket deals earlier in the week. LeBron James, now at the 76ers, already has a Polymarket partnership.",
       "sources": [
-        "Sportico",
-        "Yahoo Sports (syndicated Sportico)"
+        "https://awfulannouncing.com/nba/philadelphia-76ers-announce-kalshi-partnership.html"
+      ],
+      "date": "2026-10-31",
+      "url": "https://awfulannouncing.com/nba/philadelphia-76ers-announce-kalshi-partnership.html",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Angel City FC hires CrossFit's Jenna Hauca as CMO and Amazon's Ali D'Andrea as chief revenue officer",
+      "summary": "The women's football club added two senior commercial leaders, both reporting to CEO Amy Taylor and starting in November. Hauca has been CMO at CrossFit since March 2024. D'Andrea joins from Prime Video and Amazon MGM Studios. Reported in Sportico's weekly transactions wire.",
+      "sources": [
+        "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-oct-30-1234956948/"
       ],
       "date": "2026-10-30",
       "url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-oct-30-1234956948/",
       "scores": {
         "sports": "Medium",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Adweek marketer moves: Coursera's CMO from The New York Times, Beast Industries' first CMO, Diageo North America CMO, Amex CMO to retire",
+      "summary": "Adweek rounds up the week's marketing leadership changes. Amy Weisenbach leaves the New York Times for Coursera. MrBeast's Beast Industries promotes its first CMO. Diageo North America hires Sebnem Erim. American Express CMO Elizabeth Rutledge will retire in March 2027.",
+      "sources": [
+        "https://www.adweek.com/brand-marketing/13-recent-marketer-moves-to-know-liquid-iv-mrbeast-nyt-and-more/"
+      ],
+      "date": "2026-10-31",
+      "url": "https://www.adweek.com/brand-marketing/13-recent-marketer-moves-to-know-liquid-iv-mrbeast-nyt-and-more/",
+      "scores": {
+        "sports": "Low",
+        "fashion": "Low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Starbucks looks to pivot away from reliance on seasonal marketing",
+      "summary": "The global coffee chain, known for its pumpkin spice latte and other seasonal drinks, is looking to build more consistent year-round relevance. Marketing Week reports on the strategy shift.",
+      "sources": [
+        "https://www.marketingweek.com/"
+      ],
+      "date": "2026-10-30",
+      "url": "https://www.marketingweek.com/",
+      "scores": {
+        "sports": "Very low",
         "fashion": "Very low",
         "marketing": "High"
       }
