@@ -1,150 +1,127 @@
 {
-  "updated": "2026-11-01T10:41:01.016Z",
-  "intersection": [
-    {
-      "headline": "Nike launches the Vegam Run, its first running shoe designed specifically for Indian runners",
-      "summary": "The entry-level shoe is priced at ₹3,795. It launches on 1 November through Flipkart and select retailers. It follows Nike's first collaboration with an Indian label last year.",
-      "sources": [
-        "https://esquireindia.co.in/style/just-landed/nike-vegam-run-price-specs-colourways-where-to-buy-launch-date"
-      ],
-      "date": "2026-10-31",
-      "url": "https://esquireindia.co.in/style/just-landed/nike-vegam-run-price-specs-colourways-where-to-buy-launch-date",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Medium",
-        "marketing": "Medium"
-      }
-    }
-  ],
+  "updated": "2026-11-02T05:46:36.221Z",
+  "intersection": [],
   "sports": [
     {
-      "headline": "Golden State Valkyries win the WNBA title in their second season",
-      "summary": "Gabby Williams scored 30 points and was named Finals MVP as the Valkyries beat the Atlanta Dream 68-63 in the first Game 7 in WNBA Finals history. The Valkyries became the fastest expansion team to win a WNBA title. They also won without a single All-WNBA selection that season.",
+      "headline": "Kimi Antonelli becomes F1's youngest-ever world champion as Verstappen wins Mexico City GP",
+      "summary": "Antonelli, 20 years and 68 days old, clinched his maiden title with third place in Mexico City, in his second F1 season. Max Verstappen won the race for Red Bull, his sixth win at the circuit and his third in four races. Lewis Hamilton was second after taking his first pole for Ferrari. Hamilton also called for serious talks within Ferrari after Charles Leclerc's penalty cost the team a likely one-two.",
       "sources": [
-        "https://www.espn.com/wnba/story/_/id/50343701/golden-state-valkyries-win-game-7-secure-first-wnba-title",
-        "https://sfstandard.com/2026/10/31/gabby-williams-wnba-finals-golden-state-valkyries-championship/"
+        "Motorsport.com",
+        "ESPN",
+        "Motorsport Week"
       ],
-      "date": "2026-10-31",
-      "url": "https://www.espn.com/wnba/story/_/id/50343701/golden-state-valkyries-win-game-7-secure-first-wnba-title",
+      "date": "2026-11-01",
+      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-race-report-/10870694/",
       "scores": {
         "sports": "Very high",
         "fashion": "Very low",
-        "marketing": "Medium"
+        "marketing": "Low"
       }
     },
     {
-      "headline": "Copa Libertadores final set: Estudiantes v Palmeiras after semi-final penalty shoot-outs",
-      "summary": "Estudiantes and Palmeiras both progressed on penalties, setting up an Argentina v Brazil final at Estadio Centenario in Montevideo on 28 November. The Copa Sudamericana final is also set, with Boca Juniors against Atlético Mineiro on 21 November in Barranquilla.",
+      "headline": "Arsenal win at Anfield for the first time in 14 years to go top of the Premier League",
+      "summary": "Kai Havertz's first-half goal gave Arsenal a 1-0 win at Liverpool, their first at Anfield in 14 years, and took them to the top of the table. It came five days after a League Cup exit to fourth-tier opposition. Man City have now lost two league games in a row.",
       "sources": [
-        "https://riotimesonline.com/latin-america-sports-daily-sunday-november-1-2026"
+        "AP (via KPRC Click2Houston)",
+        "Yahoo Sports / The Mag"
       ],
       "date": "2026-11-01",
-      "url": "https://riotimesonline.com/latin-america-sports-daily-sunday-november-1-2026",
+      "url": "https://www.click2houston.com/sports/2026/11/01/arsenal-beats-liverpool-1-0-to-end-anfield-torment-and-go-top-of-the-premier-league/",
       "scores": {
         "sports": "High",
         "fashion": "Very low",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Australia's Jillaroos set women's rugby league record with 124-6 World Cup win over Wales",
+      "summary": "Australia scored 21 tries in the win, the biggest margin ever in a women's rugby league international. Jaime Chapman scored six tries, which equals the women's international record. The previous margin record was France's 116-0 win over Serbia in 2023. The source is a live-updates page that carries a match report entry.",
+      "sources": [
+        "ABC News (Australia)"
+      ],
+      "date": "2026-11-01",
+      "url": "https://abc.net.au/news/2026-11-01/rugby-league-world-cup-live-australia-wales-samoa-tonga/107331754",
+      "scores": {
+        "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Almgren wins NYC Marathon on debut in 50th-anniversary race; Chepkirui takes women's title",
+      "summary": "Sweden's Andreas Almgren won in 2:06:01, the third-fastest time in the race's 50-year history. He is the first runner to win the event on debut since 2010. Sheila Chepkirui won the women's race, and American Jess McClain was second. That made her the first American woman on the NYC podium since Shalane Flanagan in 2018.",
+      "sources": [
+        "ABC7 New York",
+        "CBS News New York",
+        "Marathon Handbook"
+      ],
+      "date": "2026-11-01",
+      "url": "https://abc7ny.com/post/nyc-marathon-record-field-expected-50th-anniversary-run/20004692/",
+      "scores": {
+        "sports": "High",
+        "fashion": "Low",
         "marketing": "Low"
       }
     }
   ],
   "fashion": [
     {
-      "headline": "WWD x SKP summit: Pop Mart, Mao Geping, Aranya and LVMH on China's changing fashion consumer",
-      "summary": "Chinese founders and LVMH's Greater China president discussed how brands in China now have to offer emotion, culture and a clear sense of what they stand for. Shoppers no longer accept a brand simply for being new, foreign or inexpensive.",
+      "headline": "Travis Scott's Cactus Jack, Rockstar Games and Nike plan three Air Force 1 Low GTA 6 colourways for 19 November",
+      "summary": "Sole Retriever reports three Air Force 1 '07 colourways tied to GTA 6's global launch day, priced at $130. The report also mentions a possible four-way tie-in with the Miami Heat's Vice City night on 18 November, which it presents as likely rather than confirmed. Treat as a sneaker-culture story. The report appears to lean on social-media leaks, so confirm with Nike before running it.",
       "sources": [
-        "https://wwd.com/fashion-news/designer-luxury/china-fashion-future-pop-mart-mao-geping-aranya-lvmh-1239387082/"
-      ],
-      "date": "2026-10-30",
-      "url": "https://wwd.com/fashion-news/designer-luxury/china-fashion-future-pop-mart-mao-geping-aranya-lvmh-1239387082/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "Deion Sanders Jr.'s Well Off Forever to release its first public Nike sneaker",
-      "summary": "The Well Off Forever x Nike Air DT Proto 92 is a gold-accented Diamond Turf prototype look. It is expected on 30 November at $180. It is the label's first public Nike release.",
-      "sources": [
-        "https://sneakerscartel.com/well-off-forever-x-nike-air-dt-proto-92-brings-a-diamond-turf-prototype-to-retail"
+        "Sole Retriever"
       ],
       "date": "2026-11-01",
-      "url": "https://sneakerscartel.com/well-off-forever-x-nike-air-dt-proto-92-brings-a-diamond-turf-prototype-to-retail",
+      "url": "https://www.soleretriever.com/news/articles/travis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-gta-6-pack-release-date-november-2026",
       "scores": {
         "sports": "Low",
-        "fashion": "Medium",
-        "marketing": "Low"
+        "fashion": "High",
+        "marketing": "High"
       }
     }
   ],
   "marketing": [
     {
-      "headline": "Liquid I.V. names former Poppi CMO Jenny Danzi as chief marketing officer",
-      "summary": "Unilever-owned Liquid I.V. has hired Danzi, a former PepsiCo marketer, to lead integrated marketing and creative strategy. She fills the seat vacated by Stacey Andrade-Wells, who left to join Bobbie. Her brief is to combine the brand's clinical positioning with culture-first lifestyle marketing.",
+      "headline": "Marketing leadership moves: Amex CMO to retire, Beast Industries names first CMO, Diageo North America and Liquid I.V. hire",
+      "summary": "Adweek's roundup covers American Express CMO Elizabeth Rutledge, who retires in March 2027 after more than 30 years. MrBeast's Beast Industries has promoted a Molson Coors veteran to its first CMO. Diageo North America has named Sebnem Erim CMO. Liquid I.V. has hired Poppi's former CMO Jenny Danzi (Campaign reported that move on 30 October). Popeyes CMO Matt Rubin is leaving less than a year into the role. The roundup's date is inferred from the site's '2 days ago' label.",
       "sources": [
-        "https://www.campaignlive.co.uk/article/cmo-cheat-sheet-liquid-iv-names-jenny-danzi-chief-marketing-officer/1973931"
-      ],
-      "date": "2026-10-30",
-      "url": "https://www.campaignlive.co.uk/article/cmo-cheat-sheet-liquid-iv-names-jenny-danzi-chief-marketing-officer/1973931",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Philadelphia 76ers become the first NBA team to sign a prediction-market partner, with Kalshi",
-      "summary": "The 76ers agreed a multi-year deal naming Kalshi their official prediction market partner. It follows the NBA's own league-level Kalshi and Polymarket deals earlier in the week. LeBron James, now at the 76ers, already has a Polymarket partnership.",
-      "sources": [
-        "https://awfulannouncing.com/nba/philadelphia-76ers-announce-kalshi-partnership.html"
-      ],
-      "date": "2026-10-31",
-      "url": "https://awfulannouncing.com/nba/philadelphia-76ers-announce-kalshi-partnership.html",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Angel City FC hires CrossFit's Jenna Hauca as CMO and Amazon's Ali D'Andrea as chief revenue officer",
-      "summary": "The women's football club added two senior commercial leaders, both reporting to CEO Amy Taylor and starting in November. Hauca has been CMO at CrossFit since March 2024. D'Andrea joins from Prime Video and Amazon MGM Studios. Reported in Sportico's weekly transactions wire.",
-      "sources": [
-        "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-oct-30-1234956948/"
-      ],
-      "date": "2026-10-30",
-      "url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-oct-30-1234956948/",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Adweek marketer moves: Coursera's CMO from The New York Times, Beast Industries' first CMO, Diageo North America CMO, Amex CMO to retire",
-      "summary": "Adweek rounds up the week's marketing leadership changes. Amy Weisenbach leaves the New York Times for Coursera. MrBeast's Beast Industries promotes its first CMO. Diageo North America hires Sebnem Erim. American Express CMO Elizabeth Rutledge will retire in March 2027.",
-      "sources": [
-        "https://www.adweek.com/brand-marketing/13-recent-marketer-moves-to-know-liquid-iv-mrbeast-nyt-and-more/"
+        "Adweek",
+        "Campaign"
       ],
       "date": "2026-10-31",
       "url": "https://www.adweek.com/brand-marketing/13-recent-marketer-moves-to-know-liquid-iv-mrbeast-nyt-and-more/",
       "scores": {
-        "sports": "Low",
+        "sports": "Very low",
         "fashion": "Low",
         "marketing": "High"
       }
     },
     {
-      "headline": "Starbucks looks to pivot away from reliance on seasonal marketing",
-      "summary": "The global coffee chain, known for its pumpkin spice latte and other seasonal drinks, is looking to build more consistent year-round relevance. Marketing Week reports on the strategy shift.",
+      "headline": "Sainsbury's brings back the BFG for a third Christmas ad as it shifts spend away from TV",
+      "summary": "Sainsbury's is sticking with the Roald Dahl character as its proven brand asset. It plans to divert more spend from TV and to 'rewire' its marketing department in 2027. Campaign covered the creative; Marketing Week covered the strategy.",
       "sources": [
-        "https://www.marketingweek.com/"
+        "Campaign",
+        "Marketing Week"
       ],
-      "date": "2026-10-30",
-      "url": "https://www.marketingweek.com/",
+      "date": "2026-11-01",
+      "url": "https://www.campaignlive.co.uk/news/brands",
       "scores": {
         "sports": "Very low",
         "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "John Lewis teases its Christmas 2026 ad",
+      "summary": "Campaign reports John Lewis has started teasing its Christmas campaign, which is one of the best-known in UK retail marketing.",
+      "sources": [
+        "Campaign"
+      ],
+      "date": "2026-11-01",
+      "url": "https://www.campaignlive.co.uk/news",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Low",
         "marketing": "High"
       }
     }
