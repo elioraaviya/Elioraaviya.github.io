@@ -1,110 +1,136 @@
 {
-  "updated": "2026-11-02T05:46:36.221Z",
+  "updated": "2026-11-03T05:40:15.335Z",
   "intersection": [],
   "sports": [
     {
-      "headline": "Kimi Antonelli becomes F1's youngest-ever world champion as Verstappen wins Mexico City GP",
-      "summary": "Antonelli, 20 years and 68 days old, clinched his maiden title with third place in Mexico City, in his second F1 season. Max Verstappen won the race for Red Bull, his sixth win at the circuit and his third in four races. Lewis Hamilton was second after taking his first pole for Ferrari. Hamilton also called for serious talks within Ferrari after Charles Leclerc's penalty cost the team a likely one-two.",
+      "headline": "Kimi Antonelli becomes youngest F1 world champion as Verstappen wins Mexico City GP",
+      "summary": "Mercedes' Kimi Antonelli clinched his maiden title by finishing third in Mexico City, at 20 years and 68 days. Max Verstappen won the race, 0.8s ahead of Lewis Hamilton. A major generational shift at the top of F1.",
       "sources": [
-        "Motorsport.com",
-        "ESPN",
-        "Motorsport Week"
+        "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
+        "https://www.espn.com/f1/story/_/id/50321045/mexico-city-grand-prix-2026-live-updates-results-analysis-commentary-autodromo-hermanos-rodriguez",
+        "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-race-result/"
       ],
       "date": "2026-11-01",
-      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-race-report-/10870694/",
+      "url": "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
       "scores": {
         "sports": "Very high",
-        "fashion": "Very low",
-        "marketing": "Low"
+        "fashion": "Low",
+        "marketing": "Medium"
       }
     },
     {
-      "headline": "Arsenal win at Anfield for the first time in 14 years to go top of the Premier League",
-      "summary": "Kai Havertz's first-half goal gave Arsenal a 1-0 win at Liverpool, their first at Anfield in 14 years, and took them to the top of the table. It came five days after a League Cup exit to fourth-tier opposition. Man City have now lost two league games in a row.",
+      "headline": "Alexander Zverev becomes ATP world No. 1 as Paris Masters opens without Sinner",
+      "summary": "Zverev started the Paris Masters on the day he rose to world No. 1. Defending champion Jannik Sinner has ended his season with a knee injury. Carlos Alcaraz is in the draw, and the tournament is the last Masters 1000 before the ATP Finals in Turin.",
       "sources": [
-        "AP (via KPRC Click2Houston)",
-        "Yahoo Sports / The Mag"
+        "https://www.olympics.com/en/news/paris-masters-2026-order-of-play-results"
       ],
-      "date": "2026-11-01",
-      "url": "https://www.click2houston.com/sports/2026/11/01/arsenal-beats-liverpool-1-0-to-end-anfield-torment-and-go-top-of-the-premier-league/",
+      "date": "2026-11-02",
+      "url": "https://www.olympics.com/en/news/paris-masters-2026-order-of-play-results",
       "scores": {
-        "sports": "High",
-        "fashion": "Very low",
+        "sports": "Very high",
+        "fashion": "Low",
         "marketing": "Low"
       }
     },
     {
-      "headline": "Australia's Jillaroos set women's rugby league record with 124-6 World Cup win over Wales",
-      "summary": "Australia scored 21 tries in the win, the biggest margin ever in a women's rugby league international. Jaime Chapman scored six tries, which equals the women's international record. The previous margin record was France's 116-0 win over Serbia in 2023. The source is a live-updates page that carries a match report entry.",
+      "headline": "NFL and TMRW Sports unveil pro flag football league for men and women ahead of LA 2028",
+      "summary": "A new professional flag football league will launch the summer before the sport's Olympic debut at the 2028 Los Angeles Games. USA Football women's stars Ashlea Klam and Izzy Geraci have signed on as ambassadors. The aim is to let players be paid full-time.",
       "sources": [
-        "ABC News (Australia)"
+        "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/02/nfl-and-tmrw-sports-unveil-pro-league-for-men-and-women-launching-ahead-of-the-los-angeles-olympics"
       ],
-      "date": "2026-11-01",
-      "url": "https://abc.net.au/news/2026-11-01/rugby-league-world-cup-live-australia-wales-samoa-tonga/107331754",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Almgren wins NYC Marathon on debut in 50th-anniversary race; Chepkirui takes women's title",
-      "summary": "Sweden's Andreas Almgren won in 2:06:01, the third-fastest time in the race's 50-year history. He is the first runner to win the event on debut since 2010. Sheila Chepkirui won the women's race, and American Jess McClain was second. That made her the first American woman on the NYC podium since Shalane Flanagan in 2018.",
-      "sources": [
-        "ABC7 New York",
-        "CBS News New York",
-        "Marathon Handbook"
-      ],
-      "date": "2026-11-01",
-      "url": "https://abc7ny.com/post/nyc-marathon-record-field-expected-50th-anniversary-run/20004692/",
+      "date": "2026-11-02",
+      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/02/nfl-and-tmrw-sports-unveil-pro-league-for-men-and-women-launching-ahead-of-the-los-angeles-olympics",
       "scores": {
         "sports": "High",
         "fashion": "Low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Mark Walter explores sale of Cadillac F1 team stake at $3bn+ valuation",
+      "summary": "Sportico reports Walter's TWG Global is shopping the Cadillac F1 team with an asking price of at least $3bn and at least seven interested parties. This follows his reported moves to sell the Lakers and Chelsea. Bloomberg says buyers are circling but no deal has been agreed.",
+      "sources": [
+        "https://www.sportico.com/business/team-sales/2026/mark-walter-f1-cadillac-stake-sale-1234957228/",
+        "https://bloomberg.com/news/articles/2026-11-02/buyers-circle-mark-walter-s-f1-team-as-he-offloads-sports-assets"
+      ],
+      "date": "2026-11-02",
+      "url": "https://www.sportico.com/business/team-sales/2026/mark-walter-f1-cadillac-stake-sale-1234957228/",
+      "scores": {
+        "sports": "High",
+        "fashion": "Very low",
         "marketing": "Low"
       }
     }
   ],
   "fashion": [
     {
-      "headline": "Travis Scott's Cactus Jack, Rockstar Games and Nike plan three Air Force 1 Low GTA 6 colourways for 19 November",
-      "summary": "Sole Retriever reports three Air Force 1 '07 colourways tied to GTA 6's global launch day, priced at $130. The report also mentions a possible four-way tie-in with the Miami Heat's Vice City night on 18 November, which it presents as likely rather than confirmed. Treat as a sneaker-culture story. The report appears to lean on social-media leaks, so confirm with Nike before running it.",
+      "headline": "CFDA Fashion Awards 2026: Rachel Scott (Diotima) wins Womenswear Designer of the Year, Ralph Lauren takes Menswear",
+      "summary": "The awards were held at the American Museum of Natural History, hosted by Keke Palmer, with Anna Wintour and Matt Damon among the presenters. Rachel Scott won Womenswear Designer of the Year for Diotima and Ralph Lauren won Menswear. Saint Laurent's Anthony Vaccarello was honoured as International Designer of the Year.",
       "sources": [
-        "Sole Retriever"
+        "https://fashionista.com/2026/11/2026-cfda-fashion-awards-winners",
+        "https://www.ebony.com/rachel-scott-of-diotima-wins-big-as-stars-turn-heads-on-the-2026-cfda-fashion-awards-red-carpet/",
+        "https://www.thezoereport.com/culture/anthony-vaccarello-2026-cfda-awards"
       ],
-      "date": "2026-11-01",
-      "url": "https://www.soleretriever.com/news/articles/travis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-gta-6-pack-release-date-november-2026",
+      "date": "2026-11-02",
+      "url": "https://fashionista.com/2026/11/2026-cfda-fashion-awards-winners",
       "scores": {
         "sports": "Low",
-        "fashion": "High",
+        "fashion": "Very high",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Burberry taps Pierce Brosnan, Fiona Shaw and Wu Lei for 170th-anniversary festive campaign",
+      "summary": "WWD's exclusive reveals 'Wrapped in Burberry: Celebrating 170 Years', set at Longleat House in Wiltshire. It is part of the brand's yearlong anniversary celebrations and features Brosnan and Shaw as hosts.",
+      "sources": [
+        "https://wwd.com/fashion-news/fashion-scoops/burberry-festive-campaign-pierce-brosnan-fiona-shaw-wu-lei-1239395256"
+      ],
+      "date": "2026-11-03",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/burberry-festive-campaign-pierce-brosnan-fiona-shaw-wu-lei-1239395256",
+      "scores": {
+        "sports": "Low",
+        "fashion": "Very high",
         "marketing": "High"
+      }
+    },
+    {
+      "headline": "Bangladesh sets up garment wage board after unrest shuts more than 500 factories",
+      "summary": "Violent protests over pay forced the closure of more than 500 factories over the weekend. The government responded by forming a wage board. It is a major supply-chain story for global fashion brands.",
+      "sources": [
+        "https://www.businessoffashion.com/latest/"
+      ],
+      "date": "2026-11-02",
+      "url": "https://www.businessoffashion.com/latest/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Ralph Lauren expands holiday experience to seven global cities",
+      "summary": "This year's Adirondacks-themed campaign brings Lake House-style retreats, ice rinks and Ralph's Coffee pop-ups to London, Tokyo, Seoul, Sydney, Hong Kong, Singapore and Los Angeles. London's Sloane Square installation opens 12 November.",
+      "sources": [
+        "https://wwd.com/fashion-news/fashion-scoops/ralph-lauren-holiday-adirondacks-london-bloomingdales-selfridges-1239396295"
+      ],
+      "date": "2026-11-03",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/ralph-lauren-holiday-adirondacks-london-bloomingdales-selfridges-1239396295",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Medium"
       }
     }
   ],
   "marketing": [
     {
-      "headline": "Marketing leadership moves: Amex CMO to retire, Beast Industries names first CMO, Diageo North America and Liquid I.V. hire",
-      "summary": "Adweek's roundup covers American Express CMO Elizabeth Rutledge, who retires in March 2027 after more than 30 years. MrBeast's Beast Industries has promoted a Molson Coors veteran to its first CMO. Diageo North America has named Sebnem Erim CMO. Liquid I.V. has hired Poppi's former CMO Jenny Danzi (Campaign reported that move on 30 October). Popeyes CMO Matt Rubin is leaving less than a year into the role. The roundup's date is inferred from the site's '2 days ago' label.",
+      "headline": "Publicis completes LiveRamp takeover and says Omnicom and WPP are still 'welcome' to use it",
+      "summary": "Campaign reports the takeover has completed. LiveRamp CEO Scott Howe will receive a golden parachute of up to $32.5m, even though shareholders opposed it in an advisory vote. This is a major adtech and holding-company power move.",
       "sources": [
-        "Adweek",
-        "Campaign"
+        "https://www.campaignlive.co.uk/"
       ],
-      "date": "2026-10-31",
-      "url": "https://www.adweek.com/brand-marketing/13-recent-marketer-moves-to-know-liquid-iv-mrbeast-nyt-and-more/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Sainsbury's brings back the BFG for a third Christmas ad as it shifts spend away from TV",
-      "summary": "Sainsbury's is sticking with the Roald Dahl character as its proven brand asset. It plans to divert more spend from TV and to 'rewire' its marketing department in 2027. Campaign covered the creative; Marketing Week covered the strategy.",
-      "sources": [
-        "Campaign",
-        "Marketing Week"
-      ],
-      "date": "2026-11-01",
-      "url": "https://www.campaignlive.co.uk/news/brands",
+      "date": "2026-11-02",
+      "url": "https://www.campaignlive.co.uk/",
       "scores": {
         "sports": "Very low",
         "fashion": "Very low",
@@ -112,17 +138,77 @@
       }
     },
     {
-      "headline": "John Lewis teases its Christmas 2026 ad",
-      "summary": "Campaign reports John Lewis has started teasing its Christmas campaign, which is one of the best-known in UK retail marketing.",
+      "headline": "Droga5 global CEO Mark Green dies aged 53",
+      "summary": "Green, co-founder of The Monkeys and Droga5 global CEO since 2024, died of a heart attack on 31 October. Accenture said Droga5's leadership team will ensure continuity for staff and clients. The news is a significant leadership loss for the global agency industry.",
       "sources": [
-        "Campaign"
+        "https://lbbonline.com/news/mark-green-dies-aged-53",
+        "https://www.mediapost.com/publications/article/419158/obit-droga5-ceo-mark-green-dies-at-53.html",
+        "https://www.mediaweek.com.au/droga5-global-ceo-mark-green-dies-aged-53"
       ],
-      "date": "2026-11-01",
-      "url": "https://www.campaignlive.co.uk/news",
+      "date": "2026-11-02",
+      "url": "https://lbbonline.com/news/mark-green-dies-aged-53",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Svedka's divisive AI ad earns a Super Bowl sequel as it invites fans to make its 2027 spot",
+      "summary": "Svedka is returning to the Super Bowl with a contest calling on fans to make its ad, promoting its new Vodka Water. Parent Sazerac credits rapid sales growth partly to last February's polarising commercial.",
+      "sources": [
+        "https://adage.com/super-bowl/aa-svedka-2027-contest-two-sazerac-ads-planned"
+      ],
+      "date": "2026-11-02",
+      "url": "https://adage.com/super-bowl/aa-svedka-2027-contest-two-sazerac-ads-planned",
+      "scores": {
+        "sports": "Low",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "UK Christmas ad season kicks off: Argos with Richard Ayoade, Tesco, Aldi's Kevin the Carrot, Lidl and John Lewis teasers",
+      "summary": "Argos has enlisted Richard Ayoade for humour in its 2026 Christmas ad, and Tesco has returned to the hero-spot format. Aldi is teasing the return of Kevin the Carrot, while Lidl and John Lewis have released teasers.",
+      "sources": [
+        "https://www.campaignlive.co.uk/news/brands",
+        "https://www.campaignlive.co.uk/news/advertising"
+      ],
+      "date": "2026-11-02",
+      "url": "https://www.campaignlive.co.uk/news/brands",
       "scores": {
         "sports": "Very low",
         "fashion": "Low",
         "marketing": "High"
+      }
+    },
+    {
+      "headline": "Lebara launches major rebrand with a stop-motion capybara mascot",
+      "summary": "Ace of Hearts introduces a laid-back capybara mascot as the UK mobile network tries to build a brand beyond low prices.",
+      "sources": [
+        "https://adage.com/creativity/work/aa-lebara-its-all-good/",
+        "https://www.campaignlive.co.uk/"
+      ],
+      "date": "2026-11-02",
+      "url": "https://adage.com/creativity/work/aa-lebara-its-all-good/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "News Alliance #AskForNews campaign targets CMO reluctance to advertise in news media",
+      "summary": "Developed by Bountiful Cow's creative team, the campaign will run in mainstream news and trade titles. It aims to persuade marketing chiefs to put ad spend back into news.",
+      "sources": [
+        "https://www.campaignlive.co.uk/news/media"
+      ],
+      "date": "2026-11-02",
+      "url": "https://www.campaignlive.co.uk/news/media",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "Medium"
       }
     }
   ]
