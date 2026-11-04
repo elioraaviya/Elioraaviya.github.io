@@ -1,57 +1,59 @@
 {
-  "updated": "2026-11-03T05:40:15.335Z",
-  "intersection": [],
-  "sports": [
+  "updated": "2026-11-04T05:43:44.708Z",
+  "intersection": [
     {
-      "headline": "Kimi Antonelli becomes youngest F1 world champion as Verstappen wins Mexico City GP",
-      "summary": "Mercedes' Kimi Antonelli clinched his maiden title by finishing third in Mexico City, at 20 years and 68 days. Max Verstappen won the race, 0.8s ahead of Lewis Hamilton. A major generational shift at the top of F1.",
+      "headline": "Calvin Klein taps Jude Bellingham for Icon Cotton Stretch campaign",
+      "summary": "Calvin Klein, part of PVH Corp., has launched an Icon Cotton Stretch underwear campaign with Real Madrid and England midfielder Jude Bellingham. It is his debut campaign for the brand.",
       "sources": [
-        "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
-        "https://www.espn.com/f1/story/_/id/50321045/mexico-city-grand-prix-2026-live-updates-results-analysis-commentary-autodromo-hermanos-rodriguez",
-        "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-race-result/"
-      ],
-      "date": "2026-11-01",
-      "url": "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
-      "scores": {
-        "sports": "Very high",
-        "fashion": "Low",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "Alexander Zverev becomes ATP world No. 1 as Paris Masters opens without Sinner",
-      "summary": "Zverev started the Paris Masters on the day he rose to world No. 1. Defending champion Jannik Sinner has ended his season with a knee injury. Carlos Alcaraz is in the draw, and the tournament is the last Masters 1000 before the ATP Finals in Turin.",
-      "sources": [
-        "https://www.olympics.com/en/news/paris-masters-2026-order-of-play-results"
+        "WWD"
       ],
       "date": "2026-11-02",
-      "url": "https://www.olympics.com/en/news/paris-masters-2026-order-of-play-results",
-      "scores": {
-        "sports": "Very high",
-        "fashion": "Low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "NFL and TMRW Sports unveil pro flag football league for men and women ahead of LA 2028",
-      "summary": "A new professional flag football league will launch the summer before the sport's Olympic debut at the 2028 Los Angeles Games. USA Football women's stars Ashlea Klam and Izzy Geraci have signed on as ambassadors. The aim is to let players be paid full-time.",
-      "sources": [
-        "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/02/nfl-and-tmrw-sports-unveil-pro-league-for-men-and-women-launching-ahead-of-the-los-angeles-olympics"
-      ],
-      "date": "2026-11-02",
-      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/02/nfl-and-tmrw-sports-unveil-pro-league-for-men-and-women-launching-ahead-of-the-los-angeles-olympics",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/calvin-klein-global-football-star-jude-bellingham-icon-cotton-stretch-underwear-campaign-1239393235",
       "scores": {
         "sports": "High",
-        "fashion": "Low",
+        "fashion": "High",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "CeeDee Lamb designs 19-piece holiday capsule with Abercrombie & Fitch",
+      "summary": "The Dallas Cowboys receiver worked with Abercrombie's design team on a 19-piece collection of outerwear, knitwear, shirts, trousers and neckties. Abercrombie is the official fashion partner of the NFL. The collection launched online Tuesday and is also in select stores.",
+      "sources": [
+        "WWD"
+      ],
+      "date": "2026-11-03",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/abercrombie-fitch-capsule-dallas-cowboys-ceedee-lamb-1239398291/",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "Medium",
+        "marketing": "Medium"
+      }
+    }
+  ],
+  "sports": [
+    {
+      "headline": "WNBA Finals Game 7 draws record 3.3m viewers as Golden State Valkyries win title in second season",
+      "summary": "Game 7 was the first in WNBA history and the most-watched WNBA playoff game ever. It was the second-most-watched WNBA game since 1997. The seven-game series averaged about 1.89m viewers, a Finals record. Golden State became champions in just their second season, which is unprecedented for an expansion team in a major US sport.",
+      "sources": [
+        "Front Office Sports",
+        "Yahoo Sports / The Athletic",
+        "San Francisco Chronicle"
+      ],
+      "date": "2026-11-03",
+      "url": "https://frontofficesports.com/article/wnba-finals-game-7-draws-3-3m-viewers-most-since-1997/",
+      "scores": {
+        "sports": "Very high",
+        "fashion": "Very low",
         "marketing": "Medium"
       }
     },
     {
-      "headline": "Mark Walter explores sale of Cadillac F1 team stake at $3bn+ valuation",
-      "summary": "Sportico reports Walter's TWG Global is shopping the Cadillac F1 team with an asking price of at least $3bn and at least seven interested parties. This follows his reported moves to sell the Lakers and Chelsea. Bloomberg says buyers are circling but no deal has been agreed.",
+      "headline": "Mark Walter explores Cadillac F1 team stake sale at $3bn valuation",
+      "summary": "Sportico reports that the TWG Global owner is seeking at least $3bn for the Cadillac F1 team, with at least seven interested parties. TWG had denied any sale plans in August. The report follows Walter's sales of the Lakers and a Chelsea stake amid federal investigations. The team reportedly expects to lose about $400m this season.",
       "sources": [
-        "https://www.sportico.com/business/team-sales/2026/mark-walter-f1-cadillac-stake-sale-1234957228/",
-        "https://bloomberg.com/news/articles/2026-11-02/buyers-circle-mark-walter-s-f1-team-as-he-offloads-sports-assets"
+        "Sportico",
+        "Racer",
+        "Yahoo Sports"
       ],
       "date": "2026-11-02",
       "url": "https://www.sportico.com/business/team-sales/2026/mark-walter-f1-cadillac-stake-sale-1234957228/",
@@ -64,70 +66,68 @@
   ],
   "fashion": [
     {
-      "headline": "CFDA Fashion Awards 2026: Rachel Scott (Diotima) wins Womenswear Designer of the Year, Ralph Lauren takes Menswear",
-      "summary": "The awards were held at the American Museum of Natural History, hosted by Keke Palmer, with Anna Wintour and Matt Damon among the presenters. Rachel Scott won Womenswear Designer of the Year for Diotima and Ralph Lauren won Menswear. Saint Laurent's Anthony Vaccarello was honoured as International Designer of the Year.",
+      "headline": "Yeezy returns to the runway in Los Angeles for its first major show in over four years",
+      "summary": "Ye's Yeezy brand is staging its Season 01 presentation on Wednesday night at Droam 1, its new Beverly Boulevard flagship in Los Angeles. It is the brand's first major runway show in more than four years.",
       "sources": [
-        "https://fashionista.com/2026/11/2026-cfda-fashion-awards-winners",
-        "https://www.ebony.com/rachel-scott-of-diotima-wins-big-as-stars-turn-heads-on-the-2026-cfda-fashion-awards-red-carpet/",
-        "https://www.thezoereport.com/culture/anthony-vaccarello-2026-cfda-awards"
-      ],
-      "date": "2026-11-02",
-      "url": "https://fashionista.com/2026/11/2026-cfda-fashion-awards-winners",
-      "scores": {
-        "sports": "Low",
-        "fashion": "Very high",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Burberry taps Pierce Brosnan, Fiona Shaw and Wu Lei for 170th-anniversary festive campaign",
-      "summary": "WWD's exclusive reveals 'Wrapped in Burberry: Celebrating 170 Years', set at Longleat House in Wiltshire. It is part of the brand's yearlong anniversary celebrations and features Brosnan and Shaw as hosts.",
-      "sources": [
-        "https://wwd.com/fashion-news/fashion-scoops/burberry-festive-campaign-pierce-brosnan-fiona-shaw-wu-lei-1239395256"
+        "WWD"
       ],
       "date": "2026-11-03",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/burberry-festive-campaign-pierce-brosnan-fiona-shaw-wu-lei-1239395256",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/yeezy-season-01-runway-show-los-angeles-2026-1239399249/",
       "scores": {
-        "sports": "Low",
+        "sports": "Very low",
         "fashion": "Very high",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Bangladesh sets up garment wage board after unrest shuts more than 500 factories",
-      "summary": "Violent protests over pay forced the closure of more than 500 factories over the weekend. The government responded by forming a wage board. It is a major supply-chain story for global fashion brands.",
-      "sources": [
-        "https://www.businessoffashion.com/latest/"
-      ],
-      "date": "2026-11-02",
-      "url": "https://www.businessoffashion.com/latest/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Ralph Lauren expands holiday experience to seven global cities",
-      "summary": "This year's Adirondacks-themed campaign brings Lake House-style retreats, ice rinks and Ralph's Coffee pop-ups to London, Tokyo, Seoul, Sydney, Hong Kong, Singapore and Los Angeles. London's Sloane Square installation opens 12 November.",
-      "sources": [
-        "https://wwd.com/fashion-news/fashion-scoops/ralph-lauren-holiday-adirondacks-london-bloomingdales-selfridges-1239396295"
-      ],
-      "date": "2026-11-03",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/ralph-lauren-holiday-adirondacks-london-bloomingdales-selfridges-1239396295",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
         "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Rachel Scott and Ralph Lauren win Designer of the Year at the 2026 CFDA Awards",
+      "summary": "Rachel Scott took womenswear designer of the year, and Ralph Lauren also won a Designer of the Year award at the CFDA Fashion Awards held at the American Museum of Natural History in New York.",
+      "sources": [
+        "WWD"
+      ],
+      "date": "2026-11-03",
+      "url": "https://wwd.com/wwd-publications/digital-daily/2026-11-03-1239397786/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Low"
       }
     }
   ],
   "marketing": [
     {
-      "headline": "Publicis completes LiveRamp takeover and says Omnicom and WPP are still 'welcome' to use it",
-      "summary": "Campaign reports the takeover has completed. LiveRamp CEO Scott Howe will receive a golden parachute of up to $32.5m, even though shareholders opposed it in an advisory vote. This is a major adtech and holding-company power move.",
+      "headline": "Ami Paris casts Catherine Deneuve as boutique manager in holiday campaign",
+      "summary": "Ami Paris's Ami d'Hiver holiday campaign stars Catherine Deneuve in short scenes directed by Loïc Prigent. They are set in the brand's Place des Victoires boutique in Paris. The campaign drops Wednesday, and WWD had it first as an exclusive.",
       "sources": [
-        "https://www.campaignlive.co.uk/"
+        "WWD"
+      ],
+      "date": "2026-11-03",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/ami-paris-catherine-deneuve-holiday-campaign-1239398654",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "John Lewis enlists Kristin Scott Thomas and Sam Fender for 2026 Christmas campaign",
+      "summary": "John Lewis has unveiled its 2026 festive campaign featuring Kristin Scott Thomas and musician Sam Fender, following teasers earlier in the week. It is the UK's most-watched Christmas ad slot.",
+      "sources": [
+        "Marketing Week"
+      ],
+      "date": "2026-11-03",
+      "url": "https://www.marketingweek.com/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Publicis completes LiveRamp takeover and says Omnicom and WPP are still 'welcome' to use it",
+      "summary": "Publicis has completed its $2.2bn LiveRamp acquisition, which the FTC cleared with conditions last month. The group is signalling that rival holding companies can keep using the data platform.",
+      "sources": [
+        "Campaign"
       ],
       "date": "2026-11-02",
       "url": "https://www.campaignlive.co.uk/",
@@ -138,76 +138,30 @@
       }
     },
     {
-      "headline": "Droga5 global CEO Mark Green dies aged 53",
-      "summary": "Green, co-founder of The Monkeys and Droga5 global CEO since 2024, died of a heart attack on 31 October. Accenture said Droga5's leadership team will ensure continuity for staff and clients. The news is a significant leadership loss for the global agency industry.",
+      "headline": "Erling Haaland, Ilona Maher and Lewis Hamilton among winners of inaugural Meta x SportsPro Athlete Honours",
+      "summary": "Meta and SportsPro launched an awards programme recognising athletes for creativity and craft in content creation across Meta's platforms. Haaland, Maher and Hamilton are among the first winners.",
       "sources": [
-        "https://lbbonline.com/news/mark-green-dies-aged-53",
-        "https://www.mediapost.com/publications/article/419158/obit-droga5-ceo-mark-green-dies-at-53.html",
-        "https://www.mediaweek.com.au/droga5-global-ceo-mark-green-dies-aged-53"
+        "SportsPro"
       ],
-      "date": "2026-11-02",
-      "url": "https://lbbonline.com/news/mark-green-dies-aged-53",
+      "date": "2026-11-03",
+      "url": "https://www.sportspro.com/",
       "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Svedka's divisive AI ad earns a Super Bowl sequel as it invites fans to make its 2027 spot",
-      "summary": "Svedka is returning to the Super Bowl with a contest calling on fans to make its ad, promoting its new Vodka Water. Parent Sazerac credits rapid sales growth partly to last February's polarising commercial.",
-      "sources": [
-        "https://adage.com/super-bowl/aa-svedka-2027-contest-two-sazerac-ads-planned"
-      ],
-      "date": "2026-11-02",
-      "url": "https://adage.com/super-bowl/aa-svedka-2027-contest-two-sazerac-ads-planned",
-      "scores": {
-        "sports": "Low",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "UK Christmas ad season kicks off: Argos with Richard Ayoade, Tesco, Aldi's Kevin the Carrot, Lidl and John Lewis teasers",
-      "summary": "Argos has enlisted Richard Ayoade for humour in its 2026 Christmas ad, and Tesco has returned to the hero-spot format. Aldi is teasing the return of Kevin the Carrot, while Lidl and John Lewis have released teasers.",
-      "sources": [
-        "https://www.campaignlive.co.uk/news/brands",
-        "https://www.campaignlive.co.uk/news/advertising"
-      ],
-      "date": "2026-11-02",
-      "url": "https://www.campaignlive.co.uk/news/brands",
-      "scores": {
-        "sports": "Very low",
+        "sports": "Medium",
         "fashion": "Low",
         "marketing": "High"
       }
     },
     {
-      "headline": "Lebara launches major rebrand with a stop-motion capybara mascot",
-      "summary": "Ace of Hearts introduces a laid-back capybara mascot as the UK mobile network tries to build a brand beyond low prices.",
+      "headline": "Boots' CMO on getting shoppers talking this Christmas",
+      "summary": "Boots CMO Charlotte Lock explains the retailer's move to position itself as the home of gifting. It is building on the early success of its 'Give It Some Boots' brand voice and innovating its media mix.",
       "sources": [
-        "https://adage.com/creativity/work/aa-lebara-its-all-good/",
-        "https://www.campaignlive.co.uk/"
+        "Marketing Week"
       ],
-      "date": "2026-11-02",
-      "url": "https://adage.com/creativity/work/aa-lebara-its-all-good/",
+      "date": "2026-11-04",
+      "url": "https://marketingweek.com/boots-gifting-christmas-2026",
       "scores": {
         "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "News Alliance #AskForNews campaign targets CMO reluctance to advertise in news media",
-      "summary": "Developed by Bountiful Cow's creative team, the campaign will run in mainstream news and trade titles. It aims to persuade marketing chiefs to put ad spend back into news.",
-      "sources": [
-        "https://www.campaignlive.co.uk/news/media"
-      ],
-      "date": "2026-11-02",
-      "url": "https://www.campaignlive.co.uk/news/media",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
+        "fashion": "Low",
         "marketing": "Medium"
       }
     }
