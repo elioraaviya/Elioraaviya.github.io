@@ -1,46 +1,49 @@
 {
-  "updated": "2026-11-04T05:43:44.708Z",
+  "updated": "2026-11-05T05:46:46.257Z",
   "intersection": [
     {
-      "headline": "Calvin Klein taps Jude Bellingham for Icon Cotton Stretch campaign",
-      "summary": "Calvin Klein, part of PVH Corp., has launched an Icon Cotton Stretch underwear campaign with Real Madrid and England midfielder Jude Bellingham. It is his debut campaign for the brand.",
+      "headline": "Sports Direct and Nike launch first brand-exclusive Christmas ad with Haaland, Williamson, Asher-Smith and Pollock",
+      "summary": "'Unwrap Potential' was created by Chaos x Magic and directed by Tyrus Hill. It stars Erling Haaland, England captain Leah Williamson, sprinter Dina Asher-Smith, rugby's Henry Pollock and rapper Aitch as gift advisers under an 'Athlete Intelligence' concept. It is Sports Direct's first brand-exclusive Christmas ad with Nike and runs across TV, social, OOH and 900+ stores, with talent-led gift guides.",
       "sources": [
-        "WWD"
+        "FashionNetwork UK",
+        "Drapers",
+        "Retail Gazette"
       ],
-      "date": "2026-11-02",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/calvin-klein-global-football-star-jude-bellingham-icon-cotton-stretch-underwear-campaign-1239393235",
+      "date": "2026-11-03",
+      "url": "https://uk.fashionnetwork.com/news/Sports-direct-links-up-with-haaland-and-nike-for-gifting-focused-festive-campaign,1881405.html",
       "scores": {
-        "sports": "High",
-        "fashion": "High",
+        "sports": "Medium",
+        "fashion": "Medium",
         "marketing": "High"
       }
     },
     {
-      "headline": "CeeDee Lamb designs 19-piece holiday capsule with Abercrombie & Fitch",
-      "summary": "The Dallas Cowboys receiver worked with Abercrombie's design team on a 19-piece collection of outerwear, knitwear, shirts, trousers and neckties. Abercrombie is the official fashion partner of the NFL. The collection launched online Tuesday and is also in select stores.",
+      "headline": "AC Milan reportedly set for record €500m, 10-year Adidas kit deal from 2028-29",
+      "summary": "Italian reports, including La Gazzetta dello Sport, say Milan will reunite with Adidas from 2028-29. The reported value is €50m a year, which would be the richest kit deal in Italian football. It would replace Puma, whose deal runs to 2027-28. Figures vary: another report puts it nearer €30m a year, and no official announcement is expected until late 2027 or early 2028.",
       "sources": [
-        "WWD"
+        "Footy Headlines",
+        "Sempre Milan"
       ],
-      "date": "2026-11-03",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/abercrombie-fitch-capsule-dallas-cowboys-ceedee-lamb-1239398291/",
+      "date": "2026-11-04",
+      "url": "https://www.footyheadlines.com/6741956980/no-more-puma-ac-milan-reportedly-agrees-record-breaking-500m-adidas-kit-deal.html",
       "scores": {
-        "sports": "Medium",
+        "sports": "High",
         "fashion": "Medium",
-        "marketing": "Medium"
+        "marketing": "High"
       }
     }
   ],
   "sports": [
     {
-      "headline": "WNBA Finals Game 7 draws record 3.3m viewers as Golden State Valkyries win title in second season",
-      "summary": "Game 7 was the first in WNBA history and the most-watched WNBA playoff game ever. It was the second-most-watched WNBA game since 1997. The seven-game series averaged about 1.89m viewers, a Finals record. Golden State became champions in just their second season, which is unprecedented for an expansion team in a major US sport.",
+      "headline": "WNBA Finals set viewership and attendance records after Valkyries' first title",
+      "summary": "The Golden State Valkyries' Game 7 win over the Atlanta Dream drew 3.3 million viewers, the most-watched WNBA postseason game ever. The seven-game series averaged 1.88 million viewers, the most-watched Finals since 1999. All seven games sold out, and the league also posted its most-watched postseason since 1997. Some outlets note that the all-time-record claims carry qualifiers.",
       "sources": [
-        "Front Office Sports",
-        "Yahoo Sports / The Athletic",
-        "San Francisco Chronicle"
+        "ESPN",
+        "NBC New York (AP)",
+        "Yahoo Sports (NY Post)"
       ],
-      "date": "2026-11-03",
-      "url": "https://frontofficesports.com/article/wnba-finals-game-7-draws-3-3m-viewers-most-since-1997/",
+      "date": "2026-11-04",
+      "url": "https://www.espn.com/wnba/story/_/id/50379540/wnba-finals-saw-surge-attendance-record-ratings",
       "scores": {
         "sports": "Very high",
         "fashion": "Very low",
@@ -48,17 +51,58 @@
       }
     },
     {
-      "headline": "Mark Walter explores Cadillac F1 team stake sale at $3bn valuation",
-      "summary": "Sportico reports that the TWG Global owner is seeking at least $3bn for the Cadillac F1 team, with at least seven interested parties. TWG had denied any sale plans in August. The report follows Walter's sales of the Lakers and a Chelsea stake amid federal investigations. The team reportedly expects to lose about $400m this season.",
+      "headline": "Sky Sports lands UK rights to new women's team golf league WTGL",
+      "summary": "Sky Sports has exclusive UK rights to WTGL, a women's version of the tech-led TGL golf league developed with the LPGA. The first season starts on 8 November. Charley Hull, Lottie Woad and Jeeno Thitikul are among the first confirmed players. Sky also extended its TGL deal by two years.",
       "sources": [
-        "Sportico",
-        "Racer",
-        "Yahoo Sports"
+        "Broadband TV News"
       ],
-      "date": "2026-11-02",
-      "url": "https://www.sportico.com/business/team-sales/2026/mark-walter-f1-cadillac-stake-sale-1234957228/",
+      "date": "2026-11-04",
+      "url": "https://broadbandtvnews.com/2026/11/04/sky-sports-adds-new-womens-golf-league-wtgl",
       "scores": {
         "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Liverpool FC owners emerge as potential buyers of Cadillac F1 stake as Mark Walter seeks a sale",
+      "summary": "Autosport reports that Liverpool's owners are among the potential buyers of part of Mark Walter's majority stake in the Cadillac F1 team. Sportico first reported the sale, at a valuation of about $3bn. Walter has also moved to sell the Lakers and his Chelsea stake. Sportico's original report appeared on 2 November; Autosport adds the new buyer angle.",
+      "sources": [
+        "Autosport",
+        "Sportico"
+      ],
+      "date": "2026-11-05",
+      "url": "https://www.autosport.com/f1/news/liverpool-fc-owners-emerge-as-potential-buyers-of-cadillac-f1-shares-amid-twg-uncertainty/10871500/",
+      "scores": {
+        "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Adidas reportedly replaces Puma as Serie A's official ball supplier from 2027-28",
+      "summary": "Multiple Italian reports say Adidas will take over from Puma as Serie A's ball supplier. The deal would also cover the Coppa Italia, Supercoppa and Serie B. It would add Serie A to Adidas's growing set of ball deals in Europe's top leagues, after the Bundesliga this season. This is based on reports, not an official announcement.",
+      "sources": [
+        "Inside World Football"
+      ],
+      "date": "2026-11-04",
+      "url": "https://www.insideworldfootball.com/2026/11/04/adidas-bounces-puma-to-win-serie-a-official-ball-deal/",
+      "scores": {
+        "sports": "High",
+        "fashion": "Low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "College sports bill in peril after Democrats sweep midterms",
+      "summary": "Front Office Sports reports that the Protect College Sports Act is now unlikely to pass the House, including in the lame-duck period. Sources say Democrats have little incentive to back it. The outcome matters for the NCAA's attempt to get a legal and regulatory framework for college athletics.",
+      "sources": [
+        "Front Office Sports"
+      ],
+      "date": "2026-11-04",
+      "url": "https://frontofficesports.com/article/college-sports-bill-in-peril-after-democrats-sweep-midterm-elections/",
+      "scores": {
+        "sports": "Medium",
         "fashion": "Very low",
         "marketing": "Low"
       }
@@ -66,102 +110,164 @@
   ],
   "fashion": [
     {
-      "headline": "Yeezy returns to the runway in Los Angeles for its first major show in over four years",
-      "summary": "Ye's Yeezy brand is staging its Season 01 presentation on Wednesday night at Droam 1, its new Beverly Boulevard flagship in Los Angeles. It is the brand's first major runway show in more than four years.",
+      "headline": "Yeezy returns to the runway with Season 01 show in Los Angeles",
+      "summary": "Ye staged Yeezy Season 01 on 4 November at the brand's new Los Angeles flagship. It was the label's first major runway show since 2022. The show was streamed on Kick. Unreleased Ye music was reportedly used in the soundtrack. It follows Yeezy's soft relaunch and a stockist deal with JD Sports.",
       "sources": [
+        "Complex",
         "WWD"
       ],
-      "date": "2026-11-03",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/yeezy-season-01-runway-show-los-angeles-2026-1239399249/",
+      "date": "2026-11-04",
+      "url": "https://www.complex.com/style/a/jose-martinez/yeezy-season-01-runway-show-los-angeles",
       "scores": {
-        "sports": "Very low",
+        "sports": "Low",
         "fashion": "Very high",
         "marketing": "Medium"
       }
     },
     {
-      "headline": "Rachel Scott and Ralph Lauren win Designer of the Year at the 2026 CFDA Awards",
-      "summary": "Rachel Scott took womenswear designer of the year, and Ralph Lauren also won a Designer of the Year award at the CFDA Fashion Awards held at the American Museum of Natural History in New York.",
+      "headline": "Coperni, known for Bella Hadid's spray-painted dress, announces closure",
+      "summary": "Founders Arnaud Vaillant and Sébastien Meyer announced the closure of Coperni. The brand had entered receivership in June amid a long dispute with majority shareholder and exclusive distributor Tomorrow. The closure is a significant casualty for a culturally prominent label.",
       "sources": [
         "WWD"
       ],
-      "date": "2026-11-03",
-      "url": "https://wwd.com/wwd-publications/digital-daily/2026-11-03-1239397786/",
+      "date": "2026-11-04",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/coperni-brand-closure-tomorrow-dispute-1239399873/",
       "scores": {
         "sports": "Very low",
         "fashion": "High",
         "marketing": "Low"
       }
+    },
+    {
+      "headline": "A-Cold-Wall names Joshua Bullen as first designer in residence",
+      "summary": "Owner Four Marketing is moving the label from a founder-led brand to a studio-driven platform that will rotate guest designers. Bullen is a former Kenzo, Givenchy and Stone Island designer. His debut collection is set for AW27 in Paris. This is the brand's first creative leadership change since founder Samuel Ross sold it.",
+      "sources": [
+        "Business of Fashion",
+        "WWD",
+        "FashionNetwork"
+      ],
+      "date": "2026-11-04",
+      "url": "https://www.businessoffashion.com/news/creative-class/a-cold-wall-names-joshua-bullen-as-first-designer-in-residence/",
+      "scores": {
+        "sports": "Low",
+        "fashion": "High",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Veronica Etro returns to fashion with new brand Off the Menu",
+      "summary": "In a WWD exclusive, the former Etro creative figure is launching Off the Menu on Thursday. The brand will offer tightly edited collections of pieces conceived almost as collectibles, and is headquartered in a Milan loft.",
+      "sources": [
+        "WWD"
+      ],
+      "date": "2026-11-04",
+      "url": "https://wwd.com/fashion-news/designer-luxury/veronica-etro-off-the-menu-fashion-brand-launch-1239399791",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Rachel Scott and Ralph Lauren lead winners at 2026 CFDA Fashion Awards",
+      "summary": "Rachel Scott of Diotima won American Womenswear Designer of the Year and Ralph Lauren won Menswear. The ceremony was held at the American Museum of Natural History on Monday 2 November. Keke Palmer hosted, and the evening marked the 30th anniversary of the CFDA Scholarship Fund.",
+      "sources": [
+        "FashionNetwork India"
+      ],
+      "date": "2026-11-04",
+      "url": "https://in.fashionnetwork.com/news/Rachel-scott-ralph-lauren-lead-winners-at-2026-cfda-fashion-awards,1881669.html",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Dolce & Gabbana's 2026 holiday campaign turns glamour into a cinematic hotel fantasy",
+      "summary": "The Italian house's holiday campaign was shot by Gordon von Steiner in a crimson hotel setting. It features gold dresses, tuxedos and leopard-print accents.",
+      "sources": [
+        "WWD"
+      ],
+      "date": "2026-11-04",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/dolce-gabbana-holiday-2026-campaign-1239398302/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Medium"
+      }
     }
   ],
   "marketing": [
     {
-      "headline": "Ami Paris casts Catherine Deneuve as boutique manager in holiday campaign",
-      "summary": "Ami Paris's Ami d'Hiver holiday campaign stars Catherine Deneuve in short scenes directed by Loïc Prigent. They are set in the brand's Place des Victoires boutique in Paris. The campaign drops Wednesday, and WWD had it first as an exclusive.",
+      "headline": "John Lewis enlists Kristin Scott Thomas and Sam Fender for 20th Christmas ad",
+      "summary": "It is the first time John Lewis has used a famous face to front its Christmas ad. The tagline is 'Don't Give Up on Giving', and the campaign aims to restore gifting confidence, backed by research that over half of customers feel unconfident about gifts. Saatchi & Saatchi created it, and it launched on 3 November with a three-minute hero film.",
       "sources": [
-        "WWD"
+        "Marketing Week",
+        "Campaign"
       ],
       "date": "2026-11-03",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/ami-paris-catherine-deneuve-holiday-campaign-1239398654",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "John Lewis enlists Kristin Scott Thomas and Sam Fender for 2026 Christmas campaign",
-      "summary": "John Lewis has unveiled its 2026 festive campaign featuring Kristin Scott Thomas and musician Sam Fender, following teasers earlier in the week. It is the UK's most-watched Christmas ad slot.",
-      "sources": [
-        "Marketing Week"
-      ],
-      "date": "2026-11-03",
-      "url": "https://www.marketingweek.com/",
+      "url": "https://www.marketingweek.com/john-lewis-2026-christmas-campaign/",
       "scores": {
         "sports": "Very low",
         "fashion": "Low",
-        "marketing": "High"
+        "marketing": "Very high"
       }
     },
     {
-      "headline": "Publicis completes LiveRamp takeover and says Omnicom and WPP are still 'welcome' to use it",
-      "summary": "Publicis has completed its $2.2bn LiveRamp acquisition, which the FTC cleared with conditions last month. The group is signalling that rival holding companies can keep using the data platform.",
+      "headline": "SharkNinja's first global holiday campaign unites Beckham, Brady, Hart and Sabalenka",
+      "summary": "The in-house campaign builds on the brand's 'Neighbors' series. It used leaked 'CCTV' clips and denial videos from the stars as teasers before the full spot. Digiday frames it as an example of 'entertainment-first' advertising.",
       "sources": [
-        "Campaign"
+        "Adweek",
+        "Digiday"
       ],
-      "date": "2026-11-02",
-      "url": "https://www.campaignlive.co.uk/",
+      "date": "2026-11-04",
+      "url": "https://www.adweek.com/brand-marketing/sharkninjas-holiday-ad-puts-david-beckhams-gadgets-at-the-mercy-of-his-celeb-pals/",
       "scores": {
-        "sports": "Very low",
+        "sports": "Low",
         "fashion": "Very low",
         "marketing": "High"
       }
     },
     {
-      "headline": "Erling Haaland, Ilona Maher and Lewis Hamilton among winners of inaugural Meta x SportsPro Athlete Honours",
-      "summary": "Meta and SportsPro launched an awards programme recognising athletes for creativity and craft in content creation across Meta's platforms. Haaland, Maher and Hamilton are among the first winners.",
+      "headline": "Boots launches Christmas campaign with first Netflix takeover; CMO explains new brand voice",
+      "summary": "Boots' 'For Gifts They'll Really Love' campaign, from VML and WPP, runs under its 'Give it Some Boots' platform. It includes the retailer's first 20-second TV edits and its first Netflix takeover. CMO Charlotte Lock explains the media-mix and brand-voice thinking in a Marketing Week interview.",
       "sources": [
-        "SportsPro"
-      ],
-      "date": "2026-11-03",
-      "url": "https://www.sportspro.com/",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Boots' CMO on getting shoppers talking this Christmas",
-      "summary": "Boots CMO Charlotte Lock explains the retailer's move to position itself as the home of gifting. It is building on the early success of its 'Give It Some Boots' brand voice and innovating its media mix.",
-      "sources": [
-        "Marketing Week"
+        "Marketing Week",
+        "365Retail"
       ],
       "date": "2026-11-04",
       "url": "https://marketingweek.com/boots-gifting-christmas-2026",
       "scores": {
         "sports": "Very low",
         "fashion": "Low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Very's Christmas ad blends CGI and AI-assisted animation for a new flamingo family",
+      "summary": "Very's 'That's the Very Thing' campaign, from agency The Gate and producer M3Labs, expands its animated flamingo cast. It mixes CGI with AI-assisted animation, which makes it a visible example of AI in a major UK retail ad.",
+      "sources": [
+        "Drapers"
+      ],
+      "date": "2026-11-04",
+      "url": "https://drapersonline.com/topics/christmas-trading-topics/very-unveils-2026-christmas-advert",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "MNTN hires The Trade Desk's long-time marketing chief as CMO",
+      "summary": "On its Q3 earnings call, MNTN said Anna Sayer, who led marketing at The Trade Desk for seven years, joined this week as chief marketing officer. The CEO described it as part of wider leadership changes.",
+      "sources": [
+        "Benzinga (MNTN Q3 2026 earnings call transcript)"
+      ],
+      "date": "2026-11-04",
+      "url": "https://www.benzinga.com/news/26/11/62895804/mntn-q3-2026-earnings-call-transcript",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
         "marketing": "Medium"
       }
     }
