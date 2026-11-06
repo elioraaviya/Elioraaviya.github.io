@@ -1,31 +1,30 @@
 {
-  "updated": "2026-11-05T05:46:46.257Z",
+  "updated": "2026-11-06T05:45:07.439Z",
   "intersection": [
     {
-      "headline": "Sports Direct and Nike launch first brand-exclusive Christmas ad with Haaland, Williamson, Asher-Smith and Pollock",
-      "summary": "'Unwrap Potential' was created by Chaos x Magic and directed by Tyrus Hill. It stars Erling Haaland, England captain Leah Williamson, sprinter Dina Asher-Smith, rugby's Henry Pollock and rapper Aitch as gift advisers under an 'Athlete Intelligence' concept. It is Sports Direct's first brand-exclusive Christmas ad with Nike and runs across TV, social, OOH and 900+ stores, with talent-led gift guides.",
+      "headline": "Caitlin Clark signs multiyear partnership with Dick's Sporting Goods and Foot Locker",
+      "summary": "Clark is the first individual athlete either retailer has named a brand partner. She will front promotional campaigns, appear in stores and promote her signature footwear and apparel. It comes after her Nike Caitlin 1 shoe sold out and builds on her record $28m Nike deal.",
       "sources": [
-        "FashionNetwork UK",
-        "Drapers",
-        "Retail Gazette"
+        "WWD",
+        "Fadeaway World (citing CNBC)"
       ],
-      "date": "2026-11-03",
-      "url": "https://uk.fashionnetwork.com/news/Sports-direct-links-up-with-haaland-and-nike-for-gifting-focused-festive-campaign,1881405.html",
+      "date": "2026-11-04",
+      "url": "https://wwd.com/business-news/marketing-promotion/caitlin-clark-brand-partner-dicks-foot-locker-basketball-nike-1239399159",
       "scores": {
-        "sports": "Medium",
+        "sports": "High",
         "fashion": "Medium",
         "marketing": "High"
       }
     },
     {
-      "headline": "AC Milan reportedly set for record €500m, 10-year Adidas kit deal from 2028-29",
-      "summary": "Italian reports, including La Gazzetta dello Sport, say Milan will reunite with Adidas from 2028-29. The reported value is €50m a year, which would be the richest kit deal in Italian football. It would replace Puma, whose deal runs to 2027-28. Figures vary: another report puts it nearer €30m a year, and no official announcement is expected until late 2027 or early 2028.",
+      "headline": "AC Milan reported to return to Adidas in record 10-year kit deal from 2028",
+      "summary": "Reports citing La Gazzetta dello Sport say Milan will drop Puma for Adidas from summer 2028, worth about €50m a year. That would be Serie A's most lucrative kit deal and a big jump on the roughly €30m a year Puma pays. It is a setback for Puma, which may also lose the Serie A ball contract. This is based on press reports and has not been officially confirmed.",
       "sources": [
-        "Footy Headlines",
-        "Sempre Milan"
+        "Inside World Football",
+        "Football Italia (via Yahoo Sports)"
       ],
-      "date": "2026-11-04",
-      "url": "https://www.footyheadlines.com/6741956980/no-more-puma-ac-milan-reportedly-agrees-record-breaking-500m-adidas-kit-deal.html",
+      "date": "2026-11-06",
+      "url": "https://www.insideworldfootball.com/2026/11/06/adidas-takes-ac-milan-kit-back-from-puma-in-10-year-56m-per-season-deal",
       "scores": {
         "sports": "High",
         "fashion": "Medium",
@@ -35,15 +34,15 @@
   ],
   "sports": [
     {
-      "headline": "WNBA Finals set viewership and attendance records after Valkyries' first title",
-      "summary": "The Golden State Valkyries' Game 7 win over the Atlanta Dream drew 3.3 million viewers, the most-watched WNBA postseason game ever. The seven-game series averaged 1.88 million viewers, the most-watched Finals since 1999. All seven games sold out, and the league also posted its most-watched postseason since 1997. Some outlets note that the all-time-record claims carry qualifiers.",
+      "headline": "LIV Golf to shut down after BC Partners pulls its $300m rescue",
+      "summary": "LIV Golf told a US bankruptcy court it will wind down instead of launching a 'LIV 2.0' in 2027. BC Partners withdrew its $300m offer because too few top players committed. The league lost Saudi PIF funding after spending more than $5bn since 2022. The collapse ends five years of breakaway golf and reshapes the sport's landscape.",
       "sources": [
         "ESPN",
-        "NBC New York (AP)",
-        "Yahoo Sports (NY Post)"
+        "AP (via Fox59)",
+        "SportsPro"
       ],
-      "date": "2026-11-04",
-      "url": "https://www.espn.com/wnba/story/_/id/50379540/wnba-finals-saw-surge-attendance-record-ratings",
+      "date": "2026-11-05",
+      "url": "https://www.espn.com/golf/story/_/id/50390178/liv-golf-lacks-support-20-model-winds-operations",
       "scores": {
         "sports": "Very high",
         "fashion": "Very low",
@@ -51,28 +50,13 @@
       }
     },
     {
-      "headline": "Sky Sports lands UK rights to new women's team golf league WTGL",
-      "summary": "Sky Sports has exclusive UK rights to WTGL, a women's version of the tech-led TGL golf league developed with the LPGA. The first season starts on 8 November. Charley Hull, Lottie Woad and Jeeno Thitikul are among the first confirmed players. Sky also extended its TGL deal by two years.",
+      "headline": "Ferrari to hold crunch meeting after Hamilton–Leclerc clash in Mexico",
+      "summary": "Team boss Fred Vasseur has called Lewis Hamilton and Charles Leclerc together in Brazil. Their opening-lap battle in Mexico let Max Verstappen win, and Vasseur called it a 'lack of respect' to Ferrari's staff. Hamilton says he will 'never be silenced'.",
       "sources": [
-        "Broadband TV News"
-      ],
-      "date": "2026-11-04",
-      "url": "https://broadbandtvnews.com/2026/11/04/sky-sports-adds-new-womens-golf-league-wtgl",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "Liverpool FC owners emerge as potential buyers of Cadillac F1 stake as Mark Walter seeks a sale",
-      "summary": "Autosport reports that Liverpool's owners are among the potential buyers of part of Mark Walter's majority stake in the Cadillac F1 team. Sportico first reported the sale, at a valuation of about $3bn. Walter has also moved to sell the Lakers and his Chelsea stake. Sportico's original report appeared on 2 November; Autosport adds the new buyer angle.",
-      "sources": [
-        "Autosport",
-        "Sportico"
+        "The Race"
       ],
       "date": "2026-11-05",
-      "url": "https://www.autosport.com/f1/news/liverpool-fc-owners-emerge-as-potential-buyers-of-cadillac-f1-shares-amid-twg-uncertainty/10871500/",
+      "url": "https://www.the-race.com/formula-1/ferrari-drivers-set-for-crunch-meeting-in-brazil/",
       "scores": {
         "sports": "High",
         "fashion": "Very low",
@@ -80,88 +64,46 @@
       }
     },
     {
-      "headline": "Adidas reportedly replaces Puma as Serie A's official ball supplier from 2027-28",
-      "summary": "Multiple Italian reports say Adidas will take over from Puma as Serie A's ball supplier. The deal would also cover the Coppa Italia, Supercoppa and Serie B. It would add Serie A to Adidas's growing set of ball deals in Europe's top leagues, after the Bundesliga this season. This is based on reports, not an official announcement.",
+      "headline": "ICC Women's T20 World Cup 2026 sets records for viewing hours and attendance",
+      "summary": "The ICC reports 471 million viewing hours and 245,815 spectators across the tournament, more than 100,000 above the previous attendance record. The Lord's final drew 28,887, the biggest women's cricket crowd in the UK. Source is a niche women's cricket site relaying ICC figures, and I could not find the ICC release.",
       "sources": [
-        "Inside World Football"
+        "Female Cricket"
       ],
-      "date": "2026-11-04",
-      "url": "https://www.insideworldfootball.com/2026/11/04/adidas-bounces-puma-to-win-serie-a-official-ball-deal/",
+      "date": "2026-11-05",
+      "url": "https://femalecricket.com/women-cricket-news/99627-icc-womens-t20-world-cup-2026-sets-record-with-471-million-viewing-hours.html",
       "scores": {
         "sports": "High",
-        "fashion": "Low",
+        "fashion": "Very low",
         "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "College sports bill in peril after Democrats sweep midterms",
-      "summary": "Front Office Sports reports that the Protect College Sports Act is now unlikely to pass the House, including in the lame-duck period. Sources say Democrats have little incentive to back it. The outcome matters for the NCAA's attempt to get a legal and regulatory framework for college athletics.",
-      "sources": [
-        "Front Office Sports"
-      ],
-      "date": "2026-11-04",
-      "url": "https://frontofficesports.com/article/college-sports-bill-in-peril-after-democrats-sweep-midterm-elections/",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Very low",
-        "marketing": "Low"
       }
     }
   ],
   "fashion": [
     {
-      "headline": "Yeezy returns to the runway with Season 01 show in Los Angeles",
-      "summary": "Ye staged Yeezy Season 01 on 4 November at the brand's new Los Angeles flagship. It was the label's first major runway show since 2022. The show was streamed on Kick. Unreleased Ye music was reportedly used in the soundtrack. It follows Yeezy's soft relaunch and a stockist deal with JD Sports.",
+      "headline": "Pierpaolo Piccioli exits Balenciaga after about 16 months",
+      "summary": "Kering announced Piccioli's departure as creative director and said new creative direction will be named 'shortly'. It follows recent exits of Anthony Vaccarello at Saint Laurent and Sean McGirr at Alexander McQueen. Puck reports Martine Rose is the replacement, but Kering has not confirmed this.",
       "sources": [
-        "Complex",
-        "WWD"
+        "Reuters (via Asharq Al-Awsat)",
+        "Fashionista",
+        "Business of Fashion"
       ],
-      "date": "2026-11-04",
-      "url": "https://www.complex.com/style/a/jose-martinez/yeezy-season-01-runway-show-los-angeles",
+      "date": "2026-11-05",
+      "url": "https://english.aawsat.com/fashion/5338053-balenciaga-designer-piccioli-exit-after-year-latest-departure-kering",
       "scores": {
-        "sports": "Low",
+        "sports": "Very low",
         "fashion": "Very high",
         "marketing": "Medium"
       }
     },
     {
-      "headline": "Coperni, known for Bella Hadid's spray-painted dress, announces closure",
-      "summary": "Founders Arnaud Vaillant and Sébastien Meyer announced the closure of Coperni. The brand had entered receivership in June amid a long dispute with majority shareholder and exclusive distributor Tomorrow. The closure is a significant casualty for a culturally prominent label.",
-      "sources": [
-        "WWD"
-      ],
-      "date": "2026-11-04",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/coperni-brand-closure-tomorrow-dispute-1239399873/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "A-Cold-Wall names Joshua Bullen as first designer in residence",
-      "summary": "Owner Four Marketing is moving the label from a founder-led brand to a studio-driven platform that will rotate guest designers. Bullen is a former Kenzo, Givenchy and Stone Island designer. His debut collection is set for AW27 in Paris. This is the brand's first creative leadership change since founder Samuel Ross sold it.",
+      "headline": "Coperni founders shut down the brand",
+      "summary": "Founders Arnaud Vaillant and Sébastien Meyer say French entity Coperni SAS will cease operations. They could not reach an agreement with stakeholder and distributor Tomorrow, a closure that follows a 2021 acquisition by the brand accelerator.",
       "sources": [
         "Business of Fashion",
-        "WWD",
-        "FashionNetwork"
-      ],
-      "date": "2026-11-04",
-      "url": "https://www.businessoffashion.com/news/creative-class/a-cold-wall-names-joshua-bullen-as-first-designer-in-residence/",
-      "scores": {
-        "sports": "Low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Veronica Etro returns to fashion with new brand Off the Menu",
-      "summary": "In a WWD exclusive, the former Etro creative figure is launching Off the Menu on Thursday. The brand will offer tightly edited collections of pieces conceived almost as collectibles, and is headquartered in a Milan loft.",
-      "sources": [
         "WWD"
       ],
       "date": "2026-11-04",
-      "url": "https://wwd.com/fashion-news/designer-luxury/veronica-etro-off-the-menu-fashion-brand-launch-1239399791",
+      "url": "https://www.businessoffashion.com/topics/luxury/",
       "scores": {
         "sports": "Very low",
         "fashion": "High",
@@ -169,13 +111,13 @@
       }
     },
     {
-      "headline": "Rachel Scott and Ralph Lauren lead winners at 2026 CFDA Fashion Awards",
-      "summary": "Rachel Scott of Diotima won American Womenswear Designer of the Year and Ralph Lauren won Menswear. The ceremony was held at the American Museum of Natural History on Monday 2 November. Keke Palmer hosted, and the evening marked the 30th anniversary of the CFDA Scholarship Fund.",
+      "headline": "Ralph Lauren's quarterly forecast disappoints despite a raised annual outlook",
+      "summary": "Investors sold the stock because expectations for sustained rapid growth were high. The results are read as a gauge of whether accessible American brands can keep winning as European luxury spending cools.",
       "sources": [
-        "FashionNetwork India"
+        "Business of Fashion"
       ],
-      "date": "2026-11-04",
-      "url": "https://in.fashionnetwork.com/news/Rachel-scott-ralph-lauren-lead-winners-at-2026-cfda-fashion-awards,1881669.html",
+      "date": "2026-11-05",
+      "url": "https://www.businessoffashion.com/topics/retail/",
       "scores": {
         "sports": "Very low",
         "fashion": "High",
@@ -183,92 +125,49 @@
       }
     },
     {
-      "headline": "Dolce & Gabbana's 2026 holiday campaign turns glamour into a cinematic hotel fantasy",
-      "summary": "The Italian house's holiday campaign was shot by Gordon von Steiner in a crimson hotel setting. It features gold dresses, tuxedos and leopard-print accents.",
+      "headline": "Australian department store David Jones collapses after almost 200 years",
+      "summary": "The department-store model of dozens of fashion and beauty brands under one roof gave way to cheaper, nimbler online rivals. It is a landmark retail casualty.",
       "sources": [
-        "WWD"
+        "Business of Fashion"
       ],
-      "date": "2026-11-04",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/dolce-gabbana-holiday-2026-campaign-1239398302/",
+      "date": "2026-11-05",
+      "url": "https://www.businessoffashion.com/news/",
       "scores": {
         "sports": "Very low",
         "fashion": "High",
-        "marketing": "Medium"
+        "marketing": "Low"
       }
     }
   ],
   "marketing": [
     {
-      "headline": "John Lewis enlists Kristin Scott Thomas and Sam Fender for 20th Christmas ad",
-      "summary": "It is the first time John Lewis has used a famous face to front its Christmas ad. The tagline is 'Don't Give Up on Giving', and the campaign aims to restore gifting confidence, backed by research that over half of customers feel unconfident about gifts. Saatchi & Saatchi created it, and it launched on 3 November with a three-minute hero film.",
+      "headline": "McDonald's splits top US marketing role as CMO Alyssa Buetikofer exits",
+      "summary": "Buetikofer is leaving after 15 years, less than two years into the role, and will stay until 18 December. Global CMO Morgan Flatley becomes interim US chief creative officer. Charlie Newberger is interim US chief marketing and commercial officer while a permanent successor is sought. It follows a soft Q3 in which US comparable sales dipped 0.2%.",
       "sources": [
-        "Marketing Week",
-        "Campaign"
+        "Adweek",
+        "Marketing Dive",
+        "Nation's Restaurant News"
       ],
-      "date": "2026-11-03",
-      "url": "https://www.marketingweek.com/john-lewis-2026-christmas-campaign/",
+      "date": "2026-11-05",
+      "url": "https://www.adweek.com/brand-marketing/mcdonalds-splits-top-us-marketing-job-as-us-cmo-alyssa-buetikofer-exits/",
       "scores": {
         "sports": "Very low",
-        "fashion": "Low",
+        "fashion": "Very low",
         "marketing": "Very high"
       }
     },
     {
-      "headline": "SharkNinja's first global holiday campaign unites Beckham, Brady, Hart and Sabalenka",
-      "summary": "The in-house campaign builds on the brand's 'Neighbors' series. It used leaked 'CCTV' clips and denial videos from the stars as teasers before the full spot. Digiday frames it as an example of 'entertainment-first' advertising.",
+      "headline": "Allwyn UK creates its first CMO role, appointing Stephen Taylor as interim",
+      "summary": "The National Lottery operator is introducing a chief marketing officer for the first time as it restructures leadership. Taylor, formerly of PayPal, Samsung and Pizza Express, starts on 17 November. The role covers brand, creative, CRM, communications, product marketing and customer experience.",
       "sources": [
-        "Adweek",
-        "Digiday"
+        "Marketing Week"
       ],
-      "date": "2026-11-04",
-      "url": "https://www.adweek.com/brand-marketing/sharkninjas-holiday-ad-puts-david-beckhams-gadgets-at-the-mercy-of-his-celeb-pals/",
+      "date": "2026-11-05",
+      "url": "https://www.marketingweek.com/allwyn-first-cmo-role-shake-up/",
       "scores": {
         "sports": "Low",
         "fashion": "Very low",
         "marketing": "High"
-      }
-    },
-    {
-      "headline": "Boots launches Christmas campaign with first Netflix takeover; CMO explains new brand voice",
-      "summary": "Boots' 'For Gifts They'll Really Love' campaign, from VML and WPP, runs under its 'Give it Some Boots' platform. It includes the retailer's first 20-second TV edits and its first Netflix takeover. CMO Charlotte Lock explains the media-mix and brand-voice thinking in a Marketing Week interview.",
-      "sources": [
-        "Marketing Week",
-        "365Retail"
-      ],
-      "date": "2026-11-04",
-      "url": "https://marketingweek.com/boots-gifting-christmas-2026",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Very's Christmas ad blends CGI and AI-assisted animation for a new flamingo family",
-      "summary": "Very's 'That's the Very Thing' campaign, from agency The Gate and producer M3Labs, expands its animated flamingo cast. It mixes CGI with AI-assisted animation, which makes it a visible example of AI in a major UK retail ad.",
-      "sources": [
-        "Drapers"
-      ],
-      "date": "2026-11-04",
-      "url": "https://drapersonline.com/topics/christmas-trading-topics/very-unveils-2026-christmas-advert",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Low",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "MNTN hires The Trade Desk's long-time marketing chief as CMO",
-      "summary": "On its Q3 earnings call, MNTN said Anna Sayer, who led marketing at The Trade Desk for seven years, joined this week as chief marketing officer. The CEO described it as part of wider leadership changes.",
-      "sources": [
-        "Benzinga (MNTN Q3 2026 earnings call transcript)"
-      ],
-      "date": "2026-11-04",
-      "url": "https://www.benzinga.com/news/26/11/62895804/mntn-q3-2026-earnings-call-transcript",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "Medium"
       }
     }
   ]
