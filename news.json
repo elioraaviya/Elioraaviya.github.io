@@ -1,32 +1,17 @@
 {
-  "updated": "2026-11-06T05:45:07.439Z",
+  "updated": "2026-11-07T05:34:48.518Z",
   "intersection": [
     {
-      "headline": "Caitlin Clark signs multiyear partnership with Dick's Sporting Goods and Foot Locker",
-      "summary": "Clark is the first individual athlete either retailer has named a brand partner. She will front promotional campaigns, appear in stores and promote her signature footwear and apparel. It comes after her Nike Caitlin 1 shoe sold out and builds on her record $28m Nike deal.",
+      "headline": "Adidas takes AC Milan kit back from Puma in 10-year, $56m-a-season deal",
+      "summary": "AC Milan will return to Adidas from summer 2028 in a deal worth about $56m a season, one of the most lucrative kit agreements in Italian football. Milan's last Puma deal was worth roughly $33.6m a season. Adidas supplied the club for 20 years from 1998 to 2018. The news comes in the same week as reports that Adidas will also take the Serie A match ball from Puma from 2027-28.",
       "sources": [
-        "WWD",
-        "Fadeaway World (citing CNBC)"
-      ],
-      "date": "2026-11-04",
-      "url": "https://wwd.com/business-news/marketing-promotion/caitlin-clark-brand-partner-dicks-foot-locker-basketball-nike-1239399159",
-      "scores": {
-        "sports": "High",
-        "fashion": "Medium",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "AC Milan reported to return to Adidas in record 10-year kit deal from 2028",
-      "summary": "Reports citing La Gazzetta dello Sport say Milan will drop Puma for Adidas from summer 2028, worth about €50m a year. That would be Serie A's most lucrative kit deal and a big jump on the roughly €30m a year Puma pays. It is a setback for Puma, which may also lose the Serie A ball contract. This is based on press reports and has not been officially confirmed.",
-      "sources": [
-        "Inside World Football",
-        "Football Italia (via Yahoo Sports)"
+        "https://www.insideworldfootball.com/2026/11/06/adidas-takes-ac-milan-kit-back-from-puma-in-10-year-56m-per-season-deal/",
+        "https://www.insideworldfootball.com/2026/11/04/adidas-bounces-puma-to-win-serie-a-official-ball-deal/"
       ],
       "date": "2026-11-06",
-      "url": "https://www.insideworldfootball.com/2026/11/06/adidas-takes-ac-milan-kit-back-from-puma-in-10-year-56m-per-season-deal",
+      "url": "https://www.insideworldfootball.com/2026/11/06/adidas-takes-ac-milan-kit-back-from-puma-in-10-year-56m-per-season-deal/",
       "scores": {
-        "sports": "High",
+        "sports": "Medium",
         "fashion": "Medium",
         "marketing": "High"
       }
@@ -34,15 +19,15 @@
   ],
   "sports": [
     {
-      "headline": "LIV Golf to shut down after BC Partners pulls its $300m rescue",
-      "summary": "LIV Golf told a US bankruptcy court it will wind down instead of launching a 'LIV 2.0' in 2027. BC Partners withdrew its $300m offer because too few top players committed. The league lost Saudi PIF funding after spending more than $5bn since 2022. The collapse ends five years of breakaway golf and reshapes the sport's landscape.",
+      "headline": "Fenway Sports Group named as suitor as Mark Walter shops Cadillac F1 stake at $3bn+ valuation",
+      "summary": "Mark Walter's TWG Global is reportedly exploring a sale of its controlling stake in the Cadillac F1 team at a valuation of at least $3bn, after earlier denials. The Wall Street Journal says Liverpool and Red Sox owner Fenway Sports Group is one of several suitors. The Guardian reports FSG has discussed a majority stake worth more than £2bn. TWG says no sale is imminent.",
       "sources": [
-        "ESPN",
-        "AP (via Fox59)",
-        "SportsPro"
+        "https://www.f1-fansite.com/f1-news/fenway-sports-group-reportedly-in-talks-over-cadillac-f1-stake/",
+        "https://www.autoracing1.com/pl/508416/formula-1-news-fenway-sports-group-in-talks-for-cadillac-f1",
+        "https://www.crash.net/f1/news/1109319/1/liverpool-fc-owners-emerge-potential-buyers-cadillac-f1-team-stake"
       ],
       "date": "2026-11-05",
-      "url": "https://www.espn.com/golf/story/_/id/50390178/liv-golf-lacks-support-20-model-winds-operations",
+      "url": "https://www.f1-fansite.com/f1-news/fenway-sports-group-reportedly-in-talks-over-cadillac-f1-stake/",
       "scores": {
         "sports": "Very high",
         "fashion": "Very low",
@@ -50,27 +35,27 @@
       }
     },
     {
-      "headline": "Ferrari to hold crunch meeting after Hamilton–Leclerc clash in Mexico",
-      "summary": "Team boss Fred Vasseur has called Lewis Hamilton and Charles Leclerc together in Brazil. Their opening-lap battle in Mexico let Max Verstappen win, and Vasseur called it a 'lack of respect' to Ferrari's staff. Hamilton says he will 'never be silenced'.",
+      "headline": "ICC Women's T20 World Cup 2026 sets records with 471 million viewing hours",
+      "summary": "The ICC says the tournament set viewing and attendance records. It drew 245,815 spectators across 25 matchdays, more than 100,000 above the previous record. The Lord's final drew 28,887, the largest women's cricket crowd in the UK. This is a clear sign of commercial and audience growth in women's sport.",
       "sources": [
-        "The Race"
-      ],
-      "date": "2026-11-05",
-      "url": "https://www.the-race.com/formula-1/ferrari-drivers-set-for-crunch-meeting-in-brazil/",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "ICC Women's T20 World Cup 2026 sets records for viewing hours and attendance",
-      "summary": "The ICC reports 471 million viewing hours and 245,815 spectators across the tournament, more than 100,000 above the previous attendance record. The Lord's final drew 28,887, the biggest women's cricket crowd in the UK. Source is a niche women's cricket site relaying ICC figures, and I could not find the ICC release.",
-      "sources": [
-        "Female Cricket"
+        "https://femalecricket.com/women-cricket-news/99627-icc-womens-t20-world-cup-2026-sets-record-with-471-million-viewing-hours.html"
       ],
       "date": "2026-11-05",
       "url": "https://femalecricket.com/women-cricket-news/99627-icc-womens-t20-world-cup-2026-sets-record-with-471-million-viewing-hours.html",
+      "scores": {
+        "sports": "Very high",
+        "fashion": "Very low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "NBA heads to Mexico City as Adam Silver touts the city as a future expansion location",
+      "summary": "The NBA plays its fifth straight regular-season game in Mexico this weekend, the 35th NBA game there. It comes three weeks after Mexico City was floated as an expansion site. Owners were briefed on at least one Mexico City group that approached PJT Partners, the bank leading the expansion process. Silver says an expansion team could be an option 'down the road' but nothing is imminent.",
+      "sources": [
+        "https://sportico.com/leagues/basketball/2026/nba-expansion-mexico-city-adam-silver-1234957622"
+      ],
+      "date": "2026-11-06",
+      "url": "https://sportico.com/leagues/basketball/2026/nba-expansion-mexico-city-adam-silver-1234957622",
       "scores": {
         "sports": "High",
         "fashion": "Very low",
@@ -80,92 +65,33 @@
   ],
   "fashion": [
     {
-      "headline": "Pierpaolo Piccioli exits Balenciaga after about 16 months",
-      "summary": "Kering announced Piccioli's departure as creative director and said new creative direction will be named 'shortly'. It follows recent exits of Anthony Vaccarello at Saint Laurent and Sean McGirr at Alexander McQueen. Puck reports Martine Rose is the replacement, but Kering has not confirmed this.",
+      "headline": "Martine Rose named Balenciaga creative director, the house's first woman in the role",
+      "summary": "Kering confirmed the British-Jamaican designer as Pierpaolo Piccioli's successor, just hours after his departure was announced. She starts on 16 November 2026 and is the first woman to lead the house creatively in its 109-year history. She previously consulted for Demna from 2015 to 2018. Her first collection is expected at Paris Fashion Week in March 2027.",
       "sources": [
-        "Reuters (via Asharq Al-Awsat)",
-        "Fashionista",
-        "Business of Fashion"
+        "https://us.fashionnetwork.com/news/Balenciaga-appoints-martine-rose-as-creative-director,1882691.html",
+        "https://www.wallpaper.com/fashion-beauty/martine-rose-balenciaga-creative-director",
+        "https://www.marieclaire.com/fashion/martine-rose-balenciaga-creative-director/"
       ],
-      "date": "2026-11-05",
-      "url": "https://english.aawsat.com/fashion/5338053-balenciaga-designer-piccioli-exit-after-year-latest-departure-kering",
+      "date": "2026-11-06",
+      "url": "https://us.fashionnetwork.com/news/Balenciaga-appoints-martine-rose-as-creative-director,1882691.html",
       "scores": {
         "sports": "Very low",
         "fashion": "Very high",
         "marketing": "Medium"
       }
-    },
-    {
-      "headline": "Coperni founders shut down the brand",
-      "summary": "Founders Arnaud Vaillant and Sébastien Meyer say French entity Coperni SAS will cease operations. They could not reach an agreement with stakeholder and distributor Tomorrow, a closure that follows a 2021 acquisition by the brand accelerator.",
-      "sources": [
-        "Business of Fashion",
-        "WWD"
-      ],
-      "date": "2026-11-04",
-      "url": "https://www.businessoffashion.com/topics/luxury/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Ralph Lauren's quarterly forecast disappoints despite a raised annual outlook",
-      "summary": "Investors sold the stock because expectations for sustained rapid growth were high. The results are read as a gauge of whether accessible American brands can keep winning as European luxury spending cools.",
-      "sources": [
-        "Business of Fashion"
-      ],
-      "date": "2026-11-05",
-      "url": "https://www.businessoffashion.com/topics/retail/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Australian department store David Jones collapses after almost 200 years",
-      "summary": "The department-store model of dozens of fashion and beauty brands under one roof gave way to cheaper, nimbler online rivals. It is a landmark retail casualty.",
-      "sources": [
-        "Business of Fashion"
-      ],
-      "date": "2026-11-05",
-      "url": "https://www.businessoffashion.com/news/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
     }
   ],
   "marketing": [
     {
-      "headline": "McDonald's splits top US marketing role as CMO Alyssa Buetikofer exits",
-      "summary": "Buetikofer is leaving after 15 years, less than two years into the role, and will stay until 18 December. Global CMO Morgan Flatley becomes interim US chief creative officer. Charlie Newberger is interim US chief marketing and commercial officer while a permanent successor is sought. It follows a soft Q3 in which US comparable sales dipped 0.2%.",
+      "headline": "McDonald's US chief marketing officer Alyssa Buetikofer steps down",
+      "summary": "McDonald's told its system on Thursday that its US chief marketing and customer experience officer is leaving. Global CMO Morgan Flatley will serve as interim chief creative officer. Charlie Newberger, a 17-year veteran who led global beverage strategy, becomes interim US chief marketing and commercial officer while the company searches for a replacement.",
       "sources": [
-        "Adweek",
-        "Marketing Dive",
-        "Nation's Restaurant News"
+        "https://www.nrn.com/quick-service/mcdonald-s-is-changing-its-u-s-marketing-leadership"
       ],
       "date": "2026-11-05",
-      "url": "https://www.adweek.com/brand-marketing/mcdonalds-splits-top-us-marketing-job-as-us-cmo-alyssa-buetikofer-exits/",
+      "url": "https://www.nrn.com/quick-service/mcdonald-s-is-changing-its-u-s-marketing-leadership",
       "scores": {
         "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "Very high"
-      }
-    },
-    {
-      "headline": "Allwyn UK creates its first CMO role, appointing Stephen Taylor as interim",
-      "summary": "The National Lottery operator is introducing a chief marketing officer for the first time as it restructures leadership. Taylor, formerly of PayPal, Samsung and Pizza Express, starts on 17 November. The role covers brand, creative, CRM, communications, product marketing and customer experience.",
-      "sources": [
-        "Marketing Week"
-      ],
-      "date": "2026-11-05",
-      "url": "https://www.marketingweek.com/allwyn-first-cmo-role-shake-up/",
-      "scores": {
-        "sports": "Low",
         "fashion": "Very low",
         "marketing": "High"
       }
