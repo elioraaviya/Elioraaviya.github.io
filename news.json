@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-08T05:36:26.458Z",
+  "updated": "2026-11-09T05:50:45.563Z",
   "intersection": [],
   "sports": [
     {
-      "headline": "Messi becomes first player to win back-to-back MLS Golden Boots",
-      "summary": "Inter Miami's Lionel Messi finished the 2026 regular season with a league-high 26 goals in 31 games. That made him the first player in MLS history to win consecutive Golden Boots, after 29 goals in 2025. The 39-year-old signed an Inter Miami extension through 2028 last month. He is also favourite for MVP as Miami head into the playoffs as the East's No. 2 seed.",
+      "headline": "Norris wins wet São Paulo GP as Mercedes clinch 2026 Constructors' Championship",
+      "summary": "Lando Norris beat Max Verstappen in a wet São Paulo Grand Prix. Verstappen climbed to second from 21st on the grid, and Red Bull's Isack Hadjar made it a double podium. Fourth and fifth places for George Russell and Kimi Antonelli were enough to give Mercedes the Constructors' title.",
       "sources": [
-        "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
-        "https://www.espn.com/soccer/story/_/id/50411686/lionel-messi-mls-golden-boot-2026-winner-inter-miami",
-        "https://lufkindailynews.com/news_reuters/sports/soccer-messi-becomes-first-to-win-mls-golden-boot-in-consecutive-seasons/article_fca4fffd-6b14-5d47-a3cd-0acf78f4e7dd.html"
+        "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
+        "https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil",
+        "https://www.espn.com/f1/story/_/id/50389160/sao-paulo-grand-prix-2026-live-updates-results-analysis-commentary"
       ],
-      "date": "2026-11-07",
-      "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+      "date": "2026-11-08",
+      "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
       "scores": {
         "sports": "Very high",
         "fashion": "Very low",
@@ -19,67 +19,38 @@
       }
     },
     {
-      "headline": "Nestlé Confectionery becomes Official Partner of Everton Women in multi-year deal",
-      "summary": "Nestlé Confectionery has signed a multi-year deal as Official Chocolate and Grab Bag Sweet Partner of Everton Women. Everton calls it an important step in the team's growth. Trade coverage frames it as a sign that major consumer-goods brands see women's football as a way to reach families and younger consumers.",
+      "headline": "WTA Finals open at Indian Wells without defending champion Rybakina",
+      "summary": "The season-ending WTA Finals began on 8 November at Indian Wells for the first time. Reigning champion Elena Rybakina withdrew through illness and was replaced by first alternate Marta Kostyuk. Linda Nosková won her opener against Kostyuk and Coco Gauff beat Jessica Pegula in a three-set match.",
       "sources": [
-        "https://confectionerynews.com/Article/2026/11/06/nestle-backs-womens-sport-in-major-multi-year-everton-deal"
+        "https://en.tennistemple.com/competitions/wta-finals-2026/14915/orderofplay/2026-11-08",
+        "https://tennisuptodate.com/wta/wta-finals-2026-results-schedule-draw-field-prize-money-history-and-format",
+        "https://www.wtatennis.com/news/4599683/wta-finals-indian-wells-2026-everything-you-need-to-know-schedule-groups-prize-money"
       ],
-      "date": "2026-11-06",
-      "url": "https://confectionerynews.com/Article/2026/11/06/nestle-backs-womens-sport-in-major-multi-year-everton-deal",
+      "date": "2026-11-08",
+      "url": "https://en.tennistemple.com/competitions/wta-finals-2026/14915/orderofplay/2026-11-08",
       "scores": {
-        "sports": "Medium",
+        "sports": "High",
         "fashion": "Very low",
-        "marketing": "Medium"
-      }
-    }
-  ],
-  "fashion": [
-    {
-      "headline": "Martine Rose named Balenciaga creative director, first woman to lead the house",
-      "summary": "Kering and Balenciaga confirmed the British-Jamaican designer as creative director on 6 November. She succeeds Pierpaolo Piccioli, whose exit was announced only hours earlier after less than two years in the role. Rose previously consulted on menswear under Demna and starts on 16 November 2026. Marie Claire describes her as the first woman to lead the house creatively in its 109-year history.",
-      "sources": [
-        "https://us.fashionnetwork.com/news/Balenciaga-appoints-martine-rose-as-creative-director,1882691.html",
-        "https://www.wallpaper.com/fashion-beauty/martine-rose-balenciaga-creative-director",
-        "https://www.marieclaire.com/fashion/martine-rose-balenciaga-creative-director/"
-      ],
-      "date": "2026-11-06",
-      "url": "https://us.fashionnetwork.com/news/Balenciaga-appoints-martine-rose-as-creative-director,1882691.html",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very high",
-        "marketing": "Medium"
-      }
-    }
-  ],
-  "marketing": [
-    {
-      "headline": "Etsy CMO Brad Minor on breaking down channel silos and the Olivia Rodrigo partnership",
-      "summary": "Ad Age's Brand Marketer of the Month profile looks at how Etsy's CMO has pursued a customer-centric approach across previously siloed departments. It covers the human-first brand anthem and the partnership with Olivia Rodrigo, and ties them to the company's results.",
-      "sources": [
-        "https://adage.com/brand-marketing/aa-brand-marketer-etsy-cmo"
-      ],
-      "date": "2026-11-06",
-      "url": "https://adage.com/brand-marketing/aa-brand-marketer-etsy-cmo",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Low",
-        "marketing": "High"
+        "marketing": "Low"
       }
     },
     {
-      "headline": "JD Sports launches global 'Create The New' Christmas campaign led by musicians, athletes and creators",
-      "summary": "JD Sports unveiled its global Christmas 2026 campaign on 6 November. The cast is led by dance-music artists Sammy Virji, Josh Baker and Chris Stassy, alongside footballers Ferran Torres and Lauren James and creators including Skye Newman. It frames the festive period as a time to keep creating rather than leaning on nostalgia, and links to Nike, adidas Originals, New Balance, Salomon and On product. It is a seasonal retail campaign, so it ranks low.",
+      "headline": "Claire Liu wins first WTA title as Alex Eala, now set for a career-high world No.15, is beaten in the Hong Kong Open final",
+      "summary": "World No.102 Claire Liu beat second seed Alex Eala 6-3, 6-0 in Hong Kong for her first tour title. Eala was dealing with a knee problem. She had become the first Filipino to win a WTA title in August. She is set to reach a career-high ranking of No.15 on Monday after a breakout season.",
       "sources": [
-        "https://retailboss.co/jd-sports-launches-create-the-new-christmas-campaign",
-        "https://365retail.co.uk/jd-create-the-new-christmas-campaign-2026"
+        "https://www.espn.com/tennis/story/_/id/50417709/alex-eala-falls-short-second-wta-title-loses-claire-liu-hong-kong-open-final",
+        "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets",
+        "https://tennishead.net/alex-eala-set-to-achieve-career-first-despite-losing-the-hong-kong-open-final/"
       ],
-      "date": "2026-11-06",
-      "url": "https://retailboss.co/jd-sports-launches-create-the-new-christmas-campaign",
+      "date": "2026-11-08",
+      "url": "https://www.espn.com/tennis/story/_/id/50417709/alex-eala-falls-short-second-wta-title-loses-claire-liu-hong-kong-open-final",
       "scores": {
-        "sports": "Low",
-        "fashion": "Medium",
-        "marketing": "Medium"
+        "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Low"
       }
     }
-  ]
+  ],
+  "fashion": [],
+  "marketing": []
 }
