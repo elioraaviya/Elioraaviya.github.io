@@ -1,33 +1,47 @@
 {
-  "updated": "2026-11-09T05:50:45.563Z",
-  "intersection": [],
+  "updated": "2026-11-10T05:40:42.466Z",
+  "intersection": [
+    {
+      "headline": "New Balance becomes the Dallas Mavericks' official footwear and apparel partner in a multi-year deal",
+      "summary": "This is the brand's first whole-team NBA deal. It builds on its sponsorship of rookie-of-the-year Cooper Flagg, who has been with New Balance since his Duke days. The deal covers co-branded merchandise, in-arena activations and community programmes, and was launched with a two-day fan activation outside the arena. Financial terms were not disclosed, and a Flagg signature shoe is expected but undated.",
+      "sources": [
+        "https://www.nba.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
+        "https://sneakernews.com/2026/11/09/dallas-mavericks-new-balance-partnership/",
+        "https://dallassportsjournal.com/dallas-mavericks-new-balance-official-footwear-apparel-partner-cooper-flagg/"
+      ],
+      "date": "2026-11-08",
+      "url": "https://www.nba.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
+      "scores": {
+        "sports": "High",
+        "fashion": "Medium",
+        "marketing": "High"
+      }
+    }
+  ],
   "sports": [
     {
-      "headline": "Norris wins wet São Paulo GP as Mercedes clinch 2026 Constructors' Championship",
-      "summary": "Lando Norris beat Max Verstappen in a wet São Paulo Grand Prix. Verstappen climbed to second from 21st on the grid, and Red Bull's Isack Hadjar made it a double podium. Fourth and fifth places for George Russell and Kimi Antonelli were enough to give Mercedes the Constructors' title.",
+      "headline": "Skydance's Ellison weighs which sports rights to keep after $110bn WBD takeover",
+      "summary": "After closing its Warner Bros. Discovery deal, Skydance holds rights to nearly every major US league except the NBA. It also carries roughly $80bn of debt. David Ellison told analysts he is reviewing the CBS Sports and TNT Sports portfolio but gave no detail on what might be sold. Sportico's coverage of the earnings call is dated 9 November.",
       "sources": [
-        "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
-        "https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil",
-        "https://www.espn.com/f1/story/_/id/50389160/sao-paulo-grand-prix-2026-live-updates-results-analysis-commentary"
+        "https://sportico.com/business/media/2026/skydance-earnings-stock-david-ellison-sports-rights-debt-1234957938"
       ],
-      "date": "2026-11-08",
-      "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
+      "date": "2026-11-09",
+      "url": "https://sportico.com/business/media/2026/skydance-earnings-stock-david-ellison-sports-rights-debt-1234957938",
       "scores": {
-        "sports": "Very high",
+        "sports": "High",
         "fashion": "Very low",
-        "marketing": "Low"
+        "marketing": "Medium"
       }
     },
     {
-      "headline": "WTA Finals open at Indian Wells without defending champion Rybakina",
-      "summary": "The season-ending WTA Finals began on 8 November at Indian Wells for the first time. Reigning champion Elena Rybakina withdrew through illness and was replaced by first alternate Marta Kostyuk. Linda Nosková won her opener against Kostyuk and Coco Gauff beat Jessica Pegula in a three-set match.",
+      "headline": "NWSL announces 2026 awards finalists, with Temwa Chawinga and Trinity Rodman among the MVP contenders",
+      "summary": "The league named its finalists on 9 November and opened a fan-voting round. Votes close on 11 November. Winners will be revealed on ESPN2 on 18 November, ahead of the 21 November championship. Just Women's Sports leads on Chawinga and Rodman.",
       "sources": [
-        "https://en.tennistemple.com/competitions/wta-finals-2026/14915/orderofplay/2026-11-08",
-        "https://tennisuptodate.com/wta/wta-finals-2026-results-schedule-draw-field-prize-money-history-and-format",
-        "https://www.wtatennis.com/news/4599683/wta-finals-indian-wells-2026-everything-you-need-to-know-schedule-groups-prize-money"
+        "https://rsl.com/utahroyals/news/nwsl-announces-finalists-for-2026-awards-opens-fan-voting-round",
+        "https://justwomenssports.com/"
       ],
-      "date": "2026-11-08",
-      "url": "https://en.tennistemple.com/competitions/wta-finals-2026/14915/orderofplay/2026-11-08",
+      "date": "2026-11-09",
+      "url": "https://rsl.com/utahroyals/news/nwsl-announces-finalists-for-2026-awards-opens-fan-voting-round",
       "scores": {
         "sports": "High",
         "fashion": "Very low",
@@ -35,22 +49,92 @@
       }
     },
     {
-      "headline": "Claire Liu wins first WTA title as Alex Eala, now set for a career-high world No.15, is beaten in the Hong Kong Open final",
-      "summary": "World No.102 Claire Liu beat second seed Alex Eala 6-3, 6-0 in Hong Kong for her first tour title. Eala was dealing with a knee problem. She had become the first Filipino to win a WTA title in August. She is set to reach a career-high ranking of No.15 on Monday after a breakout season.",
+      "headline": "Montreal MLS club enlists banks to launch sale process",
+      "summary": "The club is one of three MLS teams whose value fell in Sportico's 2026 valuations. Its value dropped 4% to $430m. The move signals pressure on some MLS franchises as the league heads into its 'MLS 3.0' reset.",
       "sources": [
-        "https://www.espn.com/tennis/story/_/id/50417709/alex-eala-falls-short-second-wta-title-loses-claire-liu-hong-kong-open-final",
-        "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets",
-        "https://tennishead.net/alex-eala-set-to-achieve-career-first-despite-losing-the-hong-kong-open-final/"
+        "Sportico (via Yahoo Sports): https://sports.yahoo.com/articles/montreal-mls-team-enlists-banks-223357665.html"
       ],
-      "date": "2026-11-08",
-      "url": "https://www.espn.com/tennis/story/_/id/50417709/alex-eala-falls-short-second-wta-title-loses-claire-liu-hong-kong-open-final",
+      "date": "2026-11-09",
+      "url": "https://sports.yahoo.com/articles/montreal-mls-team-enlists-banks-223357665.html",
       "scores": {
-        "sports": "High",
+        "sports": "Medium",
         "fashion": "Very low",
         "marketing": "Low"
       }
     }
   ],
-  "fashion": [],
-  "marketing": []
+  "fashion": [
+    {
+      "headline": "Jason Rabin leads management buyout of Centric Brands, with MSP Sports Capital among the backers",
+      "summary": "WWD reports that Rabin takes a majority stake alongside Axar Capital, M-Cor Capital and MSP Sports Capital. The company licenses apparel across fashion and sports. It supplies the NBA and NHL and sells to Amazon and arenas, and the investors say its sports side is still growing.",
+      "sources": [
+        "https://wwd.com/business-news/business-features/jason-rabin-leads-management-buyout-centric-brands-1239395483/"
+      ],
+      "date": "2026-11-09",
+      "url": "https://wwd.com/business-news/business-features/jason-rabin-leads-management-buyout-centric-brands-1239395483/",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "High",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Max Mara Fashion Group quietly launches new contemporary label M-M For Mondays and More",
+      "summary": "The Italian group has added an 11th brand to a portfolio that includes Sportmax, Max&Co. and Pennyblack. The label is built around an everyday wardrobe and the ideas of minimalism, movement and modularity.",
+      "sources": [
+        "https://wwd.com/fashion-news/fashion-scoops/max-mara-fashion-group-new-brand-mm-for-mondays-and-more-1239401968/"
+      ],
+      "date": "2026-11-09",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/max-mara-fashion-group-new-brand-mm-for-mondays-and-more-1239401968/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Low"
+      }
+    }
+  ],
+  "marketing": [
+    {
+      "headline": "American Express names Jess Ling chief marketing officer",
+      "summary": "Ling, currently EVP of global brand advertising, takes the role on 30 November. She follows Elizabeth Rutledge, who retires in March and will work with her through the handover. Ling has been at Amex since 2019 and helped build its in-house creative agency, OnBrand.",
+      "sources": [
+        "https://brand-innovators.com/jess-ling-named-cmo-of-american-express/"
+      ],
+      "date": "2026-11-09",
+      "url": "https://brand-innovators.com/jess-ling-named-cmo-of-american-express/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "Very high"
+      }
+    },
+    {
+      "headline": "Ad Age top 5 creative campaigns: Tesco, Xbox, Amazon and more",
+      "summary": "Ad Age's weekly creative round-up picks two retailer Christmas spots about journeys home. It adds a remembrance campaign, a hand-painted car ad and a video game console ad. It is useful analysis of current campaigns.",
+      "sources": [
+        "https://adage.com/creativity/campaigns-commercials/aa-best-creative-ads-xbox-amazon-tesco"
+      ],
+      "date": "2026-11-09",
+      "url": "https://adage.com/creativity/campaigns-commercials/aa-best-creative-ads-xbox-amazon-tesco",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "ChatGPT is about to show brands how often users mention them",
+      "summary": "Digiday reports that OpenAI is preparing a first-party dashboard for brand mentions. It would sit alongside third-party tools such as Profound and Adthena, which sell estimates of brand visibility in ChatGPT. The dashboard is still in beta and lacks the prompt and competitor data those vendors offer.",
+      "sources": [
+        "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/"
+      ],
+      "date": "2026-11-09",
+      "url": "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    }
+  ]
 }
