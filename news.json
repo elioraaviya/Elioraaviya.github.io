@@ -1,139 +1,69 @@
 {
-  "updated": "2026-11-10T05:40:42.466Z",
-  "intersection": [
-    {
-      "headline": "New Balance becomes the Dallas Mavericks' official footwear and apparel partner in a multi-year deal",
-      "summary": "This is the brand's first whole-team NBA deal. It builds on its sponsorship of rookie-of-the-year Cooper Flagg, who has been with New Balance since his Duke days. The deal covers co-branded merchandise, in-arena activations and community programmes, and was launched with a two-day fan activation outside the arena. Financial terms were not disclosed, and a Flagg signature shoe is expected but undated.",
-      "sources": [
-        "https://www.nba.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
-        "https://sneakernews.com/2026/11/09/dallas-mavericks-new-balance-partnership/",
-        "https://dallassportsjournal.com/dallas-mavericks-new-balance-official-footwear-apparel-partner-cooper-flagg/"
-      ],
-      "date": "2026-11-08",
-      "url": "https://www.nba.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
-      "scores": {
-        "sports": "High",
-        "fashion": "Medium",
-        "marketing": "High"
-      }
-    }
-  ],
+  "updated": "2026-11-11T05:44:41.456Z",
+  "intersection": [],
   "sports": [
     {
-      "headline": "Skydance's Ellison weighs which sports rights to keep after $110bn WBD takeover",
-      "summary": "After closing its Warner Bros. Discovery deal, Skydance holds rights to nearly every major US league except the NBA. It also carries roughly $80bn of debt. David Ellison told analysts he is reviewing the CBS Sports and TNT Sports portfolio but gave no detail on what might be sold. Sportico's coverage of the earnings call is dated 9 November.",
+      "headline": "LIV Golf files Chapter 11 plan to liquidate, with a final hearing set for January",
+      "summary": "LIV Golf has filed a bankruptcy plan for an orderly wind-down. It says no viable restructuring remains because players did not commit and BC Partners ended its $300m financing agreement. The Saudi PIF, the league's biggest creditor, spent more than $5bn on LIV, and unsecured creditors face about $100m in claims against a $2m recovery pool. A hearing on Nov. 24 would conditionally approve the disclosure statement, and a final hearing is proposed for Jan. 7.",
       "sources": [
-        "https://sportico.com/business/media/2026/skydance-earnings-stock-david-ellison-sports-rights-debt-1234957938"
+        "ESPN",
+        "Front Office Sports",
+        "The Washington Post"
       ],
-      "date": "2026-11-09",
-      "url": "https://sportico.com/business/media/2026/skydance-earnings-stock-david-ellison-sports-rights-debt-1234957938",
+      "date": "2026-11-10",
+      "url": "https://www.espn.com/golf/story/_/id/50446488/liv-golf-files-bankruptcy-plan-eyes-january-liquidation",
       "scores": {
-        "sports": "High",
+        "sports": "Very high",
         "fashion": "Very low",
         "marketing": "Medium"
       }
     },
     {
-      "headline": "NWSL announces 2026 awards finalists, with Temwa Chawinga and Trinity Rodman among the MVP contenders",
-      "summary": "The league named its finalists on 9 November and opened a fan-voting round. Votes close on 11 November. Winners will be revealed on ESPN2 on 18 November, ahead of the 21 November championship. Just Women's Sports leads on Chawinga and Rodman.",
+      "headline": "Sabalenka and Andreeva win WTA Finals openers, setting up a Group 2 decider",
+      "summary": "Aryna Sabalenka, now ranked world No. 2, beat Karolina Muchova 7-6(2) 7-5. French Open champion Mirra Andreeva, 19, beat Elina Svitolina 6-4 6-0 on her tournament debut. The two meet on Wednesday for control of the group. This is a tournament-state item rather than a score-only report, and it is weaker than the LIV story.",
       "sources": [
-        "https://rsl.com/utahroyals/news/nwsl-announces-finalists-for-2026-awards-opens-fan-voting-round",
-        "https://justwomenssports.com/"
+        "Arab News",
+        "Yahoo Sports"
       ],
       "date": "2026-11-09",
-      "url": "https://rsl.com/utahroyals/news/nwsl-announces-finalists-for-2026-awards-opens-fan-voting-round",
+      "url": "https://www.arabnews.com/tennis/sabalenka-andreeva-make-winning-starts-at-wta-finals-3010864",
       "scores": {
         "sports": "High",
         "fashion": "Very low",
         "marketing": "Low"
       }
-    },
-    {
-      "headline": "Montreal MLS club enlists banks to launch sale process",
-      "summary": "The club is one of three MLS teams whose value fell in Sportico's 2026 valuations. Its value dropped 4% to $430m. The move signals pressure on some MLS franchises as the league heads into its 'MLS 3.0' reset.",
-      "sources": [
-        "Sportico (via Yahoo Sports): https://sports.yahoo.com/articles/montreal-mls-team-enlists-banks-223357665.html"
-      ],
-      "date": "2026-11-09",
-      "url": "https://sports.yahoo.com/articles/montreal-mls-team-enlists-banks-223357665.html",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Very low",
-        "marketing": "Low"
-      }
     }
   ],
-  "fashion": [
-    {
-      "headline": "Jason Rabin leads management buyout of Centric Brands, with MSP Sports Capital among the backers",
-      "summary": "WWD reports that Rabin takes a majority stake alongside Axar Capital, M-Cor Capital and MSP Sports Capital. The company licenses apparel across fashion and sports. It supplies the NBA and NHL and sells to Amazon and arenas, and the investors say its sports side is still growing.",
-      "sources": [
-        "https://wwd.com/business-news/business-features/jason-rabin-leads-management-buyout-centric-brands-1239395483/"
-      ],
-      "date": "2026-11-09",
-      "url": "https://wwd.com/business-news/business-features/jason-rabin-leads-management-buyout-centric-brands-1239395483/",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Max Mara Fashion Group quietly launches new contemporary label M-M For Mondays and More",
-      "summary": "The Italian group has added an 11th brand to a portfolio that includes Sportmax, Max&Co. and Pennyblack. The label is built around an everyday wardrobe and the ideas of minimalism, movement and modularity.",
-      "sources": [
-        "https://wwd.com/fashion-news/fashion-scoops/max-mara-fashion-group-new-brand-mm-for-mondays-and-more-1239401968/"
-      ],
-      "date": "2026-11-09",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/max-mara-fashion-group-new-brand-mm-for-mondays-and-more-1239401968/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    }
-  ],
+  "fashion": [],
   "marketing": [
     {
-      "headline": "American Express names Jess Ling chief marketing officer",
-      "summary": "Ling, currently EVP of global brand advertising, takes the role on 30 November. She follows Elizabeth Rutledge, who retires in March and will work with her through the handover. Ling has been at Amex since 2019 and helped build its in-house creative agency, OnBrand.",
+      "headline": "Ogilvy and CAA launch ECHO, an AI platform for consent-based celebrity and athlete advertising",
+      "summary": "Ogilvy, working with WPP and CAA, has launched ECHO. It turns a single celebrity or ambassador shoot into 30–50 localised ad assets using likenesses licensed through the CAA Vault. Talent must approve every asset, and finished work carries an 'Approved | Recreated with AI' label. ECHO is available across the WPP network now. It is a significant shift for how endorsement-led campaigns are produced.",
       "sources": [
-        "https://brand-innovators.com/jess-ling-named-cmo-of-american-express/"
+        "The Hollywood Reporter",
+        "LBB",
+        "AWN"
       ],
       "date": "2026-11-09",
-      "url": "https://brand-innovators.com/jess-ling-named-cmo-of-american-express/",
+      "url": "https://www.hollywoodreporter.com/business/business-news/caa-ai-celebrity-advertising-machine-1236751106/",
       "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "Very high"
-      }
-    },
-    {
-      "headline": "Ad Age top 5 creative campaigns: Tesco, Xbox, Amazon and more",
-      "summary": "Ad Age's weekly creative round-up picks two retailer Christmas spots about journeys home. It adds a remembrance campaign, a hand-painted car ad and a video game console ad. It is useful analysis of current campaigns.",
-      "sources": [
-        "https://adage.com/creativity/campaigns-commercials/aa-best-creative-ads-xbox-amazon-tesco"
-      ],
-      "date": "2026-11-09",
-      "url": "https://adage.com/creativity/campaigns-commercials/aa-best-creative-ads-xbox-amazon-tesco",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
+        "sports": "Low",
+        "fashion": "Low",
         "marketing": "High"
       }
     },
     {
-      "headline": "ChatGPT is about to show brands how often users mention them",
-      "summary": "Digiday reports that OpenAI is preparing a first-party dashboard for brand mentions. It would sit alongside third-party tools such as Profound and Adthena, which sell estimates of brand visibility in ChatGPT. The dashboard is still in beta and lacks the prompt and competitor data those vendors offer.",
+      "headline": "Margot Robbie's Papa Salt gin creates its first global marketing role",
+      "summary": "Papa Salt Coastal Gin, co-founded by Margot Robbie, has hired Richard Pilbeam as global marketing director in a newly created role. He will lead brand strategy as the gin expands from Australia into the UK and other markets. The brand sold more than 46,000 bottles last year. It is a smaller-scale leadership move, included for the celebrity-brand angle.",
       "sources": [
-        "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/"
+        "B&T"
       ],
-      "date": "2026-11-09",
-      "url": "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/",
+      "date": "2026-11-11",
+      "url": "https://bandt.com.au/margot-robbies-gin-brand-papa-salt-hires-first-global-cmo",
       "scores": {
         "sports": "Very low",
         "fashion": "Very low",
-        "marketing": "High"
+        "marketing": "Medium"
       }
     }
   ]
