@@ -1,199 +1,115 @@
 {
-  "updated": "2026-11-12T05:48:02.369Z",
-  "intersection": [
-    {
-      "headline": "On posts record Q3 and lifts margin outlook as its Mbappé-led football push gathers pace",
-      "summary": "On's Q3 sales rose 17.2% to CHF 931.4m, with apparel up sharply, and it raised its full-year gross margin outlook. Reuters links demand to celebrity collaborations, including the Kylian Mbappé football signing and Thierry Henry as director of football. Shares fell about 7.5% on concerns that US tariff refunds flattered the profit. Reports also mention a China controversy involving Mbappé.",
-      "sources": [
-        "Reuters",
-        "WWD Footwear News",
-        "Benzinga"
-      ],
-      "date": "2026-11-10",
-      "url": "https://www.globalbankingandfinance.com/sportswear-brand-expects-higher-profit-margin-strong/",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "High",
-        "marketing": "Medium"
-      }
-    }
-  ],
+  "updated": "2026-11-13T05:46:47.917Z",
+  "intersection": [],
   "sports": [
     {
-      "headline": "Noskova upsets Gauff at WTA Finals as Rybakina's absence opens up Indian Wells",
-      "summary": "Wimbledon champion Linda Noskova beat Coco Gauff on Tuesday to reach the semi-finals of the WTA Finals. Top seed Elena Rybakina withdrew on Sunday with illness and fatigue. Aryna Sabalenka and Mirra Andreeva meet on Wednesday with a semi-final place in reach. The event runs to 15 November.",
+      "headline": "Manchester United sack Michael Carrick and agree deal with USA coach Mauricio Pochettino",
+      "summary": "United sacked Carrick on Thursday after their worst-ever start to a Premier League season, with the club in the relegation zone. They have agreed a two-and-a-half-year deal with Pochettino, which runs to summer 2029. Reports say United will pay a buyout of about $10m to release him from his USA contract. A formal announcement is expected Friday. He is set to be United's eighth permanent appointment since Sir Alex Ferguson retired.",
       "sources": [
-        "Philippine Daily Inquirer",
-        "TennisUpToDate",
-        "SI.com"
+        "Sky Sports",
+        "Fox Sports",
+        "Malay Mail"
       ],
-      "date": "2026-11-10",
-      "url": "https://sports.inquirer.net/",
+      "date": "2026-11-12",
+      "url": "https://www.skysports.com/football/news/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick",
       "scores": {
-        "sports": "High",
+        "sports": "Very high",
         "fashion": "Very low",
         "marketing": "Low"
       }
     },
     {
-      "headline": "Kamario Taylor lands $7.5m deal to return to Mississippi State",
-      "summary": "ProFootballTalk reports that the college football player's $7.5m return deal sets a new bar for pay in the college game. It is part of a wider shift in how college athletes are paid.",
+      "headline": "Mirra Andreeva routs Aryna Sabalenka at the WTA Finals to reach the semi-finals",
+      "summary": "French Open champion Andreeva beat world number two Sabalenka 6-4, 6-0, winning 11 straight games, and topped Group 2 on her WTA Finals debut. Sabalenka now needs to beat Elina Svitolina on Friday to reach the last four. Reports say the result puts Andreeva close to a new ranking milestone.",
       "sources": [
-        "ProFootballTalk (NBC Sports)"
+        "Tennis Majors",
+        "Tennis365",
+        "Yahoo Sports"
       ],
       "date": "2026-11-11",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill",
+      "url": "https://www.tennismajors.com/wta-tour-news/wta-finals/sabalenka-implodes-again-as-andreeva-wins-11-straight-games-to-reach-wta-finals-semi-finals-866788.html",
+      "scores": {
+        "sports": "Very high",
+        "fashion": "Low",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Inaugural Swim GP launches in Melbourne, billed as the 'F1 of swimming'",
+      "summary": "Four teams of 20 swimmers (Kraken, Wahoo, KingTide and Tsunami) race for points over two nights, 13–14 November, in a 25m pool with no times recorded. The made-for-TV format adds fan voting, bonus points and 'coaches calls'. Kyle Chalmers and Mollie O'Callaghan have withdrawn through injury and illness, while Kaylee McKeown returns.",
+      "sources": [
+        "SwimSwam",
+        "AAP",
+        "Swimming Australia"
+      ],
+      "date": "2026-11-12",
+      "url": "https://swimswam.com/kyle-chalmers-withdraws-from-inaugural-swimgp-in-australia-due-to-injury/",
       "scores": {
         "sports": "High",
-        "fashion": "Very low",
+        "fashion": "Low",
         "marketing": "Medium"
       }
     },
     {
-      "headline": "Rugby League World Cup finals set: Kangaroos name side for Brisbane decider as Kiwi Ferns eye Jillaroos",
-      "summary": "Australia coach Kevin Walters has named his team to face New Zealand in the final at Suncorp Stadium on Sunday. In the women's final, the Kiwi Ferns say they can exploit the Jillaroos' 'cracks and flaws'.",
-      "sources": [
-        "PACNEWS Sports (AAP/NRL)"
-      ],
-      "date": "2026-11-11",
-      "url": "https://islandsbusiness.com/pacnews/pacnews-sports-11-november-2026/",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "College Football Playoff rankings: Georgia No. 1, Ohio State outside the top 10",
-      "summary": "The latest CFP rankings put Georgia first and leave Ohio State outside the top 10. Coaches are questioning the committee's approach and the role of conferences as the playoff expands.",
-      "sources": [
-        "FOX Sports"
-      ],
-      "date": "2026-11-11",
-      "url": "https://www.foxsports.com/stories",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Olympic champion Tatjana Smith switches allegiance to the Netherlands",
-      "summary": "Al Jazeera reports that the top South African Olympian is switching national allegiance to the Netherlands, a notable move in international swimming.",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "date": "2026-11-11",
-      "url": "https://www.aljazeera.com/sports/",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Stadium boom brings new pressure to deliver beyond game day",
-      "summary": "At Sportico's Invest New York event, Related Companies' Bruce Beal Jr. argued that new venues must anchor year-round neighbourhoods. Related is applying this at Willets Point, the future home of NYCFC's Etihad Park.",
+      "headline": "Otro Capital hires bank to explore sale of its Alpine F1 stake",
+      "summary": "Investment firm Otro Capital has hired BDT & MSD Partners to explore selling its minority stake in the Alpine Formula 1 team, according to Sportico, which cites four people familiar with the matter. The move shows continued investor activity in F1 team valuations.",
       "sources": [
         "Sportico"
       ],
       "date": "2026-11-11",
-      "url": "https://www.sportico.com/business/real-estate/2026/stadium-sportico-invest-new-york-related-bruce-beal-1234957916/",
+      "url": "https://www.sportico.com/",
       "scores": {
-        "sports": "Medium",
+        "sports": "High",
         "fashion": "Very low",
-        "marketing": "Low"
+        "marketing": "Medium"
       }
     }
   ],
   "fashion": [
     {
-      "headline": "Capri Holdings names Estée Lauder executive Justin Boxford as CEO",
-      "summary": "The Michael Kors owner has named the beauty veteran to succeed chief executive John Idol early next year. It is a major leadership change at a global luxury group.",
+      "headline": "Capri Holdings names Estée Lauder veteran Justin Boxford CEO as John Idol retires",
+      "summary": "Boxford, most recently global president of Estée Lauder's luxury beauty brands, becomes CEO of the Michael Kors and Jimmy Choo owner on 4 January 2027. He succeeds John Idol, who has led Capri since 2003 and will stay on as senior adviser until 31 March 2027. Robin Freestone becomes independent chairman. The change comes as Capri works to revive demand at Michael Kors.",
       "sources": [
-        "The Business of Fashion"
-      ],
-      "date": "2026-11-11",
-      "url": "https://www.businessoffashion.com/topics/fashion-week/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very high",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Tod's and creative director Matteo Tamburini part ways",
-      "summary": "The Italian label says it will sharpen its focus on its heritage and Italian identity after the designer's exit following nearly three years. It is the latest creative-director change at a major Italian house.",
-      "sources": [
-        "The Business of Fashion",
+        "Reuters",
+        "FashionUnited UK",
         "WWD"
       ],
       "date": "2026-11-11",
-      "url": "https://wwd.com/wwd-publications/digital-daily/2026-11-11-1239410197/",
+      "url": "https://www.investing.com/news/stock-market-news/capri-holdings-names-estee-lauder-senior-executive-justin-boxford-new-ceo-5018878",
       "scores": {
         "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Tekken x Nike Air Max 1 'Combo' collaboration set for holiday 2026",
-      "summary": "Nike's .SWOOSH account has unveiled the Tekken collaboration, built around the character King, with jaguar-print detailing. It includes two Air Max 1 colourways at $160 and matching apparel. Release details are still to come.",
-      "sources": [
-        "Sneaker Files",
-        "EventHubs"
-      ],
-      "date": "2026-11-11",
-      "url": "https://sneakerfiles.com/tekken-nike-air-max-1-king-combo",
-      "scores": {
-        "sports": "Low",
-        "fashion": "Medium",
+        "fashion": "Very high",
         "marketing": "Medium"
       }
     }
   ],
   "marketing": [
     {
-      "headline": "Google's AI ad losses are Meta's gain as advertisers shift budgets",
-      "summary": "Google's stock fell more than 10% after its Q3 call because of slowing search ad growth, which has been blamed on its own AI Mode. Six advertisers and agency executives told The Information they have moved spend to Meta. Chatbot ad formats are also starting to multiply.",
-      "sources": [
-        "AdExchanger",
-        "The Information"
-      ],
-      "date": "2026-11-11",
-      "url": "https://adexchanger.com/daily-news-roundup/wednesday-11112026",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Inside Waitrose's six-minute Christmas rom-com",
-      "summary": "Waitrose is treating its Christmas marketing like a film release. Its top marketer explains how the 'multi-dimensional campaign' ties back to the overarching brand platform.",
-      "sources": [
-        "Marketing Week"
-      ],
-      "date": "2026-11-10",
-      "url": "https://www.marketingweek.com/waitrose-christmas-rom-com-2026/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Volvo and Eden Project turn plant data into music for Sky Nature sponsorship",
-      "summary": "An unconventional sponsorship activation that uses plant data to create music for Sky Nature.",
+      "headline": "England Netball campaign celebrates women's participation in the history of the sport",
+      "summary": "Campaign reports on a new England Netball campaign that looks back at the history of women's participation in the sport. It is a creative piece of marketing that supports women's sport. Only the Campaign homepage listing, dated 11 November 2026, was available, so the article link is the site homepage.",
       "sources": [
         "Campaign"
       ],
       "date": "2026-11-11",
       "url": "https://www.campaignlive.co.uk/",
       "scores": {
-        "sports": "Very low",
+        "sports": "Medium",
         "fashion": "Very low",
         "marketing": "High"
+      }
+    },
+    {
+      "headline": "Omnicom Media creates new brand president role for UM EMEA",
+      "summary": "Campaign reports that Omnicom Media has named a brand president of UM EMEA, a new role for the agency. It is a senior agency leadership move. Only the Campaign media section listing, dated 12 November 2026, was available.",
+      "sources": [
+        "Campaign"
+      ],
+      "date": "2026-11-12",
+      "url": "https://www.campaignlive.co.uk/news/media",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "Medium"
       }
     }
   ]
