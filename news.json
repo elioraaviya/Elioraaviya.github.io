@@ -1,31 +1,46 @@
 {
-  "updated": "2026-11-14T05:37:11.660Z",
+  "updated": "2026-11-15T05:40:33.205Z",
   "intersection": [],
   "sports": [
     {
-      "headline": "Big 12 commissioner Brett Yormark to become CEO of RedBird's new Milan Sports & Entertainment",
-      "summary": "Sportico reports that Brett Yormark is leaving the Big 12 to run RedBird Capital's new Milan Sports & Entertainment holding company. The company is built around AC Milan, the planned new stadium, a possible NBA Europe franchise and a tennis venue. He reports to Gerry Cardinale and starts after leaving the Big 12 at the end of January 2027.",
+      "headline": "Manchester United sack Carrick as Pochettino deal is agreed",
+      "summary": "Insider Sport's 'Sideline Moves' column reports that Manchester United have sacked Michael Carrick and agreed a deal for Mauricio Pochettino to take over. This is a headline-level report. I could not open the full article and the club had not confirmed the move in the sources I found.",
       "sources": [
-        "https://www.sportico.com/personalities/executives/2026/brett-yormark-redbird-capital-gerry-cardinale-milan-sports-1234958292/",
-        "https://awfulannouncing.com/college-football/former-big-12-commissioner-brett-yormark-is-heading-to-milan.html",
-        "https://www.alternativeswatch.com/2026/11/13/redbird-milan-sports-entertainment-ac-milan-brett-yormark-ceo/"
+        "https://insidersport.com/"
       ],
       "date": "2026-11-13",
-      "url": "https://www.sportico.com/personalities/executives/2026/brett-yormark-redbird-capital-gerry-cardinale-milan-sports-1234958292/",
+      "url": "https://insidersport.com/",
       "scores": {
-        "sports": "High",
+        "sports": "Very high",
         "fashion": "Very low",
-        "marketing": "Medium"
+        "marketing": "Low"
       }
     },
     {
-      "headline": "ATP Finals: tour sponsorship revenue jumps a record 49% to pass US$100m for the first time",
-      "summary": "SportsPro's business preview of the Turin season-ender says the ATP's central sponsorship revenue rose 49% this year, passing US$100m for the first time. It also covers new deals with EQT, K-Swiss and Julius Baer, and notes the stalled planned WTA merger and the congested calendar.",
+      "headline": "Andreeva beats Pegula to become first teenager in a WTA Finals final since 2004",
+      "summary": "Mirra Andreeva, 19, beat Jessica Pegula 6-3 6-4 at Indian Wells and has not dropped a set in the tournament. The match followed Pegula being caught on a hot mic calling her a 'diva'. She will face Elina Svitolina in Sunday's final, after Svitolina beat Linda Noskova 6-2 6-1.",
       "sources": [
-        "https://sportspro.com/analysis/finance-investment/2026-atp-finals-turin-prize-money-broadcasters-sponsors-business-preview"
+        "https://www.wtatennis.com/news/4609124/mirra-andreeva-books-first-fage-wta-finals-championship-ticket-after-semifinal-win-over-jessica-pegula",
+        "https://www.skysports.com/tennis/news/13612358/wta-finals-mirra-andreeva-eliminates-jessica-pegula-to-reach-final-winning-in-straight-sets-after-diva-criticism",
+        "https://www.canberratimes.com.au/story/9391738/andreeva-svitolina-set-up-title-clash-at-wta-finals/"
+      ],
+      "date": "2026-11-14",
+      "url": "https://www.wtatennis.com/news/4609124/mirra-andreeva-books-first-fage-wta-finals-championship-ticket-after-semifinal-win-over-jessica-pegula",
+      "scores": {
+        "sports": "Very high",
+        "fashion": "Very low",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "NBA names Fanatics Studios creative and event production partner for All-Star",
+      "summary": "The NBA and Fanatics Studios, a joint venture between Fanatics and OBB, announced a multiyear collaboration. Fanatics Studios will handle in-arena events, competitions and original content, starting with NBA All-Star 2027 in Phoenix.",
+      "sources": [
+        "https://www.sportsvideo.org/news/",
+        "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-november-13-1234958343/"
       ],
       "date": "2026-11-13",
-      "url": "https://sportspro.com/analysis/finance-investment/2026-atp-finals-turin-prize-money-broadcasters-sponsors-business-preview",
+      "url": "https://www.sportsvideo.org/news/",
       "scores": {
         "sports": "High",
         "fashion": "Low",
@@ -36,66 +51,62 @@
   "fashion": [
     {
       "headline": "Frasers installs David Epstein as Hugo Boss CEO as Daniel Grieder steps down",
-      "summary": "Hugo Boss named Frasers Group's chief brand partnerships officer David Epstein as CEO from 1 January 2027, succeeding Daniel Grieder. The move comes after Frasers took majority control in October and deepens its grip on the German fashion group. Hugo Boss has also had a run of senior departures and recently cut its 2026 outlook.",
+      "summary": "Frasers Group's chief brand partnerships officer David Epstein will become Hugo Boss CEO on 1 January 2027, succeeding Daniel Grieder, who leaves on 31 December. Frasers took majority control in October, and the German group recently cut its 2026 outlook. Reuters broke the story on 12 November.",
       "sources": [
-        "https://finance.yahoo.com/markets/stocks/articles/frasers-executive-david-epstein-becomes-175928793.html",
-        "https://fashionunited.uk/news/people/new-boss-at-hugo-boss-frasers-installs-david-epstein-as-grieder-steps-down/2026111291370",
-        "https://www.businessoffashion.com/news/retail/frasers-tightens-grip-on-hugo-boss-with-new-ceo-pick/"
-      ],
-      "date": "2026-11-12",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/frasers-executive-david-epstein-becomes-175928793.html",
-      "scores": {
-        "sports": "Low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Burberry posts fifth straight quarter of comparable sales growth as turnaround gains traction",
-      "summary": "Burberry's first-half revenue rose 6% to £1.1bn and adjusted operating profit more than tripled to £62m. Comparable retail sales were up 4%, led by the Americas and Greater China, with double-digit outerwear growth. Shares jumped almost 10%, though EMEIA sales slipped and no interim dividend was declared.",
-      "sources": [
-        "https://www.theretailbulletin.com/fashion/burberry-extends-growth-streak-to-fifth-straight-quarter-12-11-2026/",
-        "https://www.retailgazette.co.uk/blog/2026/11/burberry-bounces-back-into-profit-as-turnaround-pays-off/",
-        "https://homeofdirectcommerce.com/news/burberry-results-h1/"
-      ],
-      "date": "2026-11-12",
-      "url": "https://www.theretailbulletin.com/fashion/burberry-extends-growth-streak-to-fifth-straight-quarter-12-11-2026/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Asics shares sink 14%, the most since 2024, as earnings disappoint",
-      "summary": "Asics shares closed 14% lower in Tokyo after third-quarter results missed analyst expectations. The company held its full-year operating income outlook at ¥195bn, below the consensus estimate. Nine-month sales were strong overseas, but margins were squeezed as the sportswear market slows.",
-      "sources": [
-        "https://www.bloomberg.com/news/articles/2026-11-13/asics-plunges-most-since-2024-as-earnings-disappoint-investors",
-        "https://www.businessoffashion.com/news/sports/asics-earnings-disappoint-most-since-2024/",
-        "https://fashionunited.uk/news/business/asics-posts-strong-revenue-and-profit-growth-in-first-nine-months-of-2026/2026111391374"
+        "https://www.rte.ie/news/business/2026/1113/1599065-frasers-tightens-grip-at-hugo-boss-with-new-ceo-pick/",
+        "https://www.businessoffashion.com/news/retail/frasers-tightens-grip-on-hugo-boss-with-new-ceo-pick/",
+        "https://fashionunited.com/news/people/new-boss-at-hugo-boss-frasers-installs-david-epstein-as-grieder-steps-down/2026111275732"
       ],
       "date": "2026-11-13",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/asics-plunges-most-since-2024-as-earnings-disappoint-investors",
+      "url": "https://www.rte.ie/news/business/2026/1113/1599065-frasers-tightens-grip-at-hugo-boss-with-new-ceo-pick/",
       "scores": {
-        "sports": "Medium",
+        "sports": "Low",
+        "fashion": "Very high",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "P. Johnson names ex-Ferragamo marketing chief Cliff Fleiser as CMO",
+      "summary": "The Australian tailoring house has appointed Cliff Fleiser, previously SVP marketing and communications North America at Ferragamo, as chief marketing officer. He will report to founder and CEO Patrick Johnson. The role brings brand, PR, events, digital and CRM under one remit.",
+      "sources": [
+        "https://us.fashionnetwork.com/news/P-johnson-names-new-chief-marketing-officer,1884728.html"
+      ],
+      "date": "2026-11-13",
+      "url": "https://us.fashionnetwork.com/news/P-johnson-names-new-chief-marketing-officer,1884728.html",
+      "scores": {
+        "sports": "Very low",
         "fashion": "Medium",
-        "marketing": "Low"
+        "marketing": "Medium"
       }
     }
   ],
   "marketing": [
     {
-      "headline": "La Sportiva launches 'Nothing But Mountain' global brand platform with agency Mynt",
-      "summary": "The Italian outdoor performance brand has unveiled a long-term global communications platform built around a manifesto film narrated by climber Pietro Dal Prà. The platform is meant to unify how the brand communicates worldwide and will be developed through future campaigns.",
+      "headline": "Borussia Dortmund will not renew controversial Rheinmetall sponsorship",
+      "summary": "Dortmund chairman Carsten Cramer said the club will not extend the arms manufacturer's deal beyond its 30 June 2027 expiry. Fans have criticised the deal since it began, and it was reportedly worth up to €9m a year. The club will lose that income from summer 2027.",
       "sources": [
-        "https://retailtimes.co.uk/la-sportiva-unveils-new-global-brand-platform/"
+        "https://sitkasentinel.com/stories/borussia-dortmund-wont-extend-controversial-sponsorship-with-arms-manufacturer-rheinmetall,186051"
       ],
-      "date": "2026-11-13",
-      "url": "https://retailtimes.co.uk/la-sportiva-unveils-new-global-brand-platform/",
+      "date": "2026-11-14",
+      "url": "https://sitkasentinel.com/stories/borussia-dortmund-wont-extend-controversial-sponsorship-with-arms-manufacturer-rheinmetall,186051",
       "scores": {
-        "sports": "Medium",
-        "fashion": "Low",
-        "marketing": "Medium"
+        "sports": "High",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Omnicom Media lands Lufthansa Group's global media account",
+      "summary": "B&T's 14 November newsletter reports Omnicom Media has won Lufthansa Group's global media account. This is a headline-level report, and the newsletter is the only source I found.",
+      "sources": [
+        "https://bandt.com.au/newsletter/bt-newsletter-2026-11-14"
+      ],
+      "date": "2026-11-14",
+      "url": "https://bandt.com.au/newsletter/bt-newsletter-2026-11-14",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "High"
       }
     }
   ]
