@@ -1,113 +1,38 @@
 {
-  "updated": "2026-11-15T05:40:33.205Z",
-  "intersection": [],
-  "sports": [
+  "updated": "2026-11-16T05:57:35.233Z",
+  "intersection": [
     {
-      "headline": "Manchester United sack Carrick as Pochettino deal is agreed",
-      "summary": "Insider Sport's 'Sideline Moves' column reports that Manchester United have sacked Michael Carrick and agreed a deal for Mauricio Pochettino to take over. This is a headline-level report. I could not open the full article and the club had not confirmed the move in the sources I found.",
+      "headline": "Nike's first investor day in nine years: Elliott Hill to set out the turnaround plan",
+      "summary": "Nike hosts its first investor day since 2017 on 16-17 November, with CEO Elliott Hill expected to present a new five-year financial framework through fiscal 2031. Analysts want detail on the 'Pace' cost-savings programme, the China business, Converse and stabilising Jordan Brand. Nike has reorganised around vertical sport teams under its 'Sport Offense' model. Both pieces are previews published before the event, so check the outcome once the presentation is out.",
       "sources": [
-        "https://insidersport.com/"
+        "https://www.businessoffashion.com/briefings/retail/what-to-listen-for-at-nikes-high-stakes-investor-day/",
+        "https://wwd.com/footwear-news/shoe-industry-news/nike-investor-day-preview-analyst-predictions-1239416212/"
       ],
-      "date": "2026-11-13",
-      "url": "https://insidersport.com/",
+      "date": "2026-11-16",
+      "url": "https://www.businessoffashion.com/briefings/retail/what-to-listen-for-at-nikes-high-stakes-investor-day/",
       "scores": {
-        "sports": "Very high",
-        "fashion": "Very low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Andreeva beats Pegula to become first teenager in a WTA Finals final since 2004",
-      "summary": "Mirra Andreeva, 19, beat Jessica Pegula 6-3 6-4 at Indian Wells and has not dropped a set in the tournament. The match followed Pegula being caught on a hot mic calling her a 'diva'. She will face Elina Svitolina in Sunday's final, after Svitolina beat Linda Noskova 6-2 6-1.",
-      "sources": [
-        "https://www.wtatennis.com/news/4609124/mirra-andreeva-books-first-fage-wta-finals-championship-ticket-after-semifinal-win-over-jessica-pegula",
-        "https://www.skysports.com/tennis/news/13612358/wta-finals-mirra-andreeva-eliminates-jessica-pegula-to-reach-final-winning-in-straight-sets-after-diva-criticism",
-        "https://www.canberratimes.com.au/story/9391738/andreeva-svitolina-set-up-title-clash-at-wta-finals/"
-      ],
-      "date": "2026-11-14",
-      "url": "https://www.wtatennis.com/news/4609124/mirra-andreeva-books-first-fage-wta-finals-championship-ticket-after-semifinal-win-over-jessica-pegula",
-      "scores": {
-        "sports": "Very high",
-        "fashion": "Very low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "NBA names Fanatics Studios creative and event production partner for All-Star",
-      "summary": "The NBA and Fanatics Studios, a joint venture between Fanatics and OBB, announced a multiyear collaboration. Fanatics Studios will handle in-arena events, competitions and original content, starting with NBA All-Star 2027 in Phoenix.",
-      "sources": [
-        "https://www.sportsvideo.org/news/",
-        "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-november-13-1234958343/"
-      ],
-      "date": "2026-11-13",
-      "url": "https://www.sportsvideo.org/news/",
-      "scores": {
-        "sports": "High",
-        "fashion": "Low",
+        "sports": "Medium",
+        "fashion": "High",
         "marketing": "Medium"
       }
     }
   ],
+  "sports": [],
   "fashion": [
     {
-      "headline": "Frasers installs David Epstein as Hugo Boss CEO as Daniel Grieder steps down",
-      "summary": "Frasers Group's chief brand partnerships officer David Epstein will become Hugo Boss CEO on 1 January 2027, succeeding Daniel Grieder, who leaves on 31 December. Frasers took majority control in October, and the German group recently cut its 2026 outlook. Reuters broke the story on 12 November.",
+      "headline": "Louis Vuitton unveils Keith Haring collection across bags, knitwear and sculptural shoes",
+      "summary": "Louis Vuitton's new collection with the estate of Keith Haring turns his dancing figures and running hearts into bags, knitwear, accessories and shoes with lightbulb-shaped heels. Pieces were first shown at Art Basel Paris in October. The collection pairs street art with luxury craftsmanship. Marie Claire Australia is not a listed source and I could not find Louis Vuitton's own announcement, so treat this as lower-confidence and check the original brand release.",
       "sources": [
-        "https://www.rte.ie/news/business/2026/1113/1599065-frasers-tightens-grip-at-hugo-boss-with-new-ceo-pick/",
-        "https://www.businessoffashion.com/news/retail/frasers-tightens-grip-on-hugo-boss-with-new-ceo-pick/",
-        "https://fashionunited.com/news/people/new-boss-at-hugo-boss-frasers-installs-david-epstein-as-grieder-steps-down/2026111275732"
+        "https://marieclaire.com.au/fashion/from-subway-art-to-louis-vuitton-keith-harings-most-unexpected-fashion-moment"
       ],
-      "date": "2026-11-13",
-      "url": "https://www.rte.ie/news/business/2026/1113/1599065-frasers-tightens-grip-at-hugo-boss-with-new-ceo-pick/",
-      "scores": {
-        "sports": "Low",
-        "fashion": "Very high",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "P. Johnson names ex-Ferragamo marketing chief Cliff Fleiser as CMO",
-      "summary": "The Australian tailoring house has appointed Cliff Fleiser, previously SVP marketing and communications North America at Ferragamo, as chief marketing officer. He will report to founder and CEO Patrick Johnson. The role brings brand, PR, events, digital and CRM under one remit.",
-      "sources": [
-        "https://us.fashionnetwork.com/news/P-johnson-names-new-chief-marketing-officer,1884728.html"
-      ],
-      "date": "2026-11-13",
-      "url": "https://us.fashionnetwork.com/news/P-johnson-names-new-chief-marketing-officer,1884728.html",
+      "date": "2026-11-15",
+      "url": "https://marieclaire.com.au/fashion/from-subway-art-to-louis-vuitton-keith-harings-most-unexpected-fashion-moment",
       "scores": {
         "sports": "Very low",
-        "fashion": "Medium",
-        "marketing": "Medium"
+        "fashion": "High",
+        "marketing": "Low"
       }
     }
   ],
-  "marketing": [
-    {
-      "headline": "Borussia Dortmund will not renew controversial Rheinmetall sponsorship",
-      "summary": "Dortmund chairman Carsten Cramer said the club will not extend the arms manufacturer's deal beyond its 30 June 2027 expiry. Fans have criticised the deal since it began, and it was reportedly worth up to €9m a year. The club will lose that income from summer 2027.",
-      "sources": [
-        "https://sitkasentinel.com/stories/borussia-dortmund-wont-extend-controversial-sponsorship-with-arms-manufacturer-rheinmetall,186051"
-      ],
-      "date": "2026-11-14",
-      "url": "https://sitkasentinel.com/stories/borussia-dortmund-wont-extend-controversial-sponsorship-with-arms-manufacturer-rheinmetall,186051",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Omnicom Media lands Lufthansa Group's global media account",
-      "summary": "B&T's 14 November newsletter reports Omnicom Media has won Lufthansa Group's global media account. This is a headline-level report, and the newsletter is the only source I found.",
-      "sources": [
-        "https://bandt.com.au/newsletter/bt-newsletter-2026-11-14"
-      ],
-      "date": "2026-11-14",
-      "url": "https://bandt.com.au/newsletter/bt-newsletter-2026-11-14",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    }
-  ]
+  "marketing": []
 }
