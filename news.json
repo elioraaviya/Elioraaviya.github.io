@@ -1,33 +1,31 @@
 {
-  "updated": "2026-11-17T05:47:14.049Z",
+  "updated": "2026-11-18T05:51:18.030Z",
   "intersection": [
     {
-      "headline": "Nike unveils Vaporfly 5, Mind models and Tuned Air ahead of its first investor day in nine years",
-      "summary": "Nike revealed a wave of new products before CEO Elliott Hill's investor day, with most due in 2027. Hill is also expected to set out a new five-year financial model through fiscal 2031, a $2.5bn Pace savings plan, and fixes for China and Jordan. Highsnobiety called the weirder products, such as the Mind line and the inflatable Therma-Fit A.I.R. jacket, the standouts.",
+      "headline": "Germany play their last match in Adidas kit after 72 years, with Nike taking over from 2027",
+      "summary": "Germany's men wore Adidas for the final time in their 16 November game against the Netherlands, ending a partnership of more than 70 years. Nike takes over from 1 January 2027 on a reportedly far bigger deal. The farewell World Cup shirt reportedly sold about four times as many units as the previous tournament's, a commercial high for Adidas.",
       "sources": [
-        "https://wwd.com/footwear-news/sneaker-news/nike-vaporfly-5-investor-day-tech-reveal-1239417416/",
-        "https://www.highsnobiety.com/p/nike-performance-air-rift-new-shoes/",
-        "https://www.businessoffashion.com/briefings/retail/what-to-listen-for-at-nikes-high-stakes-investor-day/"
+        "beinsports.com",
+        "soccerladuma.co.za"
       ],
-      "date": "2026-11-17",
-      "url": "https://wwd.com/footwear-news/sneaker-news/nike-vaporfly-5-investor-day-tech-reveal-1239417416/",
+      "date": "2026-11-16",
+      "url": "https://beinsports.com/en-us/soccer/friendlies/articles/germany-and-adidas-part-ways-after-70-years-2026-11-16",
       "scores": {
         "sports": "High",
-        "fashion": "High",
+        "fashion": "Medium",
         "marketing": "High"
       }
     },
     {
-      "headline": "Nike ends Adidas' 25-year Champions League ball reign with a reported €40m-a-year deal",
-      "summary": "Nike becomes official match ball supplier for the Champions League from next season. It is the first brand to supply the ball for all three UEFA men's club competitions. The reported fee doubles the current deal's value and lands just after Mbappé chose On over Nike.",
+      "headline": "WTA moves to build its own merchandise business after Hello Kitty tie-up",
+      "summary": "At the WTA Finals in Indian Wells the tour unveiled its first-ever official merchandise collaboration, with Sanrio's Hello Kitty, producing co-branded t-shirts, sweatshirts and a plush toy. WTA chief brand officer Sarah Swanson says merchandise is part of the plan, and the pop-up drew long queues. The tour is also working with Togethxr and Monarch Commerce.",
       "sources": [
-        "https://www.sportspro.com/news/sponsorship-marketing/champions-league-ball-nike-adidas-uefa-sponsorship/",
-        "https://www.tradingview.com/news/seekingalpha:8e4c5345c094b:0-nike-unveils-next-generation-of-performance-sportswear-ends-adidas-reign-as-uefa-match-ball-provider/"
+        "sportspro.com"
       ],
-      "date": "2026-11-16",
-      "url": "https://www.sportspro.com/news/sponsorship-marketing/champions-league-ball-nike-adidas-uefa-sponsorship/",
+      "date": "2026-11-17",
+      "url": "https://www.sportspro.com/analysis/sponsorship-marketing/wta-merchandise-hello-kitty-togethxr-monarch-online-store/",
       "scores": {
-        "sports": "Very high",
+        "sports": "High",
         "fashion": "Medium",
         "marketing": "High"
       }
@@ -35,74 +33,41 @@
   ],
   "sports": [
     {
-      "headline": "UEFA backs France's Philippe Diallo to challenge Gianni Infantino for the FIFA presidency",
-      "summary": "UEFA's executive committee unanimously backed French Football Federation president Philippe Diallo to stand against Infantino in the March 2027 FIFA election. UEFA has led opposition to Infantino since his plan to sell stakes in the World Cup to private investors. The vote is due at the FIFA Congress in Rabat on 18 March 2027.",
+      "headline": "Zverev reaches ATP Finals semi-finals with win over Shelton",
+      "summary": "World No. 1 Alexander Zverev beat Ben Shelton 6-2, 7-6(4) in Turin to book the first semi-final place. It was his first top-five win of the season and extended his unbeaten run against Shelton to 7-0, which includes the 2026 US Open final. Arthur Fils also won in the same group.",
       "sources": [
-        "https://www.france24.com/en/live-news/20261116-uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election",
-        "https://www.japantimes.co.jp/sports/2026/11/17/soccer/uefa-fifa-infantino-diallo/",
-        "https://rg.org/en-ca/news/soccer/update-uefa-backs-philippe-diallo-fifa-president-challenge-infantino"
+        "olympics.com",
+        "atptour.com"
       ],
-      "date": "2026-11-16",
-      "url": "https://www.france24.com/en/live-news/20261116-uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election",
+      "date": "2026-11-17",
+      "url": "https://www.olympics.com/en/news/atp-finals-2026-alexander-zverev-good-tennis-semi-finals",
       "scores": {
-        "sports": "Very high",
+        "sports": "High",
         "fashion": "Very low",
-        "marketing": "Low"
+        "marketing": "Very low"
       }
     },
     {
-      "headline": "Mirra Andreeva, 19, wins the WTA Finals on her debut without dropping a set",
-      "summary": "Andreeva beat Elina Svitolina 7-5, 6-3 in the final at Indian Wells. She is the youngest champion since Maria Sharapova in 2004 and only the third teenager to win the title on debut. It ends her first Grand Slam-winning season at world number two.",
+      "headline": "Melbourne FC signs the biggest sponsorship deal in its 168-year history with Penrite Oil",
+      "summary": "Penrite Oil is upgraded to Principal Partner across both the AFL and AFLW programmes on a two-year expansion. It follows the end of Melbourne's nine-year Zurich partnership and is described as the club's largest commercial agreement.",
       "sources": [
-        "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals",
-        "https://www.philstar.com/sports/2026/11/16/2570479/andreeva-defeats-svitolina-win-wta-finals",
-        "https://en.wikipedia.org/wiki/2026_WTA_Finals_%E2%80%93_Singles"
+        "ministryofsport.com"
       ],
-      "date": "2026-11-15",
-      "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals",
+      "date": "2026-11-18",
+      "url": "https://ministryofsport.com/melbourne-football-club-signs-record-principal-partnership-with-penrite-oil/",
       "scores": {
-        "sports": "Very high",
+        "sports": "Medium",
         "fashion": "Low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "USA beat Canada 6-2 to win the women's hockey world title, completing a historic Olympic and Worlds double",
-      "summary": "Hilary Knight scored twice as the US defended the Women's Worlds title, eight months after Olympic gold in Milan. It is the first time the US women have won Olympic and world gold in the same year. Taylor Fox also set a single-tournament record of 13 assists.",
-      "sources": [
-        "https://nbcdfw.com/news/sports/usa-canada-womens-hockey-world-championship-gold-medal-score-recap/4106877",
-        "https://dailyfaceoff.com/news/usa-routs-canada-to-win-2026-iihf-womens-worlds-gold-medal-hilary-knight-aerin-frankel-taylor-fox-sarah-fillier"
-      ],
-      "date": "2026-11-16",
-      "url": "https://nbcdfw.com/news/sports/usa-canada-womens-hockey-world-championship-gold-medal-score-recap/4106877",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Thomas Frank returns to the Premier League as Crystal Palace head coach",
-      "summary": "Sky Sports News first reported that Palace had agreed terms in principle with Frank to replace the sacked Pierre Sage. The club then confirmed a contract to June 2029. Palace are bottom of the table, and Frank's first game is at Coventry on Saturday.",
-      "sources": [
-        "https://www.skysports.com/football/news/13612758/thomas-frank-crystal-palace-agree-deal-in-principle-with-former-spurs-and-brentford-boss-as-pierre-sages-successor",
-        "https://www.skysports.com/football/news/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park"
-      ],
-      "date": "2026-11-16",
-      "url": "https://www.skysports.com/football/news/13612758/thomas-frank-crystal-palace-agree-deal-in-principle-with-former-spurs-and-brentford-boss-as-pierre-sages-successor",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Low"
+        "marketing": "Medium"
       }
     }
   ],
   "fashion": [
     {
-      "headline": "Gucci to stage its next Cruise show in Shanghai on 17 May",
-      "summary": "Kering's flagship brand will hold its Cruise show in the key China market as it works to re-ignite sales. The announcement comes months ahead of the event.",
+      "headline": "Gucci to stage its Cruise show in Shanghai on 17 May",
+      "summary": "Kering's flagship brand will hold its next Cruise show in Shanghai as it works to re-ignite sales. The destination show is aimed at the key China market.",
       "sources": [
-        "https://www.businessoffashion.com/news/"
+        "businessoffashion.com"
       ],
       "date": "2026-11-16",
       "url": "https://www.businessoffashion.com/news/",
@@ -111,88 +76,33 @@
         "fashion": "Very high",
         "marketing": "Medium"
       }
-    },
-    {
-      "headline": "Kanye West's Yeezy returns to the runway for the first time in four years",
-      "summary": "Ye showed mostly monochrome Yeezy sportswear and statement accessories at a Los Angeles show attended by Bianca Censori, Big Sean and Kid Cudi. WWD reports mixed reviews and says consumers will decide the label's future.",
-      "sources": [
-        "https://wwd.com/pop-culture/celebrity-news/kanye-west-fashion-comeback-1239414450"
-      ],
-      "date": "2026-11-16",
-      "url": "https://wwd.com/pop-culture/celebrity-news/kanye-west-fashion-comeback-1239414450",
-      "scores": {
-        "sports": "Low",
-        "fashion": "High",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "David Beckham's DB Ventures sues Coty for $41m over fragrances found in discount stores",
-      "summary": "DB Ventures alleges its David Beckham-branded scents were sold at UK budget chain Poundland and a petrol station without approval. It is seeking $41 million in damages from its fragrance partner Coty.",
-      "sources": [
-        "https://www.businessoffashion.com/latest/"
-      ],
-      "date": "2026-11-16",
-      "url": "https://www.businessoffashion.com/latest/",
-      "scores": {
-        "sports": "Low",
-        "fashion": "Medium",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "A.W.A.K.E. Mode founder Natalia Alaverdian steps down as creative director after the brand's sale",
-      "summary": "Alaverdian is leaving the London label she founded in 2012, a year after selling her majority stake to Another Community. She will focus on filmmaking and other creative work.",
-      "sources": [
-        "https://wwd.com/wwd-publications/digital-daily/2026-11-16-1239417480/",
-        "https://www.theindustry.fashion/"
-      ],
-      "date": "2026-11-16",
-      "url": "https://wwd.com/wwd-publications/digital-daily/2026-11-16-1239417480/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Low"
-      }
     }
   ],
   "marketing": [
     {
-      "headline": "Ad Age's top 5 creative campaigns right now, from Netflix to Waitrose",
-      "summary": "Weekly breakdown of standout campaigns, including Mother's cinematic Netflix work, a Disney spot and a Christmas-themed John C. Reilly ad. Useful analysis of current creative.",
+      "headline": "Aperol (Campari Group) becomes a sponsor of UEFA Euro 2028",
+      "summary": "Campari Group has agreed a deal for its Aperol brand to sponsor Euro 2028. The deal marks the group's return to top-level football sponsorship.",
       "sources": [
-        "https://adage.com/creativity/campaigns-commercials/aa-best-creative-ads-disney-apple-netflix"
+        "sportbusiness.com"
       ],
-      "date": "2026-11-16",
-      "url": "https://adage.com/creativity/campaigns-commercials/aa-best-creative-ads-disney-apple-netflix",
+      "date": "2026-11-17",
+      "url": "https://sportbusiness.com/news/aperol-toasts-euro-2028-sponsorship",
       "scores": {
-        "sports": "Very low",
-        "fashion": "Low",
+        "sports": "Medium",
+        "fashion": "Very low",
         "marketing": "High"
       }
     },
     {
-      "headline": "Marketing Week podcast: unwrapping 2026's Christmas ads with Waitrose, Boots and Argos",
-      "summary": "Marketers from the brands behind this year's festive campaigns discuss which will come out on top. It follows exclusive Ipsos data showing John Lewis as an early favourite.",
+      "headline": "Jaeger-LeCoultre launches a free video game to mark nearly 200 years of watchmaking",
+      "summary": "WWD exclusive: with Indian game designer Zain Memon, the watchmaker has created 'The Valley of Inventions', an escape-room style game set in 1881. It is the latest chapter of its Made of Makers programme and a creative way to draw new audiences to watchmaking. It is available as an app and on the brand's website, with an in-boutique version too.",
       "sources": [
-        "https://marketingweek.com/podcast-christmas-ad-analysis"
+        "wwd.com",
+        "monochrome-watches.com",
+        "stuff.tv"
       ],
-      "date": "2026-11-16",
-      "url": "https://marketingweek.com/podcast-christmas-ad-analysis",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Zalando appoints Ray Cao to lead its retail media business, pitching shopping data to fashion brands",
-      "summary": "The newly appointed senior VP spoke to WWD about opening Zalando's shopper data to brands such as Levi's and Adidas through self-service analytics and sponsored placements. It is a notable leadership move in fashion retail media.",
-      "sources": [
-        "https://wwd.com/business-news/retail/exclusive-zalandos-new-hire-wants-to-give-brands-data-superpower-1239417600"
-      ],
-      "date": "2026-11-16",
-      "url": "https://wwd.com/business-news/retail/exclusive-zalandos-new-hire-wants-to-give-brands-data-superpower-1239417600",
+      "date": "2026-11-17",
+      "url": "https://wwd.com/accessories-news/watches/jaeger-lecoultre-zain-memon-video-game-made-of-makers-1239420008/",
       "scores": {
         "sports": "Very low",
         "fashion": "Medium",
@@ -200,10 +110,10 @@
       }
     },
     {
-      "headline": "LEON appoints Romy Miller as chief marketing officer",
-      "summary": "Miller joins from Knoops, where she was CMO for two years. She previously spent years at GAIL's, growing it to 80 bakeries. She will report to CEO John Vincent and work across restaurants, grocery and D2C.",
+      "headline": "LEON appoints Knoops CMO Romy Miller as chief marketing officer",
+      "summary": "Miller joins from hot chocolate brand Knoops, where she was CMO for two years. She previously helped grow GAIL's bakeries. She will lead customer loyalty and like-for-like sales across LEON's restaurants, grocery and D2C as the brand's transformation continues under CEO John Vincent.",
       "sources": [
-        "https://retailtimes.co.uk/leon-appoints-romy-miller-as-cmo/"
+        "retailtimes.co.uk"
       ],
       "date": "2026-11-16",
       "url": "https://retailtimes.co.uk/leon-appoints-romy-miller-as-cmo/",
