@@ -1,127 +1,54 @@
 {
-  "updated": "2026-11-18T05:51:18.030Z",
+  "updated": "2026-11-19T05:49:11.832Z",
   "intersection": [
     {
-      "headline": "Germany play their last match in Adidas kit after 72 years, with Nike taking over from 2027",
-      "summary": "Germany's men wore Adidas for the final time in their 16 November game against the Netherlands, ending a partnership of more than 70 years. Nike takes over from 1 January 2027 on a reportedly far bigger deal. The farewell World Cup shirt reportedly sold about four times as many units as the previous tournament's, a commercial high for Adidas.",
+      "headline": "Nike's investor day: 'Full Stride Ahead' plan targets $5bn extra revenue by 2031, with growth not back until fiscal 2029",
+      "summary": "At its first investor day since 2017, Nike set out a strategy built on performance sport (running, training, football, basketball, outdoor) and a reset of Sportswear, with Caitlin Clark on stage. Nike says it expects Jordan Brand to return to growth in fiscal 2029 and Converse in 2028. About $4bn of the planned $5bn in new revenue is expected from performance sports. Jordan is also expected to announce football teams, federations and athletes. Analysts saw the plan as more transparent but late.",
       "sources": [
-        "beinsports.com",
-        "soccerladuma.co.za"
-      ],
-      "date": "2026-11-16",
-      "url": "https://beinsports.com/en-us/soccer/friendlies/articles/germany-and-adidas-part-ways-after-70-years-2026-11-16",
-      "scores": {
-        "sports": "High",
-        "fashion": "Medium",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "WTA moves to build its own merchandise business after Hello Kitty tie-up",
-      "summary": "At the WTA Finals in Indian Wells the tour unveiled its first-ever official merchandise collaboration, with Sanrio's Hello Kitty, producing co-branded t-shirts, sweatshirts and a plush toy. WTA chief brand officer Sarah Swanson says merchandise is part of the plan, and the pop-up drew long queues. The tour is also working with Togethxr and Monarch Commerce.",
-      "sources": [
-        "sportspro.com"
+        "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000207/q2fy27exhibit991investorday.htm",
+        "https://www.sportico.com/business/commerce/2026/nike-investor-day-forecast-takeaways-1234958723/",
+        "https://wwd.com/footwear-news/shoe-industry-news/jordan-brand-recovery-explained-nike-investor-day-1239421897/"
       ],
       "date": "2026-11-17",
-      "url": "https://www.sportspro.com/analysis/sponsorship-marketing/wta-merchandise-hello-kitty-togethxr-monarch-online-store/",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000207/q2fy27exhibit991investorday.htm",
       "scores": {
         "sports": "High",
-        "fashion": "Medium",
-        "marketing": "High"
-      }
-    }
-  ],
-  "sports": [
-    {
-      "headline": "Zverev reaches ATP Finals semi-finals with win over Shelton",
-      "summary": "World No. 1 Alexander Zverev beat Ben Shelton 6-2, 7-6(4) in Turin to book the first semi-final place. It was his first top-five win of the season and extended his unbeaten run against Shelton to 7-0, which includes the 2026 US Open final. Arthur Fils also won in the same group.",
-      "sources": [
-        "olympics.com",
-        "atptour.com"
-      ],
-      "date": "2026-11-17",
-      "url": "https://www.olympics.com/en/news/atp-finals-2026-alexander-zverev-good-tennis-semi-finals",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Very low"
-      }
-    },
-    {
-      "headline": "Melbourne FC signs the biggest sponsorship deal in its 168-year history with Penrite Oil",
-      "summary": "Penrite Oil is upgraded to Principal Partner across both the AFL and AFLW programmes on a two-year expansion. It follows the end of Melbourne's nine-year Zurich partnership and is described as the club's largest commercial agreement.",
-      "sources": [
-        "ministryofsport.com"
-      ],
-      "date": "2026-11-18",
-      "url": "https://ministryofsport.com/melbourne-football-club-signs-record-principal-partnership-with-penrite-oil/",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Low",
+        "fashion": "High",
         "marketing": "Medium"
       }
     }
   ],
+  "sports": [],
   "fashion": [
     {
-      "headline": "Gucci to stage its Cruise show in Shanghai on 17 May",
-      "summary": "Kering's flagship brand will hold its next Cruise show in Shanghai as it works to re-ignite sales. The destination show is aimed at the key China market.",
+      "headline": "Travis Scott's 'GTA 6' x Nike Air Force 1 collection gets release dates",
+      "summary": "With Grand Theft Auto VI days from launch, Nike SNKRS releases the 'Triple White' and 'Triple Black' Air Force 1 Lows on 21 November. A second release follows via Travis Scott's Cactus Jack site on 23 November. An apparel range accompanies the shoes. A gradient-leather friends-and-family pair is limited to Cactus Jack's site.",
       "sources": [
-        "businessoffashion.com"
+        "https://wwd.com/footwear-news/sneaker-news/gta-6-travis-scott-nike-collection-release-date-1239421828/",
+        "https://www.contentgrip.com/travis-scott-nike-gta-sneakers/"
       ],
-      "date": "2026-11-16",
-      "url": "https://www.businessoffashion.com/news/",
+      "date": "2026-11-17",
+      "url": "https://wwd.com/footwear-news/sneaker-news/gta-6-travis-scott-nike-collection-release-date-1239421828/",
+      "scores": {
+        "sports": "Low",
+        "fashion": "High",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Bain: luxury goods sales set to return to growth in 2026, but outlook fragile",
+      "summary": "Bain & Company's annual luxury outlook expects personal luxury sales to rise about 2% to €367bn this year, after two years of decline. Jewellery is outperforming while fashion is under pressure. Spending by top-tier customers is offsetting weakness among aspirational shoppers. Bain forecasts 0–4% growth for 2027. It says brands rooted in local identity are gaining interest, particularly in China.",
+      "sources": [
+        "https://us.fashionnetwork.com/news/Luxury-goods-sales-seen-returning-to-growth-in-2026-but-outlook-fragile,1886115.html"
+      ],
+      "date": "2026-11-18",
+      "url": "https://us.fashionnetwork.com/news/Luxury-goods-sales-seen-returning-to-growth-in-2026-but-outlook-fragile,1886115.html",
       "scores": {
         "sports": "Very low",
-        "fashion": "Very high",
-        "marketing": "Medium"
+        "fashion": "High",
+        "marketing": "Low"
       }
     }
   ],
-  "marketing": [
-    {
-      "headline": "Aperol (Campari Group) becomes a sponsor of UEFA Euro 2028",
-      "summary": "Campari Group has agreed a deal for its Aperol brand to sponsor Euro 2028. The deal marks the group's return to top-level football sponsorship.",
-      "sources": [
-        "sportbusiness.com"
-      ],
-      "date": "2026-11-17",
-      "url": "https://sportbusiness.com/news/aperol-toasts-euro-2028-sponsorship",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Jaeger-LeCoultre launches a free video game to mark nearly 200 years of watchmaking",
-      "summary": "WWD exclusive: with Indian game designer Zain Memon, the watchmaker has created 'The Valley of Inventions', an escape-room style game set in 1881. It is the latest chapter of its Made of Makers programme and a creative way to draw new audiences to watchmaking. It is available as an app and on the brand's website, with an in-boutique version too.",
-      "sources": [
-        "wwd.com",
-        "monochrome-watches.com",
-        "stuff.tv"
-      ],
-      "date": "2026-11-17",
-      "url": "https://wwd.com/accessories-news/watches/jaeger-lecoultre-zain-memon-video-game-made-of-makers-1239420008/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Medium",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "LEON appoints Knoops CMO Romy Miller as chief marketing officer",
-      "summary": "Miller joins from hot chocolate brand Knoops, where she was CMO for two years. She previously helped grow GAIL's bakeries. She will lead customer loyalty and like-for-like sales across LEON's restaurants, grocery and D2C as the brand's transformation continues under CEO John Vincent.",
-      "sources": [
-        "retailtimes.co.uk"
-      ],
-      "date": "2026-11-16",
-      "url": "https://retailtimes.co.uk/leon-appoints-romy-miller-as-cmo/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "Medium"
-      }
-    }
-  ]
+  "marketing": []
 }
