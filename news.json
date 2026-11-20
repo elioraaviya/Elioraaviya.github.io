@@ -1,34 +1,121 @@
 {
-  "updated": "2026-11-19T05:49:11.832Z",
+  "updated": "2026-11-20T05:50:40.529Z",
   "intersection": [
     {
-      "headline": "Nike's investor day: 'Full Stride Ahead' plan targets $5bn extra revenue by 2031, with growth not back until fiscal 2029",
-      "summary": "At its first investor day since 2017, Nike set out a strategy built on performance sport (running, training, football, basketball, outdoor) and a reset of Sportswear, with Caitlin Clark on stage. Nike says it expects Jordan Brand to return to growth in fiscal 2029 and Converse in 2028. About $4bn of the planned $5bn in new revenue is expected from performance sports. Jordan is also expected to announce football teams, federations and athletes. Analysts saw the plan as more transparent but late.",
+      "headline": "Nike returns to Formula 1 as official apparel partner from 2027, replacing Puma",
+      "summary": "Nike becomes F1's Official Apparel and Uniform Supplier on a long-term deal, ending Puma's run. The deal also covers F1 Academy. A limited Las Vegas Grand Prix capsule collection launches this weekend, with more collections and fan experiences planned across the calendar. It is a major shift in sportswear's F1 landscape, with Adidas already in the sport via Mercedes and Audi.",
       "sources": [
-        "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000207/q2fy27exhibit991investorday.htm",
-        "https://www.sportico.com/business/commerce/2026/nike-investor-day-forecast-takeaways-1234958723/",
-        "https://wwd.com/footwear-news/shoe-industry-news/jordan-brand-recovery-explained-nike-investor-day-1239421897/"
+        "WWD",
+        "Speedcafe",
+        "MotorBiscuit"
       ],
-      "date": "2026-11-17",
-      "url": "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000207/q2fy27exhibit991investorday.htm",
+      "date": "2026-11-19",
+      "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-formula-1-2027-partnership-deal-announcement-1239428547/",
       "scores": {
         "sports": "High",
         "fashion": "High",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Adidas crowned Marketing Week Brand of the Year 2026 after its bounce back",
+      "summary": "Adidas beat Allica Bank, Currys, Nationwide, Tony's Chocolonely and Waitrose to the title. The award combines a jury of marketing experts with a reader vote. Marketing Week ties the win to the brand's turnaround, including a strong quarter after the World Cup.",
+      "sources": [
+        "Marketing Week"
+      ],
+      "date": "2026-11-20",
+      "url": "https://marketingweek.com/adidas-brand-year-accolade",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "Medium",
+        "marketing": "High"
+      }
+    }
+  ],
+  "sports": [
+    {
+      "headline": "LA Sparks near record $750m sale, more than double the previous WNBA franchise price",
+      "summary": "Private equity billionaire José E. Feliciano and Kwanza Jones are reportedly close to buying the Sparks from Mark Walter for $750m. The previous WNBA record was the $300m Connecticut Sun sale. The price is about 25 times the Sparks' 2026 revenue, which Sportico says is a high for a major US league. It signals big investor appetite for women's sport.",
+      "sources": [
+        "Sportico",
+        "Yahoo Sports (KTLA)"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.sportico.com/business/team-sales/2026/wnba-los-angeles-sparks-sale-feliciano-jones-1234958926/",
+      "scores": {
+        "sports": "Very high",
+        "fashion": "Very low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Infantino faces two challengers in the FIFA presidential election",
+      "summary": "AP reports that Gianni Infantino, after 11 years as FIFA president, now has two official election opponents: France's Diallo and Japan's Tashima. This is a significant governance story for world football. The link goes to AP's sports feed on US News, as I could not find a direct article URL.",
+      "sources": [
+        "Associated Press"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.usnews.com/news/sports",
+      "scores": {
+        "sports": "Very high",
+        "fashion": "Very low",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "WHOOP becomes Official Partner of Formula 1 and F1 Academy in a four-year deal",
+      "summary": "WHOOP is now F1's Official Health & Fitness Wearable Partner. Its band is the first consumer wearable the FIA has approved for in-race use. Live driver heart-rate data goes onto broadcasts from 2027, and WHOOP also backs the all-female F1 Academy. Max Verstappen has said he won't take part, citing privacy.",
+      "sources": [
+        "Formula1.com",
+        "Motorsport.com",
+        "Yahoo Sports (MotorBiscuit)"
+      ],
+      "date": "2026-11-18",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-and-whoop-announce-landmark-partnership-to-bring-fans-closer-to-the-human-side-of-racing.1YTsprVRx7MPlaDJnniexm",
+      "scores": {
+        "sports": "High",
+        "fashion": "Low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Valencia Marathon offers €1m bonus for a women's world record",
+      "summary": "Organisers are openly targeting a women's marathon world record. Any athlete who beats Ruth Chepngetich's 2:09:56 mark will receive a €1m bonus from the Trinidad Alfonso Foundation. The story is a preview of the race, not a result.",
+      "sources": [
+        "Athletics Illustrated"
+      ],
+      "date": "2026-11-19",
+      "url": "https://athleticsillustrated.com/valencia-marathon-targets-womens-world-record-with-e1-million-bonus",
+      "scores": {
+        "sports": "High",
+        "fashion": "Very low",
         "marketing": "Medium"
       }
     }
   ],
-  "sports": [],
   "fashion": [
     {
-      "headline": "Travis Scott's 'GTA 6' x Nike Air Force 1 collection gets release dates",
-      "summary": "With Grand Theft Auto VI days from launch, Nike SNKRS releases the 'Triple White' and 'Triple Black' Air Force 1 Lows on 21 November. A second release follows via Travis Scott's Cactus Jack site on 23 November. An apparel range accompanies the shoes. A gradient-leather friends-and-family pair is limited to Cactus Jack's site.",
+      "headline": "Rihanna and daughter Rocki star in Lady Dior campaign",
+      "summary": "WWD has an exclusive on the new Lady Dior campaign. Rihanna and her one-year-old daughter wear matching leather jackets by creative director Jonathan Anderson. Melina Matsoukas directed the campaign film. It is a major cultural and marketing moment for Dior.",
       "sources": [
-        "https://wwd.com/footwear-news/sneaker-news/gta-6-travis-scott-nike-collection-release-date-1239421828/",
-        "https://www.contentgrip.com/travis-scott-nike-gta-sneakers/"
+        "WWD"
       ],
-      "date": "2026-11-17",
-      "url": "https://wwd.com/footwear-news/sneaker-news/gta-6-travis-scott-nike-collection-release-date-1239421828/",
+      "date": "2026-11-19",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/rihanna-lady-dior-campaign-daughter-rocki-irish-mayers-1239423194/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very high",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Travis Scott x Nike GTA 6 Air Force 1s get release dates",
+      "summary": "The black and white Air Force 1s tied to Rockstar's GTA 6 launch drop on Nike SNKRS on 21 November, then via Cactus Jack on 23 November, at a reported US$130. It is a high-profile sneaker, gaming and culture crossover. Hypebeast and WWD reported it first; I could only retrieve ContentGrip's write-up, so that is the link.",
+      "sources": [
+        "ContentGrip (citing Hypebeast and WWD)"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.contentgrip.com/travis-scott-nike-gta-sneakers/",
       "scores": {
         "sports": "Low",
         "fashion": "High",
@@ -36,19 +123,76 @@
       }
     },
     {
-      "headline": "Bain: luxury goods sales set to return to growth in 2026, but outlook fragile",
-      "summary": "Bain & Company's annual luxury outlook expects personal luxury sales to rise about 2% to €367bn this year, after two years of decline. Jewellery is outperforming while fashion is under pressure. Spending by top-tier customers is offsetting weakness among aspirational shoppers. Bain forecasts 0–4% growth for 2027. It says brands rooted in local identity are gaining interest, particularly in China.",
+      "headline": "Prada launches quarterly 'Prada Index' editorial project",
+      "summary": "Prada is debuting Index, a magazine-style guidebook. The first 400-page issue covers its 2026 initiatives across art, fashion, film, design and sailing. It packages the brand's cultural programming as its own publishing format.",
       "sources": [
-        "https://us.fashionnetwork.com/news/Luxury-goods-sales-seen-returning-to-growth-in-2026-but-outlook-fragile,1886115.html"
+        "WWD"
       ],
-      "date": "2026-11-18",
-      "url": "https://us.fashionnetwork.com/news/Luxury-goods-sales-seen-returning-to-growth-in-2026-but-outlook-fragile,1886115.html",
+      "date": "2026-11-19",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/prada-index-quarterly-editorial-project-launch-1239420190/",
       "scores": {
-        "sports": "Very low",
+        "sports": "Low",
         "fashion": "High",
-        "marketing": "Low"
+        "marketing": "Medium"
       }
     }
   ],
-  "marketing": []
+  "marketing": [
+    {
+      "headline": "How brands are tapping the GTA 6 launch, from Logitech's day off to a Miami Heat 'Vice City' game",
+      "summary": "Adweek looks at how Logitech, KFC, AT&T, Spectrum and others are using the GTA 6 release. Logitech gave all 7,000 staff the day off, and the Miami Heat staged a Vice City-themed NBA game. Adweek says preorders have reached $1.5bn.",
+      "sources": [
+        "Adweek"
+      ],
+      "date": "2026-11-18",
+      "url": "https://www.adweek.com/brand-marketing/6-ways-brands-are-capturing-buzz-around-gta-6s-release/",
+      "scores": {
+        "sports": "Low",
+        "fashion": "Low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "How Celsius doubled down on sports marketing campaigns in 2026",
+      "summary": "Digiday reports that Celsius is leaning more on partnerships with major sports leagues, college athletics and high-profile athletic events. The link goes to Digiday's marketing section, as I could not find a direct article URL.",
+      "sources": [
+        "Digiday"
+      ],
+      "date": "2026-11-19",
+      "url": "https://digiday.com/marketing/",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
+      "summary": "Deloitte Digital and Accenture Song have started selling marketing services in the C-suite with a fresh push. The briefing looks at what this means for traditional holding companies. It is relevant to the CMO and agency landscape.",
+      "sources": [
+        "Digiday"
+      ],
+      "date": "2026-11-20",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Why more brands are paying creators to make their ads",
+      "summary": "Digiday explains that creator-led production is the fastest-growing segment of the influencer economy and what is driving the investment. It cites a global influencer market of about $116bn.",
+      "sources": [
+        "Digiday"
+      ],
+      "date": "2026-11-20",
+      "url": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Low",
+        "marketing": "High"
+      }
+    }
+  ]
 }
