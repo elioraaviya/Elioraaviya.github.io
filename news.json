@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-20T05:50:40.529Z",
+  "updated": "2026-11-21T05:44:15.582Z",
   "intersection": [
     {
-      "headline": "Nike returns to Formula 1 as official apparel partner from 2027, replacing Puma",
-      "summary": "Nike becomes F1's Official Apparel and Uniform Supplier on a long-term deal, ending Puma's run. The deal also covers F1 Academy. A limited Las Vegas Grand Prix capsule collection launches this weekend, with more collections and fan experiences planned across the calendar. It is a major shift in sportswear's F1 landscape, with Adidas already in the sport via Mercedes and Audi.",
+      "headline": "Nike returns to Formula 1 as official apparel supplier from 2027, replacing Puma",
+      "summary": "Nike has signed a long-term deal to be F1's official apparel and uniform supplier from 2027, replacing Puma. It will make co-branded staff uniforms and consumer collections, starting with a Las Vegas Grand Prix capsule on 20 November. Nike also becomes an apparel partner of the all-female F1 Academy.",
       "sources": [
         "WWD",
-        "Speedcafe",
-        "MotorBiscuit"
+        "VERSUS",
+        "GPFans"
       ],
       "date": "2026-11-19",
-      "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-formula-1-2027-partnership-deal-announcement-1239428547/",
+      "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-formula-1-2027-partnership-deal-announcement-1239428547",
       "scores": {
         "sports": "High",
         "fashion": "High",
@@ -18,148 +18,76 @@
       }
     },
     {
-      "headline": "Adidas crowned Marketing Week Brand of the Year 2026 after its bounce back",
-      "summary": "Adidas beat Allica Bank, Currys, Nationwide, Tony's Chocolonely and Waitrose to the title. The award combines a jury of marketing experts with a reader vote. Marketing Week ties the win to the brand's turnaround, including a strong quarter after the World Cup.",
+      "headline": "Shohei Ohtani extends New Balance deal for the rest of his playing career",
+      "summary": "New Balance has agreed a contract extension that keeps the Dodgers star with the brand for the remainder of his career. It is also renaming its Boston sports research lab after him. The brand says the deal reflects its investment in baseball and the sport's growth in Japan.",
+      "sources": [
+        "Complex",
+        "Associated Press via 960theref.com"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.complex.com/sneakers/a/victor-deng/shohei-ohtani-new-balance-deal-entire-baseball-career",
+      "scores": {
+        "sports": "High",
+        "fashion": "Medium",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Adidas named Marketing Week's Brand of the Year 2026 for its bounce back",
+      "summary": "Marketing Week has crowned Adidas its Brand of the Year for 2026, citing the sportswear giant's standout recovery. It is a recognition of the brand's marketing turnaround. The link goes to Marketing Week's news page because I could not retrieve the individual article URL.",
       "sources": [
         "Marketing Week"
       ],
       "date": "2026-11-20",
-      "url": "https://marketingweek.com/adidas-brand-year-accolade",
+      "url": "https://www.marketingweek.com/marketing-news/",
       "scores": {
         "sports": "Medium",
         "fashion": "Medium",
-        "marketing": "High"
+        "marketing": "Very high"
       }
     }
   ],
   "sports": [
     {
-      "headline": "LA Sparks near record $750m sale, more than double the previous WNBA franchise price",
-      "summary": "Private equity billionaire José E. Feliciano and Kwanza Jones are reportedly close to buying the Sparks from Mark Walter for $750m. The previous WNBA record was the $300m Connecticut Sun sale. The price is about 25 times the Sparks' 2026 revenue, which Sportico says is a high for a major US league. It signals big investor appetite for women's sport.",
+      "headline": "Infantino to face two challengers in the 2027 FIFA presidential election",
+      "summary": "FIFA says President Gianni Infantino will be challenged by France's Philippe Diallo and Japan's Kohzo Tashima, who have both been nominated. This makes the 2027 vote a contested race for the head of world football.",
       "sources": [
-        "Sportico",
-        "Yahoo Sports (KTLA)"
+        "PACNEWS/FIFA via Islands Business"
       ],
-      "date": "2026-11-19",
-      "url": "https://www.sportico.com/business/team-sales/2026/wnba-los-angeles-sparks-sale-feliciano-jones-1234958926/",
-      "scores": {
-        "sports": "Very high",
-        "fashion": "Very low",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "Infantino faces two challengers in the FIFA presidential election",
-      "summary": "AP reports that Gianni Infantino, after 11 years as FIFA president, now has two official election opponents: France's Diallo and Japan's Tashima. This is a significant governance story for world football. The link goes to AP's sports feed on US News, as I could not find a direct article URL.",
-      "sources": [
-        "Associated Press"
-      ],
-      "date": "2026-11-19",
-      "url": "https://www.usnews.com/news/sports",
+      "date": "2026-11-20",
+      "url": "https://islandsbusiness.com/pacnews/pacnews-sports-20-november-2026",
       "scores": {
         "sports": "Very high",
         "fashion": "Very low",
         "marketing": "Low"
       }
-    },
-    {
-      "headline": "WHOOP becomes Official Partner of Formula 1 and F1 Academy in a four-year deal",
-      "summary": "WHOOP is now F1's Official Health & Fitness Wearable Partner. Its band is the first consumer wearable the FIA has approved for in-race use. Live driver heart-rate data goes onto broadcasts from 2027, and WHOOP also backs the all-female F1 Academy. Max Verstappen has said he won't take part, citing privacy.",
-      "sources": [
-        "Formula1.com",
-        "Motorsport.com",
-        "Yahoo Sports (MotorBiscuit)"
-      ],
-      "date": "2026-11-18",
-      "url": "https://www.formula1.com/en/latest/article/formula-1-and-whoop-announce-landmark-partnership-to-bring-fans-closer-to-the-human-side-of-racing.1YTsprVRx7MPlaDJnniexm",
-      "scores": {
-        "sports": "High",
-        "fashion": "Low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Valencia Marathon offers €1m bonus for a women's world record",
-      "summary": "Organisers are openly targeting a women's marathon world record. Any athlete who beats Ruth Chepngetich's 2:09:56 mark will receive a €1m bonus from the Trinidad Alfonso Foundation. The story is a preview of the race, not a result.",
-      "sources": [
-        "Athletics Illustrated"
-      ],
-      "date": "2026-11-19",
-      "url": "https://athleticsillustrated.com/valencia-marathon-targets-womens-world-record-with-e1-million-bonus",
-      "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Medium"
-      }
     }
   ],
   "fashion": [
     {
-      "headline": "Rihanna and daughter Rocki star in Lady Dior campaign",
-      "summary": "WWD has an exclusive on the new Lady Dior campaign. Rihanna and her one-year-old daughter wear matching leather jackets by creative director Jonathan Anderson. Melina Matsoukas directed the campaign film. It is a major cultural and marketing moment for Dior.",
+      "headline": "Liberty and Barbour team up to reimagine classic prints on outerwear",
+      "summary": "Two heritage British names are combining Liberty's archive prints with Barbour's outerwear. It is a collaboration between established brands rather than a routine product drop. The source gives only a short picture-led item, so details are limited.",
       "sources": [
-        "WWD"
+        "TheIndustry.fashion"
       ],
-      "date": "2026-11-19",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/rihanna-lady-dior-campaign-daughter-rocki-irish-mayers-1239423194/",
+      "date": "2026-11-20",
+      "url": "https://www.theindustry.fashion/",
       "scores": {
         "sports": "Very low",
-        "fashion": "Very high",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Travis Scott x Nike GTA 6 Air Force 1s get release dates",
-      "summary": "The black and white Air Force 1s tied to Rockstar's GTA 6 launch drop on Nike SNKRS on 21 November, then via Cactus Jack on 23 November, at a reported US$130. It is a high-profile sneaker, gaming and culture crossover. Hypebeast and WWD reported it first; I could only retrieve ContentGrip's write-up, so that is the link.",
-      "sources": [
-        "ContentGrip (citing Hypebeast and WWD)"
-      ],
-      "date": "2026-11-19",
-      "url": "https://www.contentgrip.com/travis-scott-nike-gta-sneakers/",
-      "scores": {
-        "sports": "Low",
-        "fashion": "High",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Prada launches quarterly 'Prada Index' editorial project",
-      "summary": "Prada is debuting Index, a magazine-style guidebook. The first 400-page issue covers its 2026 initiatives across art, fashion, film, design and sailing. It packages the brand's cultural programming as its own publishing format.",
-      "sources": [
-        "WWD"
-      ],
-      "date": "2026-11-19",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/prada-index-quarterly-editorial-project-launch-1239420190/",
-      "scores": {
-        "sports": "Low",
-        "fashion": "High",
-        "marketing": "Medium"
+        "fashion": "Medium",
+        "marketing": "Low"
       }
     }
   ],
   "marketing": [
     {
-      "headline": "How brands are tapping the GTA 6 launch, from Logitech's day off to a Miami Heat 'Vice City' game",
-      "summary": "Adweek looks at how Logitech, KFC, AT&T, Spectrum and others are using the GTA 6 release. Logitech gave all 7,000 staff the day off, and the Miami Heat staged a Vice City-themed NBA game. Adweek says preorders have reached $1.5bn.",
+      "headline": "Southgate and Joe Cole tell brands not to 'dumb down' for sports fans",
+      "summary": "Campaign reports on advice from Gareth Southgate and Joe Cole to marketers about how they speak to sports audiences. The names carry cultural weight, and the piece reports their views directly. The link goes to Campaign's media section page because I could not retrieve the individual article URL.",
       "sources": [
-        "Adweek"
-      ],
-      "date": "2026-11-18",
-      "url": "https://www.adweek.com/brand-marketing/6-ways-brands-are-capturing-buzz-around-gta-6s-release/",
-      "scores": {
-        "sports": "Low",
-        "fashion": "Low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "How Celsius doubled down on sports marketing campaigns in 2026",
-      "summary": "Digiday reports that Celsius is leaning more on partnerships with major sports leagues, college athletics and high-profile athletic events. The link goes to Digiday's marketing section, as I could not find a direct article URL.",
-      "sources": [
-        "Digiday"
+        "Campaign"
       ],
       "date": "2026-11-19",
-      "url": "https://digiday.com/marketing/",
+      "url": "https://www.campaignlive.co.uk/news/media",
       "scores": {
         "sports": "Medium",
         "fashion": "Very low",
@@ -167,30 +95,44 @@
       }
     },
     {
-      "headline": "Consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
-      "summary": "Deloitte Digital and Accenture Song have started selling marketing services in the C-suite with a fresh push. The briefing looks at what this means for traditional holding companies. It is relevant to the CMO and agency landscape.",
+      "headline": "M&S overtakes John Lewis as consumers' favourite Christmas ad, data finds",
+      "summary": "Exclusive data shared with Marketing Week shows M&S has taken the lead as people's favourite Christmas ad so far. John Lewis, Aldi, Sainsbury's and Tesco follow, and Aldi still leads on branded recognition.",
       "sources": [
-        "Digiday"
+        "Marketing Week"
       ],
       "date": "2026-11-20",
-      "url": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/",
+      "url": "https://www.marketingweek.com/ms-john-lewis-christmas-ad/",
       "scores": {
         "sports": "Very low",
-        "fashion": "Very low",
+        "fashion": "Low",
         "marketing": "High"
       }
     },
     {
-      "headline": "Why more brands are paying creators to make their ads",
-      "summary": "Digiday explains that creator-led production is the fastest-growing segment of the influencer economy and what is driving the investment. It cites a global influencer market of about $116bn.",
+      "headline": "At the NWSL championship, sponsors are putting athletes first",
+      "summary": "Marketing Brew looks at how brands activated around this year's NWSL championship, with the players at the centre of the work. This is part of the continuing commercial growth of women's football. The link goes to Marketing Brew's homepage because I could not retrieve the individual article URL.",
       "sources": [
-        "Digiday"
+        "Marketing Brew"
       ],
       "date": "2026-11-20",
-      "url": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/",
+      "url": "https://www.marketingbrew.com/",
       "scores": {
-        "sports": "Very low",
+        "sports": "High",
         "fashion": "Low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Whoop becomes latest brand to combine a central F1 deal with a team-level agreement",
+      "summary": "Whoop's biometric technology will feature in F1 broadcasts from 2027. It joins a growing group of brands that are merging a series-wide F1 sponsorship with an existing team deal. The link goes to SportBusiness's news page because I could not retrieve the individual article URL.",
+      "sources": [
+        "SportBusiness"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.sportbusiness.com/news/",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "Very low",
         "marketing": "High"
       }
     }
