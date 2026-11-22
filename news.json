@@ -1,63 +1,66 @@
 {
-  "updated": "2026-11-21T05:44:15.582Z",
+  "updated": "2026-11-22T05:44:37.332Z",
   "intersection": [
     {
-      "headline": "Nike returns to Formula 1 as official apparel supplier from 2027, replacing Puma",
-      "summary": "Nike has signed a long-term deal to be F1's official apparel and uniform supplier from 2027, replacing Puma. It will make co-branded staff uniforms and consumer collections, starting with a Las Vegas Grand Prix capsule on 20 November. Nike also becomes an apparel partner of the all-female F1 Academy.",
+      "headline": "Nike and Formula 1 announce long-term global partnership, with a Las Vegas Grand Prix capsule collection as a preview",
+      "summary": "Nike has signed a multi-year global partnership with F1, with the deal starting fully in 2027. It covers product, innovation, design and race-weekend experiences, including F1 uniforms and F1 Academy apparel. A limited-edition Las Vegas Grand Prix x Nike capsule launched on 20 November at the F1 Hub and Nike retail locations in Las Vegas. More product and experience details are due later.",
       "sources": [
-        "WWD",
-        "VERSUS",
-        "GPFans"
-      ],
-      "date": "2026-11-19",
-      "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-formula-1-2027-partnership-deal-announcement-1239428547",
-      "scores": {
-        "sports": "High",
-        "fashion": "High",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Shohei Ohtani extends New Balance deal for the rest of his playing career",
-      "summary": "New Balance has agreed a contract extension that keeps the Dodgers star with the brand for the remainder of his career. It is also renaming its Boston sports research lab after him. The brand says the deal reflects its investment in baseball and the sport's growth in Japan.",
-      "sources": [
-        "Complex",
-        "Associated Press via 960theref.com"
+        "https://sports.yahoo.com/articles/nike-announces-long-term-partnership-152104208.html",
+        "https://ministryofsport.com/formula-1-signs-with-nike-across-f1-and-f1-academy/"
       ],
       "date": "2026-11-20",
-      "url": "https://www.complex.com/sneakers/a/victor-deng/shohei-ohtani-new-balance-deal-entire-baseball-career",
+      "url": "https://sports.yahoo.com/articles/nike-announces-long-term-partnership-152104208.html",
       "scores": {
         "sports": "High",
         "fashion": "Medium",
         "marketing": "High"
-      }
-    },
-    {
-      "headline": "Adidas named Marketing Week's Brand of the Year 2026 for its bounce back",
-      "summary": "Marketing Week has crowned Adidas its Brand of the Year for 2026, citing the sportswear giant's standout recovery. It is a recognition of the brand's marketing turnaround. The link goes to Marketing Week's news page because I could not retrieve the individual article URL.",
-      "sources": [
-        "Marketing Week"
-      ],
-      "date": "2026-11-20",
-      "url": "https://www.marketingweek.com/marketing-news/",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Medium",
-        "marketing": "Very high"
       }
     }
   ],
   "sports": [
     {
-      "headline": "Infantino to face two challengers in the 2027 FIFA presidential election",
-      "summary": "FIFA says President Gianni Infantino will be challenged by France's Philippe Diallo and Japan's Kohzo Tashima, who have both been nominated. This makes the 2027 vote a contested race for the head of world football.",
+      "headline": "Kansas City Current win first NWSL Championship, beating Washington Spirit 2-1",
+      "summary": "Kansas City won the franchise's first NWSL title at Audi Field on 21 November. Vanessa DiBernardo scored an Olimpico (a goal direct from a corner) and Debinha added a second late on. Trinity Rodman pulled one back in stoppage time, so the Spirit lost a third straight final. ESPN notes it was the seventh different franchise to win the title.",
       "sources": [
-        "PACNEWS/FIFA via Islands Business"
+        "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit",
+        "https://www.cbsnews.com/news/nwsl-championship-kansas-city-current-washington-spirit/",
+        "https://www.bostonglobe.com/2026/11/21/sports/current-spirit-nwsl-championship-game/"
       ],
-      "date": "2026-11-20",
-      "url": "https://islandsbusiness.com/pacnews/pacnews-sports-20-november-2026",
+      "date": "2026-11-21",
+      "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit",
       "scores": {
-        "sports": "Very high",
+        "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "FIFA's $1.5B 2030 World Cup US rights push faces a shrinking field as major networks exit",
+      "summary": "Several major US networks and streamers have pulled out of bidding for the 2030 men's World Cup rights, including ESPN, NBCUniversal and YouTube. That leaves Fox (in a joint bid with Univision) and Netflix as the leading contenders. FIFA wants more than $1.5bn and aims to choose a winner by the end of the year. This follows a record-viewership 2026 tournament.",
+      "sources": [
+        "https://frontofficesports.com/article/fifas-1-5b-world-cup-rights-push-faces-shrinking-field/",
+        "https://www.thewrap.com/media-platforms/tv/youtube-2030-world-cup-tv-rights-bidding/",
+        "https://awfulannouncing.com/soccer/youtube-latest-contender-to-bow-out-of-2030-world-cup-bid.html"
+      ],
+      "date": "2026-11-21",
+      "url": "https://frontofficesports.com/article/fifas-1-5b-world-cup-rights-push-faces-shrinking-field/",
+      "scores": {
+        "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Verstappen wins Las Vegas Grand Prix in slipstream thriller",
+      "summary": "Max Verstappen won the Las Vegas Grand Prix by 0.6s from Lando Norris after the lead changed hands repeatedly with Mercedes' George Russell and Kimi Antonelli. Oscar Piastri completed a double McLaren podium. The report is from Planet F1, and I could not reconcile the championship standings across the sources I found.",
+      "sources": [
+        "https://www.planetf1.com/news/2026-las-vegas-grand-prix-race-report",
+        "https://www.gpblog.com/en/news/f1-full-results-verstappen-fends-off-the-competition-to-win-the-las-vegas-gp"
+      ],
+      "date": "2026-11-21",
+      "url": "https://www.planetf1.com/news/2026-las-vegas-grand-prix-race-report",
+      "scores": {
+        "sports": "High",
         "fashion": "Very low",
         "marketing": "Low"
       }
@@ -65,73 +68,60 @@
   ],
   "fashion": [
     {
-      "headline": "Liberty and Barbour team up to reimagine classic prints on outerwear",
-      "summary": "Two heritage British names are combining Liberty's archive prints with Barbour's outerwear. It is a collaboration between established brands rather than a routine product drop. The source gives only a short picture-led item, so details are limited.",
+      "headline": "Dior names Stray Kids' Hyunjin as brand ambassador",
+      "summary": "WWD reports exclusively that the K-pop star will represent Dior's beauty division and the collections designed by Jonathan Anderson. He joins a roster that includes BTS's Jimin. WWD frames the move as part of Asian celebrities' continued dominance in generating earned media value for luxury brands.",
       "sources": [
-        "TheIndustry.fashion"
+        "https://wwd.com/fashion-news/fashion-scoops/dior-brand-ambassador-stray-kids-hyunjin-k-pop-star-1239427975/"
       ],
       "date": "2026-11-20",
-      "url": "https://www.theindustry.fashion/",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/dior-brand-ambassador-stray-kids-hyunjin-k-pop-star-1239427975/",
       "scores": {
         "sports": "Very low",
-        "fashion": "Medium",
-        "marketing": "Low"
+        "fashion": "High",
+        "marketing": "Medium"
       }
     }
   ],
   "marketing": [
     {
-      "headline": "Southgate and Joe Cole tell brands not to 'dumb down' for sports fans",
-      "summary": "Campaign reports on advice from Gareth Southgate and Joe Cole to marketers about how they speak to sports audiences. The names carry cultural weight, and the piece reports their views directly. The link goes to Campaign's media section page because I could not retrieve the individual article URL.",
+      "headline": "Adidas crowned Brand of the Year at the 2026 Marketing Week Awards; Lloyds' Suresh Balaji named Marketer of the Year",
+      "summary": "Adidas won Brand of the Year for its bounce-back, ahead of Allica Bank, Currys, Nationwide, Tony's Chocolonely and Waitrose. Lucky Saint and Anthropic were also big winners. Mother took Agency of the Year and Paddy Power was named Marketing Team of the Year. Lloyds CMO Suresh Balaji was named Marketer of the Year.",
       "sources": [
-        "Campaign"
+        "https://marketingweek.com/adidas-brand-year-accolade",
+        "https://www.marketingweek.com/marketing-news/"
       ],
-      "date": "2026-11-19",
-      "url": "https://www.campaignlive.co.uk/news/media",
+      "date": "2026-11-20",
+      "url": "https://marketingweek.com/adidas-brand-year-accolade",
       "scores": {
-        "sports": "Medium",
+        "sports": "Low",
+        "fashion": "Medium",
+        "marketing": "Very high"
+      }
+    },
+    {
+      "headline": "Patricia Oliva promoted to CMO of Danone USA",
+      "summary": "Oliva, a Danone veteran of nearly 25 years, takes over Danone USA's marketing organisation. Her remit covers brand growth, consumer demand, innovation and marketing capabilities. She was previously Category General Manager for US Beverages, Plant-Based & Marketing Excellence.",
+      "sources": [
+        "https://www.exchange4media.com/people-movement-news/patricia-oliva-named-cmo-of-danone-usa-160499.html"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.exchange4media.com/people-movement-news/patricia-oliva-named-cmo-of-danone-usa-160499.html",
+      "scores": {
+        "sports": "Very low",
         "fashion": "Very low",
         "marketing": "High"
       }
     },
     {
-      "headline": "M&S overtakes John Lewis as consumers' favourite Christmas ad, data finds",
-      "summary": "Exclusive data shared with Marketing Week shows M&S has taken the lead as people's favourite Christmas ad so far. John Lewis, Aldi, Sainsbury's and Tesco follow, and Aldi still leads on branded recognition.",
+      "headline": "Future of Marketing Briefing: consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
+      "summary": "Digiday analyses how firms such as Deloitte are pitching 'brand to cash' systems that need sign-off above the CMO. It also covers how AI is moving marketing decisions into rooms where the CFO and CIO sit. The analysis looks at what this means for agency holding companies and for the CMO's role.",
       "sources": [
-        "Marketing Week"
+        "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/"
       ],
       "date": "2026-11-20",
-      "url": "https://www.marketingweek.com/ms-john-lewis-christmas-ad/",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/",
       "scores": {
         "sports": "Very low",
-        "fashion": "Low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "At the NWSL championship, sponsors are putting athletes first",
-      "summary": "Marketing Brew looks at how brands activated around this year's NWSL championship, with the players at the centre of the work. This is part of the continuing commercial growth of women's football. The link goes to Marketing Brew's homepage because I could not retrieve the individual article URL.",
-      "sources": [
-        "Marketing Brew"
-      ],
-      "date": "2026-11-20",
-      "url": "https://www.marketingbrew.com/",
-      "scores": {
-        "sports": "High",
-        "fashion": "Low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Whoop becomes latest brand to combine a central F1 deal with a team-level agreement",
-      "summary": "Whoop's biometric technology will feature in F1 broadcasts from 2027. It joins a growing group of brands that are merging a series-wide F1 sponsorship with an existing team deal. The link goes to SportBusiness's news page because I could not retrieve the individual article URL.",
-      "sources": [
-        "SportBusiness"
-      ],
-      "date": "2026-11-19",
-      "url": "https://www.sportbusiness.com/news/",
-      "scores": {
-        "sports": "Medium",
         "fashion": "Very low",
         "marketing": "High"
       }
