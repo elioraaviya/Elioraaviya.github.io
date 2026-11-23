@@ -1,130 +1,55 @@
 {
-  "updated": "2026-11-22T05:44:37.332Z",
-  "intersection": [
-    {
-      "headline": "Nike and Formula 1 announce long-term global partnership, with a Las Vegas Grand Prix capsule collection as a preview",
-      "summary": "Nike has signed a multi-year global partnership with F1, with the deal starting fully in 2027. It covers product, innovation, design and race-weekend experiences, including F1 uniforms and F1 Academy apparel. A limited-edition Las Vegas Grand Prix x Nike capsule launched on 20 November at the F1 Hub and Nike retail locations in Las Vegas. More product and experience details are due later.",
-      "sources": [
-        "https://sports.yahoo.com/articles/nike-announces-long-term-partnership-152104208.html",
-        "https://ministryofsport.com/formula-1-signs-with-nike-across-f1-and-f1-academy/"
-      ],
-      "date": "2026-11-20",
-      "url": "https://sports.yahoo.com/articles/nike-announces-long-term-partnership-152104208.html",
-      "scores": {
-        "sports": "High",
-        "fashion": "Medium",
-        "marketing": "High"
-      }
-    }
-  ],
+  "updated": "2026-11-23T05:53:00.623Z",
+  "intersection": [],
   "sports": [
     {
+      "headline": "Alcaraz beats world No. 1 Zverev to win his first ATP Finals title",
+      "summary": "Carlos Alcaraz beat Alexander Zverev 6-2, 7-6(7) in the Turin final on Sunday, saving three set points in the tie-break. He becomes the fourth man to win all four Grand Slams and the ATP Finals, after Agassi, Federer and Djokovic. It is his sixth title of 2026 and he finishes the year on a 14-match winning run.",
+      "sources": [
+        "Tennis Majors",
+        "The Japan Times",
+        "Bangkok Post (AFP)"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/breaking-news-alcaraz-beats-zverev-to-win-the-atp-finals-for-the-first-time-867706.html",
+      "scores": {
+        "sports": "Very high",
+        "fashion": "Low",
+        "marketing": "Low"
+      }
+    },
+    {
       "headline": "Kansas City Current win first NWSL Championship, beating Washington Spirit 2-1",
-      "summary": "Kansas City won the franchise's first NWSL title at Audi Field on 21 November. Vanessa DiBernardo scored an Olimpico (a goal direct from a corner) and Debinha added a second late on. Trinity Rodman pulled one back in stoppage time, so the Spirit lost a third straight final. ESPN notes it was the seventh different franchise to win the title.",
+      "summary": "The Current won their first NWSL title on Saturday at Audi Field, with goals from Vanessa DiBernardo (also the MVP) and Debinha. Trinity Rodman pulled one back late for the Spirit, who lost a third straight final. Kansas City got there under first-year coach Chris Armas.",
       "sources": [
-        "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit",
-        "https://www.cbsnews.com/news/nwsl-championship-kansas-city-current-washington-spirit/",
-        "https://www.bostonglobe.com/2026/11/21/sports/current-spirit-nwsl-championship-game/"
+        "Yahoo Sports (USA TODAY)",
+        "Sunday Guardian Live"
       ],
-      "date": "2026-11-21",
-      "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit",
+      "date": "2026-11-22",
+      "url": "https://sports.yahoo.com/articles/nwsl-winners-losers-mom-v-062926100.html",
       "scores": {
-        "sports": "High",
+        "sports": "Very high",
         "fashion": "Very low",
         "marketing": "Low"
       }
     },
     {
-      "headline": "FIFA's $1.5B 2030 World Cup US rights push faces a shrinking field as major networks exit",
-      "summary": "Several major US networks and streamers have pulled out of bidding for the 2030 men's World Cup rights, including ESPN, NBCUniversal and YouTube. That leaves Fox (in a joint bid with Univision) and Netflix as the leading contenders. FIFA wants more than $1.5bn and aims to choose a winner by the end of the year. This follows a record-viewership 2026 tournament.",
+      "headline": "Verstappen wins Las Vegas GP from Norris and Piastri after a 35-lead-change race",
+      "summary": "Max Verstappen took his third Las Vegas win in four years, holding off Lando Norris by 0.639s and Oscar Piastri finishing third. Both Mercedes cars fell back late in the race. The title was already decided, with Kimi Antonelli champion. Verstappen's fourth win in six races has put him second in the standings.",
       "sources": [
-        "https://frontofficesports.com/article/fifas-1-5b-world-cup-rights-push-faces-shrinking-field/",
-        "https://www.thewrap.com/media-platforms/tv/youtube-2030-world-cup-tv-rights-bidding/",
-        "https://awfulannouncing.com/soccer/youtube-latest-contender-to-bow-out-of-2030-world-cup-bid.html"
+        "Formula1.com",
+        "RaceFans",
+        "ESPN"
       ],
-      "date": "2026-11-21",
-      "url": "https://frontofficesports.com/article/fifas-1-5b-world-cup-rights-push-faces-shrinking-field/",
+      "date": "2026-11-22",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
       "scores": {
-        "sports": "High",
-        "fashion": "Very low",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "Verstappen wins Las Vegas Grand Prix in slipstream thriller",
-      "summary": "Max Verstappen won the Las Vegas Grand Prix by 0.6s from Lando Norris after the lead changed hands repeatedly with Mercedes' George Russell and Kimi Antonelli. Oscar Piastri completed a double McLaren podium. The report is from Planet F1, and I could not reconcile the championship standings across the sources I found.",
-      "sources": [
-        "https://www.planetf1.com/news/2026-las-vegas-grand-prix-race-report",
-        "https://www.gpblog.com/en/news/f1-full-results-verstappen-fends-off-the-competition-to-win-the-las-vegas-gp"
-      ],
-      "date": "2026-11-21",
-      "url": "https://www.planetf1.com/news/2026-las-vegas-grand-prix-race-report",
-      "scores": {
-        "sports": "High",
+        "sports": "Very high",
         "fashion": "Very low",
         "marketing": "Low"
       }
     }
   ],
-  "fashion": [
-    {
-      "headline": "Dior names Stray Kids' Hyunjin as brand ambassador",
-      "summary": "WWD reports exclusively that the K-pop star will represent Dior's beauty division and the collections designed by Jonathan Anderson. He joins a roster that includes BTS's Jimin. WWD frames the move as part of Asian celebrities' continued dominance in generating earned media value for luxury brands.",
-      "sources": [
-        "https://wwd.com/fashion-news/fashion-scoops/dior-brand-ambassador-stray-kids-hyunjin-k-pop-star-1239427975/"
-      ],
-      "date": "2026-11-20",
-      "url": "https://wwd.com/fashion-news/fashion-scoops/dior-brand-ambassador-stray-kids-hyunjin-k-pop-star-1239427975/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Medium"
-      }
-    }
-  ],
-  "marketing": [
-    {
-      "headline": "Adidas crowned Brand of the Year at the 2026 Marketing Week Awards; Lloyds' Suresh Balaji named Marketer of the Year",
-      "summary": "Adidas won Brand of the Year for its bounce-back, ahead of Allica Bank, Currys, Nationwide, Tony's Chocolonely and Waitrose. Lucky Saint and Anthropic were also big winners. Mother took Agency of the Year and Paddy Power was named Marketing Team of the Year. Lloyds CMO Suresh Balaji was named Marketer of the Year.",
-      "sources": [
-        "https://marketingweek.com/adidas-brand-year-accolade",
-        "https://www.marketingweek.com/marketing-news/"
-      ],
-      "date": "2026-11-20",
-      "url": "https://marketingweek.com/adidas-brand-year-accolade",
-      "scores": {
-        "sports": "Low",
-        "fashion": "Medium",
-        "marketing": "Very high"
-      }
-    },
-    {
-      "headline": "Patricia Oliva promoted to CMO of Danone USA",
-      "summary": "Oliva, a Danone veteran of nearly 25 years, takes over Danone USA's marketing organisation. Her remit covers brand growth, consumer demand, innovation and marketing capabilities. She was previously Category General Manager for US Beverages, Plant-Based & Marketing Excellence.",
-      "sources": [
-        "https://www.exchange4media.com/people-movement-news/patricia-oliva-named-cmo-of-danone-usa-160499.html"
-      ],
-      "date": "2026-11-20",
-      "url": "https://www.exchange4media.com/people-movement-news/patricia-oliva-named-cmo-of-danone-usa-160499.html",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Future of Marketing Briefing: consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
-      "summary": "Digiday analyses how firms such as Deloitte are pitching 'brand to cash' systems that need sign-off above the CMO. It also covers how AI is moving marketing decisions into rooms where the CFO and CIO sit. The analysis looks at what this means for agency holding companies and for the CMO's role.",
-      "sources": [
-        "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/"
-      ],
-      "date": "2026-11-20",
-      "url": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    }
-  ]
+  "fashion": [],
+  "marketing": []
 }
