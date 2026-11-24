@@ -1,55 +1,140 @@
 {
-  "updated": "2026-11-23T05:53:00.623Z",
+  "updated": "2026-11-24T05:48:09.957Z",
   "intersection": [],
   "sports": [
     {
-      "headline": "Alcaraz beats world No. 1 Zverev to win his first ATP Finals title",
-      "summary": "Carlos Alcaraz beat Alexander Zverev 6-2, 7-6(7) in the Turin final on Sunday, saving three set points in the tie-break. He becomes the fourth man to win all four Grand Slams and the ATP Finals, after Agassi, Federer and Djokovic. It is his sixth title of 2026 and he finishes the year on a 14-match winning run.",
+      "headline": "FIFA confirms US-led 2031 Women's World Cup and England-led UK bid for 2035",
+      "summary": "FIFA confirmed the United States will lead a four-nation 2031 Women's World Cup with Mexico, Costa Rica and Jamaica. A UK project led by England was ratified for 2035. Both are uncontested bids for the first 48-team, 104-game editions. Winning bidders and Gianni Infantino promised to reinvest profits in women's football. Netflix said it will be the exclusive US home of the 2031 coverage.",
       "sources": [
-        "Tennis Majors",
-        "The Japan Times",
-        "Bangkok Post (AFP)"
+        "AP (via WSMV)",
+        "CBC Sports",
+        "NBC News"
       ],
-      "date": "2026-11-22",
-      "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/breaking-news-alcaraz-beats-zverev-to-win-the-atp-finals-for-the-first-time-867706.html",
-      "scores": {
-        "sports": "Very high",
-        "fashion": "Low",
-        "marketing": "Low"
-      }
-    },
-    {
-      "headline": "Kansas City Current win first NWSL Championship, beating Washington Spirit 2-1",
-      "summary": "The Current won their first NWSL title on Saturday at Audi Field, with goals from Vanessa DiBernardo (also the MVP) and Debinha. Trinity Rodman pulled one back late for the Spirit, who lost a third straight final. Kansas City got there under first-year coach Chris Armas.",
-      "sources": [
-        "Yahoo Sports (USA TODAY)",
-        "Sunday Guardian Live"
-      ],
-      "date": "2026-11-22",
-      "url": "https://sports.yahoo.com/articles/nwsl-winners-losers-mom-v-062926100.html",
+      "date": "2026-11-23",
+      "url": "https://www.wsmv.com/2026/11/23/fifa-picks-us-led-bid-co-host-2031-womens-world-cup/?outputType=amp",
       "scores": {
         "sports": "Very high",
         "fashion": "Very low",
-        "marketing": "Low"
+        "marketing": "Medium"
       }
     },
     {
-      "headline": "Verstappen wins Las Vegas GP from Norris and Piastri after a 35-lead-change race",
-      "summary": "Max Verstappen took his third Las Vegas win in four years, holding off Lando Norris by 0.639s and Oscar Piastri finishing third. Both Mercedes cars fell back late in the race. The title was already decided, with Kimi Antonelli champion. Verstappen's fourth win in six races has put him second in the standings.",
+      "headline": "Verstappen wins wild Las Vegas Grand Prix as Ferrari team-mates collide again",
+      "summary": "Max Verstappen held off a race-long challenge from the Mercedes pair to win by 0.639s from Lando Norris, with Oscar Piastri third. There were 34 lead changes and more than 300 overtakes. Charles Leclerc was penalised for a collision with Lewis Hamilton. Verstappen's fourth win in six races all but secures second in the standings, behind champion Kimi Antonelli.",
       "sources": [
+        "Sky Sports",
         "Formula1.com",
-        "RaceFans",
-        "ESPN"
+        "The Race"
       ],
       "date": "2026-11-22",
-      "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
+      "url": "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
       "scores": {
-        "sports": "Very high",
+        "sports": "High",
         "fashion": "Very low",
         "marketing": "Low"
       }
     }
   ],
-  "fashion": [],
-  "marketing": []
+  "fashion": [
+    {
+      "headline": "Paolo Bulgari, architect of the jeweller's rise to global luxury brand, dies at 89",
+      "summary": "The Italian jeweller helped lift the international profile of the family firm with bold use of colourful gemstones. His clients included Sophia Loren and Elizabeth Taylor.",
+      "sources": [
+        "The Business of Fashion"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.businessoffashion.com/news/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "Black Friday is a big deal for luxury, just don't call it Black Friday",
+      "summary": "High-end labels are looking to capture Black Friday spending without adopting the discounting that defines the event. BoF reports on how luxury houses are approaching the month-long sales period.",
+      "sources": [
+        "The Business of Fashion"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.businessoffashion.com/topics/retail/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "High",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Nicole Farhi relaunches with 'renewed creative vision'",
+      "summary": "The British label has relaunched with a renewed creative direction, reported by TheIndustry.fashion on 23 November.",
+      "sources": [
+        "TheIndustry.fashion"
+      ],
+      "date": "2026-11-23",
+      "url": "https://www.theindustry.fashion/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Medium",
+        "marketing": "Low"
+      }
+    }
+  ],
+  "marketing": [
+    {
+      "headline": "F1 sponsorship spend forecast to pass $3bn in 2026 as marketing chiefs question what logos actually buy",
+      "summary": "Ampere Analysis forecasts F1 sponsorship spend will pass $3bn in 2026, up 15% on last season and 66% since 2022. Qualcomm's CMO argues deals should be built around brand objectives rather than promises of exposure. Williams recorded the biggest year-on-year revenue jump on the grid, driven by new partners including title sponsor Atlassian. MarketScale summarises original Business Insider reporting by Lara O'Reilly.",
+      "sources": [
+        "MarketScale (summarising Business Insider)"
+      ],
+      "date": "2026-11-23",
+      "url": "https://marketscale.com/industries/sports-entertainment/how-f1-sponsors-are-writing-return-into-81-million-deals",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Amazon Prime Video's Black Friday sports slate draws nearly 25% more first-time live-sports advertisers",
+      "summary": "Amazon Prime Video's Alan Moss says advertisers new to live sports are up nearly 25% year on year for its 15-hour Black Friday sports programming. More than 100 advertisers are involved, with shoppable and interactive ad formats a key draw.",
+      "sources": [
+        "Adweek"
+      ],
+      "date": "2026-11-24",
+      "url": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "BCG: 27% of marketing teams could soon be AI, with agencies set to lose the most",
+      "summary": "BCG analysis suggests agency talent could fall from 25% to 16% of the marketing team mix within three years. 73% of CMOs say media agencies are exposed. This is a notable shift for marketing careers and structures.",
+      "sources": [
+        "BestMediaInfo (reporting BCG)"
+      ],
+      "date": "2026-11-23",
+      "url": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-november-23-2026-12832866",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "A decade in the jungle: Tombola and ITV on the 'compound gains' of the I'm a Celeb sponsorship",
+      "summary": "Tombola has sponsored I'm a Celeb for 10 years. The partnership has evolved well beyond traditional TV idents as the media landscape changes.",
+      "sources": [
+        "Marketing Week"
+      ],
+      "date": "2026-11-23",
+      "url": "https://www.marketingweek.com/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
+        "marketing": "High"
+      }
+    }
+  ]
 }
