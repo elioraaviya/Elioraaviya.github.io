@@ -1,33 +1,31 @@
 {
-  "updated": "2026-11-24T05:48:09.957Z",
+  "updated": "2026-11-25T05:46:32.727Z",
   "intersection": [],
   "sports": [
     {
-      "headline": "FIFA confirms US-led 2031 Women's World Cup and England-led UK bid for 2035",
-      "summary": "FIFA confirmed the United States will lead a four-nation 2031 Women's World Cup with Mexico, Costa Rica and Jamaica. A UK project led by England was ratified for 2035. Both are uncontested bids for the first 48-team, 104-game editions. Winning bidders and Gianni Infantino promised to reinvest profits in women's football. Netflix said it will be the exclusive US home of the 2031 coverage.",
+      "headline": "LA28 names Phillips 66 its official fuel partner, drawing backlash from critics",
+      "summary": "Phillips 66 will supply fuel for vehicles and equipment at the 2028 Games and for the torch relay. Two LA City Council members and environmental critics have called for the deal to be cancelled. Critics now have an early flashpoint over fossil-fuel sponsorship ahead of the Games.",
       "sources": [
-        "AP (via WSMV)",
-        "CBC Sports",
-        "NBC News"
+        "LAist"
       ],
-      "date": "2026-11-23",
-      "url": "https://www.wsmv.com/2026/11/23/fifa-picks-us-led-bid-co-host-2031-womens-world-cup/?outputType=amp",
+      "date": "2026-11-24",
+      "url": "https://laist.com/news/climate-environment/la28-names-phillips-66-its-official-fuel-partner-critics-want-the-deal-canceled",
       "scores": {
-        "sports": "Very high",
+        "sports": "High",
         "fashion": "Very low",
-        "marketing": "Medium"
+        "marketing": "High"
       }
     },
     {
-      "headline": "Verstappen wins wild Las Vegas Grand Prix as Ferrari team-mates collide again",
-      "summary": "Max Verstappen held off a race-long challenge from the Mercedes pair to win by 0.639s from Lando Norris, with Oscar Piastri third. There were 34 lead changes and more than 300 overtakes. Charles Leclerc was penalised for a collision with Lewis Hamilton. Verstappen's fourth win in six races all but secures second in the standings, behind champion Kimi Antonelli.",
+      "headline": "Davis Cup Final 8 opens in Bologna as Czechia beat Canada to reach the semi-finals",
+      "summary": "Jiri Lehecka beat Felix Auger-Aliassime and Tomas Machac beat Liam Draxl to give Czechia a 2-0 win on day one. Hosts Italy face South Korea on 25 November, and Great Britain, Germany, Spain and Austria play on 26 November. Rolex has also extended its Davis Cup partnership.",
       "sources": [
-        "Sky Sports",
-        "Formula1.com",
-        "The Race"
+        "ATP Tour",
+        "Davis Cup",
+        "Tennis Canada"
       ],
-      "date": "2026-11-22",
-      "url": "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
+      "date": "2026-11-24",
+      "url": "https://www.atptour.com/en/scores/current/davis-cup-finals/8099/country-results",
       "scores": {
         "sports": "High",
         "fashion": "Very low",
@@ -37,43 +35,33 @@
   ],
   "fashion": [
     {
-      "headline": "Paolo Bulgari, architect of the jeweller's rise to global luxury brand, dies at 89",
-      "summary": "The Italian jeweller helped lift the international profile of the family firm with bold use of colourful gemstones. His clients included Sophia Loren and Elizabeth Taylor.",
+      "headline": "Shein to pay $100 million to settle FTC deceptive-practices case",
+      "summary": "The FTC says Shein misled US shoppers on shipping times, suppressed negative reviews and made deceptive cotton-origin and supply-chain claims. The settlement needs court approval and bars Shein from those practices. It is roughly ten times the largest comparable review-and-shipping penalty, and comes after Shein's Hong Kong listing in September. Shein says it does not admit liability.",
       "sources": [
-        "The Business of Fashion"
+        "FTC",
+        "Bloomberg",
+        "CBS News"
       ],
-      "date": "2026-11-22",
-      "url": "https://www.businessoffashion.com/news/",
+      "date": "2026-11-24",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/shein-pay-100-million-over-allegations-deceptive-unfair-practices",
       "scores": {
         "sports": "Very low",
         "fashion": "High",
-        "marketing": "Low"
+        "marketing": "High"
       }
     },
     {
-      "headline": "Black Friday is a big deal for luxury, just don't call it Black Friday",
-      "summary": "High-end labels are looking to capture Black Friday spending without adopting the discounting that defines the event. BoF reports on how luxury houses are approaching the month-long sales period.",
+      "headline": "Dick's Sporting Goods shares surge as Foot Locker returns to growth",
+      "summary": "Dick's raised its full-year earnings forecast after Foot Locker posted 0.5% comparable-sales growth, with the US banner up more than 4%. Shares jumped about 15%, with some reports putting the intraday gain at 17%. Foot Locker still expects a $40m-$80m full-year loss, and management said Nike's Jordan reset will be painful for it in the short term.",
       "sources": [
-        "The Business of Fashion"
+        "Bloomberg",
+        "FashionNetwork",
+        "StockAnalysis"
       ],
-      "date": "2026-11-22",
-      "url": "https://www.businessoffashion.com/topics/retail/",
+      "date": "2026-11-24",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/dick-s-surges-after-foot-locker-unit-shows-signs-of-turnaround",
       "scores": {
-        "sports": "Very low",
-        "fashion": "High",
-        "marketing": "Medium"
-      }
-    },
-    {
-      "headline": "Nicole Farhi relaunches with 'renewed creative vision'",
-      "summary": "The British label has relaunched with a renewed creative direction, reported by TheIndustry.fashion on 23 November.",
-      "sources": [
-        "TheIndustry.fashion"
-      ],
-      "date": "2026-11-23",
-      "url": "https://www.theindustry.fashion/",
-      "scores": {
-        "sports": "Very low",
+        "sports": "Medium",
         "fashion": "Medium",
         "marketing": "Low"
       }
@@ -81,58 +69,16 @@
   ],
   "marketing": [
     {
-      "headline": "F1 sponsorship spend forecast to pass $3bn in 2026 as marketing chiefs question what logos actually buy",
-      "summary": "Ampere Analysis forecasts F1 sponsorship spend will pass $3bn in 2026, up 15% on last season and 66% since 2022. Qualcomm's CMO argues deals should be built around brand objectives rather than promises of exposure. Williams recorded the biggest year-on-year revenue jump on the grid, driven by new partners including title sponsor Atlassian. MarketScale summarises original Business Insider reporting by Lara O'Reilly.",
+      "headline": "Meta launches AI shopping agent Muse in the UK with M&S, Asos and JD Sports as launch partners",
+      "summary": "The agent can shop on users' behalf and arrives at the start of the holiday season. Marks & Spencer, Asos and JD Sports are signed up as launch partners, a notable step for AI-led retail marketing in the UK.",
       "sources": [
-        "MarketScale (summarising Business Insider)"
-      ],
-      "date": "2026-11-23",
-      "url": "https://marketscale.com/industries/sports-entertainment/how-f1-sponsors-are-writing-return-into-81-million-deals",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "Amazon Prime Video's Black Friday sports slate draws nearly 25% more first-time live-sports advertisers",
-      "summary": "Amazon Prime Video's Alan Moss says advertisers new to live sports are up nearly 25% year on year for its 15-hour Black Friday sports programming. More than 100 advertisers are involved, with shoppable and interactive ad formats a key draw.",
-      "sources": [
-        "Adweek"
+        "Business of Fashion"
       ],
       "date": "2026-11-24",
-      "url": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
-      "scores": {
-        "sports": "Medium",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "BCG: 27% of marketing teams could soon be AI, with agencies set to lose the most",
-      "summary": "BCG analysis suggests agency talent could fall from 25% to 16% of the marketing team mix within three years. 73% of CMOs say media agencies are exposed. This is a notable shift for marketing careers and structures.",
-      "sources": [
-        "BestMediaInfo (reporting BCG)"
-      ],
-      "date": "2026-11-23",
-      "url": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-november-23-2026-12832866",
+      "url": "https://www.businessoffashion.com/news/",
       "scores": {
         "sports": "Very low",
-        "fashion": "Very low",
-        "marketing": "High"
-      }
-    },
-    {
-      "headline": "A decade in the jungle: Tombola and ITV on the 'compound gains' of the I'm a Celeb sponsorship",
-      "summary": "Tombola has sponsored I'm a Celeb for 10 years. The partnership has evolved well beyond traditional TV idents as the media landscape changes.",
-      "sources": [
-        "Marketing Week"
-      ],
-      "date": "2026-11-23",
-      "url": "https://www.marketingweek.com/",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Very low",
+        "fashion": "Medium",
         "marketing": "High"
       }
     }
