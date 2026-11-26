@@ -1,33 +1,108 @@
 {
-  "updated": "2026-11-25T05:46:32.727Z",
-  "intersection": [],
+  "updated": "2026-11-26T05:47:08.364Z",
+  "intersection": [
+    {
+      "headline": "Nike pairs NFL stars with designers for tunnel fashion: Ja'Marr Chase and Advisry's Keith Herron create 'Sport Luxe' look",
+      "summary": "Nike's athlete-styling programme pairs NFL players with designers to create custom pregame-arrival outfits. Earlier pairings were CeeDee Lamb with Bode and Saquon Barkley with Public School New York. Chase's look reworks Nike Tech apparel with Advisry. It turns tunnel walks into a sport, fashion and brand-marketing platform.",
+      "sources": [
+        "Yahoo Sports",
+        "House of Heat"
+      ],
+      "date": "2026-11-25",
+      "url": "https://sports.yahoo.com/sports-business/articles/jamarr-chase-gives-nike-high-212500485.html",
+      "scores": {
+        "sports": "Medium",
+        "fashion": "High",
+        "marketing": "Medium"
+      }
+    }
+  ],
   "sports": [
     {
-      "headline": "LA28 names Phillips 66 its official fuel partner, drawing backlash from critics",
-      "summary": "Phillips 66 will supply fuel for vehicles and equipment at the 2028 Games and for the torch relay. Two LA City Council members and environmental critics have called for the deal to be cancelled. Critics now have an early flashpoint over fossil-fuel sponsorship ahead of the Games.",
+      "headline": "Senegal reinstated as AFCON 2025 champions after CAS overturns CAF ruling",
+      "summary": "The Court of Arbitration for Sport unanimously upheld Senegal's appeal. It set aside the CAF Appeal Board decision that had awarded Morocco the title by forfeit, and restored Senegal's 1-0 win in the January final. The panel said the referee had sole authority over the match after Senegal's walk-off.",
       "sources": [
-        "LAist"
+        "CNN",
+        "Al Jazeera",
+        "USA Today"
       ],
       "date": "2026-11-24",
-      "url": "https://laist.com/news/climate-environment/la28-names-phillips-66-its-official-fuel-partner-critics-want-the-deal-canceled",
+      "url": "https://www.cnn.com/2026/11/24/sport/afcon-cas-decision-morocco-senegal",
       "scores": {
-        "sports": "High",
+        "sports": "Very high",
         "fashion": "Very low",
-        "marketing": "High"
+        "marketing": "Low"
       }
     },
     {
-      "headline": "Davis Cup Final 8 opens in Bologna as Czechia beat Canada to reach the semi-finals",
-      "summary": "Jiri Lehecka beat Felix Auger-Aliassime and Tomas Machac beat Liam Draxl to give Czechia a 2-0 win on day one. Hosts Italy face South Korea on 25 November, and Great Britain, Germany, Spain and Austria play on 26 November. Rolex has also extended its Davis Cup partnership.",
+      "headline": "Steelers bench Aaron Rodgers, then move to cut him after he said coach McCarthy fell asleep in meetings",
+      "summary": "The Steelers benched the 42-year-old quarterback late Tuesday, despite his one-year deal worth about $22.5m. After Rodgers criticised head coach Mike McCarthy on the Pat McAfee Show on Wednesday, the team was reported to be preparing to release him. This could be his final NFL season.",
       "sources": [
-        "ATP Tour",
-        "Davis Cup",
-        "Tennis Canada"
+        "Front Office Sports"
       ],
-      "date": "2026-11-24",
-      "url": "https://www.atptour.com/en/scores/current/davis-cup-finals/8099/country-results",
+      "date": "2026-11-25",
+      "url": "https://frontofficesports.com/article/aaron-rodgers-mike-mccarthy-1-2-3-packers/",
+      "scores": {
+        "sports": "Very high",
+        "fashion": "Very low",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "NBA assembles €10bn arena fund to support European expansion",
+      "summary": "Investors including Apollo, Ares and JP Morgan are backing an initiative to fund and develop arenas across Europe. The aim is to lure top clubs to the NBA's planned European league. The article URL could not be confirmed, so the link is to the SportBusiness news listing.",
+      "sources": [
+        "SportsPro",
+        "SportBusiness"
+      ],
+      "date": "2026-11-25",
+      "url": "https://www.sportbusiness.com/news/",
       "scores": {
         "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Newcastle's Saudi owner PIF to sell up to 25% of the club via new shares",
+      "summary": "PIF has hired JP Morgan to sell up to a quarter of Newcastle through a new share issue. The money would go into the club to fund a new stadium of around £1.3bn or a redevelopment of St James' Park, and PIF would stay the majority shareholder. The move comes as PIF scales back its sports spending.",
+      "sources": [
+        "Goal (citing The Athletic)",
+        "New Arab (citing FT)",
+        "Insider Sport"
+      ],
+      "date": "2026-11-25",
+      "url": "https://www.goal.com/en/news/newcastle-saudi-owners-pif-look-sell-25-per-cent-club-magpies-chase-1-3bn-new-stadium-dream/blt470ad94ca06e4116",
+      "scores": {
+        "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Low"
+      }
+    },
+    {
+      "headline": "NFL's first Thanksgiving Eve game on Netflix takes on NBA and NHL for viewers",
+      "summary": "Netflix streams Packers-Rams in the first NFL Thanksgiving Eve telecast, under a deal running to 2029. It goes head-to-head with an NBA tripleheader on ESPN and an NHL doubleheader on TNT. The story is a test of streaming's pull for live sport.",
+      "sources": [
+        "Front Office Sports"
+      ],
+      "date": "2026-11-25",
+      "url": "https://frontofficesports.com/article/nfls-thanksgiving-eve-debut-challenges-nba-nhl/",
+      "scores": {
+        "sports": "High",
+        "fashion": "Very low",
+        "marketing": "Medium"
+      }
+    },
+    {
+      "headline": "Michigan rescinds Trev Alberts' athletic director offer, faces potential $17.2m buyout",
+      "summary": "A source told FOS that incoming university president C. Cybele Raver made the decision to reverse course. Alberts' attorney says the full $17.2m buyout is owed and that the MOU has no contingency language.",
+      "sources": [
+        "Front Office Sports"
+      ],
+      "date": "2026-11-24",
+      "url": "https://frontofficesports.com/article/michigan-rescinds-trev-alberts-ad-offer-faces-potential-17-2m-buyout/",
+      "scores": {
+        "sports": "Medium",
         "fashion": "Very low",
         "marketing": "Low"
       }
@@ -35,33 +110,30 @@
   ],
   "fashion": [
     {
-      "headline": "Shein to pay $100 million to settle FTC deceptive-practices case",
-      "summary": "The FTC says Shein misled US shoppers on shipping times, suppressed negative reviews and made deceptive cotton-origin and supply-chain claims. The settlement needs court approval and bars Shein from those practices. It is roughly ten times the largest comparable review-and-shipping penalty, and comes after Shein's Hong Kong listing in September. Shein says it does not admit liability.",
+      "headline": "Marc Jacobs sales hit $509m in its last year under LVMH",
+      "summary": "WWD reports the brand's financials for its final year under LVMH ownership. LVMH agreed to sell it to WHP Global earlier this year, with Marc Jacobs staying on as creative director.",
       "sources": [
-        "FTC",
-        "Bloomberg",
-        "CBS News"
+        "WWD"
       ],
-      "date": "2026-11-24",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/shein-pay-100-million-over-allegations-deceptive-unfair-practices",
+      "date": "2026-11-25",
+      "url": "https://wwd.com/wwd-publications/digital-daily/2026-11-25-1239465445/",
       "scores": {
         "sports": "Very low",
         "fashion": "High",
-        "marketing": "High"
+        "marketing": "Low"
       }
     },
     {
-      "headline": "Dick's Sporting Goods shares surge as Foot Locker returns to growth",
-      "summary": "Dick's raised its full-year earnings forecast after Foot Locker posted 0.5% comparable-sales growth, with the US banner up more than 4%. Shares jumped about 15%, with some reports putting the intraday gain at 17%. Foot Locker still expects a $40m-$80m full-year loss, and management said Nike's Jordan reset will be painful for it in the short term.",
+      "headline": "Victoria's Secret names Edgewell CEO Rod Little as next board chair",
+      "summary": "The lingerie brand announced the appointment, effective after its 2027 annual meeting and subject to shareholder re-election. It is a governance change at a major US fashion retailer. The link is to FashionNetwork US, which carried the news, as no article URL was confirmed.",
       "sources": [
-        "Bloomberg",
         "FashionNetwork",
-        "StockAnalysis"
+        "TheIndustry.fashion"
       ],
       "date": "2026-11-24",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/dick-s-surges-after-foot-locker-unit-shows-signs-of-turnaround",
+      "url": "https://us.fashionnetwork.com/",
       "scores": {
-        "sports": "Medium",
+        "sports": "Very low",
         "fashion": "Medium",
         "marketing": "Low"
       }
@@ -69,16 +141,30 @@
   ],
   "marketing": [
     {
-      "headline": "Meta launches AI shopping agent Muse in the UK with M&S, Asos and JD Sports as launch partners",
-      "summary": "The agent can shop on users' behalf and arrives at the start of the holiday season. Marks & Spencer, Asos and JD Sports are signed up as launch partners, a notable step for AI-led retail marketing in the UK.",
+      "headline": "Pangaia takes its clothes off its website for Black Friday and replaces them with tree-planting projects",
+      "summary": "On 27 November the London-based materials-science brand will swap its entire online assortment for four tree-planting projects that shoppers can fund through Ecodrive. The tagline is 'This Black Friday, no more hoodies. Only trees.' It goes further than its earlier discount-for-donation approach.",
       "sources": [
-        "Business of Fashion"
+        "WWD"
       ],
-      "date": "2026-11-24",
-      "url": "https://www.businessoffashion.com/news/",
+      "date": "2026-11-25",
+      "url": "https://wwd.com/sourcing-journal/industry-news/pangaia-black-friday-tree-planting-ecodrive-1239465101",
       "scores": {
         "sports": "Very low",
         "fashion": "Medium",
+        "marketing": "High"
+      }
+    },
+    {
+      "headline": "Vodafone installs giant hand with remote at Waterloo station to promote TV service",
+      "summary": "An out-of-home stunt created for Vodafone's TV service, covered by Campaign on 24 November. The link is to the Campaign homepage, as the article URL was not confirmed.",
+      "sources": [
+        "Campaign"
+      ],
+      "date": "2026-11-24",
+      "url": "https://www.campaignlive.co.uk/",
+      "scores": {
+        "sports": "Very low",
+        "fashion": "Very low",
         "marketing": "High"
       }
     }
