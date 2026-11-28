@@ -1,69 +1,55 @@
 {
-  "updated": "2026-11-27T05:49:36.976Z",
+  "updated": "2026-11-28T05:46:13.723Z",
   "intersection": [],
   "sports": [
     {
-      "headline": "Morocco plans Swiss appeal after CAS reinstates Senegal as AFCON 2025 champions",
-      "summary": "The Court of Arbitration for Sport unanimously overturned CAF's decision to award the 2025 Africa Cup of Nations title to Morocco, which had given them a 3-0 forfeit win. Senegal's 1-0 win in the January final stands. CAS has since explained its reasoning. It found that the AFCON articles Morocco relied on did not apply, and that the referee's decision to resume the match was binding. CAF has accepted the ruling. Morocco says it will seek relief at the Swiss Federal Tribunal. The verdict itself came on 24 November, just before the 48-hour window. The dates for this item are inferred from relative timestamps, so treat the date as approximate.",
+      "headline": "Nike signs Mexico flag football captain Diana Flores ahead of LA28 Olympic debut",
+      "summary": "Two-time world champion Diana Flores, who captains and plays quarterback for Mexico, has joined Nike as its fourth women's flag football athlete. She will help shape Nike's flag football footwear and apparel. Flag football makes its Olympic debut at LA28, and Nike's $5m girls' flag football grant with the NFL sits behind the push. Nike's own announcement and NBC Sports coverage date from 23 November. The 26 November date used here is the Yahoo Sports/LA Times interview, and Sportico also covered the signing in its 27 November roundup.",
       "sources": [
-        "Vanguard News"
+        "SportsNewsReport (Yahoo Sports, 26 Nov)",
+        "Sportico",
+        "NBC Sports"
       ],
-      "date": "2026-11-25",
-      "url": "https://www.vanguardngr.com/2026/11/cas-explains-decision-to-restore-senegals-afcon-title/",
+      "date": "2026-11-26",
+      "url": "https://sportsnewsreport.com/stories/diana-flores-signs-with-nike-as-flag-football-prepares-for-olympics-mwti4umh-sz70",
       "scores": {
-        "sports": "Very high",
-        "fashion": "Very low",
-        "marketing": "Low"
+        "sports": "High",
+        "fashion": "Low",
+        "marketing": "Medium"
       }
     }
   ],
   "fashion": [
     {
-      "headline": "Isabel Marant names former Courrèges CMO Therese Lundström as chief marketing officer",
-      "summary": "Lundström succeeds Sophie Condroyer and reports to CEO Catherine Jacquet, who took over in June. She will oversee global marketing, communications, press, celebrity relations, events and visual merchandising. Her CV includes Courrèges, Dries Van Noten and Givenchy. The appointment is part of a leadership reset at the French label.",
+      "headline": "Fashion Awards 2026: Ncuti Gatwa to host, Yohji Yamamoto to receive Outstanding Achievement Award",
+      "summary": "The British Fashion Council has named Ncuti Gatwa host of the Fashion Awards at the Royal Albert Hall on 30 November. Yohji Yamamoto receives the Outstanding Achievement Award, Awar Odhiang is Model of the Year and Sandra Choi gets a Special Recognition Award. The Designer of the Year nominees include The Row, Saint Laurent, Tom Ford (Haider Ackermann), Chanel, Celine and Givenchy. The event is the main fundraiser for the BFC Foundation.",
       "sources": [
         "WWD",
-        "Glossy"
+        "FashionUnited"
       ],
-      "date": "2026-11-25",
-      "url": "https://wwd.com/business-news/human-resources/isabel-marant-chief-marketing-officer-therese-lundstrom-1239464350/",
+      "date": "2026-11-27",
+      "url": "https://wwd.com/fashion-news/designer-luxury/fashion-awards-2026-yohji-yamamoto-sandra-choi-ncuti-gatwa-1239467155/",
       "scores": {
         "sports": "Low",
         "fashion": "High",
-        "marketing": "High"
-      }
-    }
-  ],
-  "marketing": [
-    {
-      "headline": "The Ordinary swaps Black Friday sales for a blood drive as other brands also opt out",
-      "summary": "The Ordinary is closing its stores and website today, for the seventh year running. Its Fifth Avenue store in New York and its Toronto store become blood donation sites. London and Copenhagen offer blood-type testing. The campaign is backed by a $125,000 commitment from parent company Deciem and runs under the banner \"Not Everything We Need is For Sale\". Reuters also reports that Italian fashion brand Pinko is sitting out Black Friday for the first time.",
-      "sources": [
-        "Reuters (via Investing.com)",
-        "Inc.",
-        "The Future Laboratory"
-      ],
-      "date": "2026-11-27",
-      "url": "https://investing.com/news/stock-market-news/black-friday-no-thanks-some-brands-say-5051789",
-      "scores": {
-        "sports": "Very low",
-        "fashion": "Medium",
-        "marketing": "High"
+        "marketing": "Low"
       }
     },
     {
-      "headline": "Coca-Cola drops AI for its 2026 holiday ad and goes live-action",
-      "summary": "After two years of AI-generated holiday spots that drew backlash, Coca-Cola's new \"Enjoy Joy\" campaign uses real actors. The company says it is not ruling out AI for future ads. It also says the earlier AI ads passed its own Christmas benchmarks. Fast Company frames the switch as a vibe shift in public attitudes to AI advertising.",
+      "headline": "Martine Rose and Nike unveil the Trax MR, a track-spike-inspired sneaker due in December",
+      "summary": "The Trax MR reworks vintage sprinting spikes into a lifestyle sneaker with an exaggerated, elongated toe. It extends the pair's Shox MR4 collaborations. Rose has also reworked the Nike packaging, adding a vintage-style 'There Is No Finish Line' ad insert shot by Roxy Lee. Reports point to a December 2026 release at about $200. Nike has not yet confirmed the release details.",
       "sources": [
-        "Fast Company"
+        "Pause Magazine",
+        "Sneakers Cartel"
       ],
-      "date": "2026-11-25",
-      "url": "https://www.fastcompany.com/91647554/coca-cola-ditched-the-ai-for-its-new-holiday-ad",
+      "date": "2026-11-27",
+      "url": "https://pausemag.co.uk/2026/11/martine-rose-and-nike-introduce-the-new-trax-mr-sneaker/",
       "scores": {
-        "sports": "Low",
-        "fashion": "Very low",
-        "marketing": "High"
+        "sports": "Medium",
+        "fashion": "High",
+        "marketing": "Medium"
       }
     }
-  ]
+  ],
+  "marketing": []
 }
